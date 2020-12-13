@@ -2,12 +2,12 @@
 
 export OMP_NUM_THREADS=1
 
-: ${NUM_GPUS:=8}
+: ${NUM_GPUS:=4}
 : ${BS:=32}
-: ${GRAD_ACCUMULATION:=1}
+: ${GRAD_ACCUMULATION:=2}
 : ${OUTPUT_DIR:="./output"}
-: ${AMP:=false}
-: ${EPOCHS:=1500}
+: ${AMP:=true}
+: ${EPOCHS:=3000}
 
 [ "$AMP" == "true" ] && AMP_FLAG="--amp"
 
@@ -25,13 +25,14 @@ python -m torch.distributed.launch --nproc_per_node ${NUM_GPUS} train.py \
     --cuda \
     -o "$OUTPUT_DIR/" \
     --log-file "$OUTPUT_DIR/nvlog.json" \
-    --dataset-path LJSpeech-1.1 \
-    --training-files filelists/ljs_mel_dur_pitch_text_train_filelist.txt \
-    --validation-files filelists/ljs_mel_dur_pitch_text_test_filelist.txt \
-    --pitch-mean-std-file LJSpeech-1.1/pitch_char_stats__ljs_audio_text_train_filelist.json \
+    --dataset-path . \
+    --training-files filelists/all_mel_dur_pitch_text_train_filelist.txt \
+    --validation-files filelists/all_mel_dur_pitch_text_val_filelist.txt \
+    --pitch-mean-std-file filelists/pitch_char_stats__all_audio_text_train_filelist.json \
     --epochs ${EPOCHS} \
-    --epochs-per-checkpoint 100 \
+    --epochs-per-checkpoint 200 \
     --warmup-steps 1000 \
+    --n-speakers 2 \
     -lr 0.1 \
     -bs ${BS} \
     --optimizer lamb \

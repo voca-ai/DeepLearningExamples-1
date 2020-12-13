@@ -41,6 +41,7 @@ class TextMelLoader(torch.utils.data.Dataset):
         3) computes mel-spectrograms from audio files.
     """
     def __init__(self, dataset_path, audiopaths_and_text, args, load_mel_from_disk=True):
+        self.dataset_path = dataset_path
         self.audiopaths_and_text = load_filepaths_and_text(
             dataset_path, audiopaths_and_text,
             has_speakers=(args.n_speakers > 1))
@@ -65,7 +66,8 @@ class TextMelLoader(torch.utils.data.Dataset):
             melspec = self.stft.mel_spectrogram(audio_norm)
             melspec = torch.squeeze(melspec, 0)
         else:
-            melspec = torch.load(filename)
+            filename = filename.replace("wavs","mels").replace(".wav",".pt")
+            melspec = torch.load(self.dataset_path+"/"+filename)
             # assert melspec.size(0) == self.stft.n_mel_channels, (
             #     'Mel dimension mismatch: given {}, expected {}'.format(
             #         melspec.size(0), self.stft.n_mel_channels))

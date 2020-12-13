@@ -216,7 +216,13 @@ class FastPitch(nn.Module):
                 mean, std = 218.14, 67.24
             else:
                 mean, std = self.pitch_mean[0], self.pitch_std[0]
-            pitch_pred = pitch_transform(pitch_pred, enc_mask.sum(dim=(1,2)), mean, std)
+            ret = pitch_transform(pitch_pred, dur_pred, mean, std)
+            if type(ret)==tuple:
+                pitch_pred, dur_pred = ret
+            else:
+                pitch_pred = ret
+
+            #pitch_pred = pitch_transform(pitch_pred, enc_mask.sum(dim=(1,2)), mean, std)
 
         if pitch_tgt is None:
             pitch_emb = self.pitch_emb(pitch_pred.unsqueeze(1)).transpose(1, 2)

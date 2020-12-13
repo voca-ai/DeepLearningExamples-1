@@ -16,5 +16,7 @@ for FILELIST in ljs_audio_text_train_filelist.txt \
         --extract-mels \
         --extract-durations \
         --extract-pitch-char \
+        --pitch-mean 220.9216 \
+        --pitch-std 64.7292 \
         --tacotron2-checkpoint ${TACOTRON2}
 done

@@ -144,6 +144,7 @@ def load_and_setup_model(model_name, parser, checkpoint, amp, device,
 
         if 'state_dict' in checkpoint_data:
             sd = checkpoint_data['state_dict']
+            #sd['speaker_emb.weight'] = sd['speaker_emb.weight'] * 0
             if ema and 'ema_state_dict' in checkpoint_data:
                 sd = checkpoint_data['ema_state_dict']
                 status += ' (EMA)'
@@ -225,8 +226,8 @@ def prepare_input_sequence(fields, device, symbol_set, text_cleaners,
 def build_pitch_transformation(args):
     if args.pitch_transform_custom:
         def custom_(pitch, pitch_lens, mean, std):
-            return (pitch_transform_custom(pitch * std + mean, pitch_lens)
-                    - mean) / std
+            ret = pitch_transform_custom(pitch * std + mean, pitch_lens)
+            return ((ret[0] - mean) / std,ret[1])
         return custom_
 
     fun = 'pitch'
@@ -388,6 +389,7 @@ def main():
                         fname = b['output'][i] if 'output' in b else f'audio_{i}.wav'
                         audio_path = Path(args.output, fname)
                         write(audio_path, args.sampling_rate, audio.cpu().numpy())
+                        torch.save(torch.squeeze(mel,0),str(audio_path).replace('.wav','_mel.pt'),_use_new_zipfile_serialization=False)
 
             if generator is not None and waveglow is not None:
                 log(rep, {"latency": (gen_measures[-1] + waveglow_measures[-1])})

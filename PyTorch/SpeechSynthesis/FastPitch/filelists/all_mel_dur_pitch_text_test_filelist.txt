@@ -1,0 +1,1000 @@
+LJSpeech-1.1/mels/LJ018-0129.pt|LJSpeech-1.1/durations/LJ018-0129.pt|LJSpeech-1.1/pitch_char/LJ018-0129.pt|who threatened to betray the theft. But Brewer, either before or after this, succumbed to temptation,|1
+Jenny/mels/02003.pt|Jenny/durations/02003.pt|Jenny/pitch_char/02003.pt|I don't know what.|0
+LJSpeech-1.1/mels/LJ046-0226.pt|LJSpeech-1.1/durations/LJ046-0226.pt|LJSpeech-1.1/pitch_char/LJ046-0226.pt|The several military intelligence agencies reported crank mail and similar threats involving the President.|1
+Jenny/mels/02674.pt|Jenny/durations/02674.pt|Jenny/pitch_char/02674.pt|All right. All right. Just keep him away from me.|0
+LJSpeech-1.1/mels/LJ032-0164.pt|LJSpeech-1.1/durations/LJ032-0164.pt|LJSpeech-1.1/pitch_char/LJ032-0164.pt|it is not possible to state with scientific certainty that a particular small group of fibers come from a certain piece of clothing|1
+LJSpeech-1.1/mels/LJ016-0274.pt|LJSpeech-1.1/durations/LJ016-0274.pt|LJSpeech-1.1/pitch_char/LJ016-0274.pt|and the windows of the opposite houses, which commanded a good view, as usual fetched high prices.|1
+Jenny/mels/05044.pt|Jenny/durations/05044.pt|Jenny/pitch_char/05044.pt|In his hand a bunch of blossoms Filling all the lodge with sweetness.|0
+Jenny/mels/00903.pt|Jenny/durations/00903.pt|Jenny/pitch_char/00903.pt|What date were you discharged from your inpatient stay?|0
+LJSpeech-1.1/mels/LJ038-0035.pt|LJSpeech-1.1/durations/LJ038-0035.pt|LJSpeech-1.1/pitch_char/LJ038-0035.pt|Oswald rose from his seat, bringing up both hands.|1
+Jenny/mels/01292.pt|Jenny/durations/01292.pt|Jenny/pitch_char/01292.pt|How often did you suffer from your complaints?|0
+Jenny/mels/05337.pt|Jenny/durations/05337.pt|Jenny/pitch_char/05337.pt|But the keys, the keys!|0
+LJSpeech-1.1/mels/LJ033-0159.pt|LJSpeech-1.1/durations/LJ033-0159.pt|LJSpeech-1.1/pitch_char/LJ033-0159.pt|It was from Oswald's right hand, in which he carried the long package as he walked from Frazier's car to the building.|1
+Jenny/mels/05873.pt|Jenny/durations/05873.pt|Jenny/pitch_char/05873.pt|He led the way round the corner of the alley. Pray, your pardon.|0
+LJSpeech-1.1/mels/LJ016-0426.pt|LJSpeech-1.1/durations/LJ016-0426.pt|LJSpeech-1.1/pitch_char/LJ016-0426.pt|come along, gallows.|1
+LJSpeech-1.1/mels/LJ012-0194.pt|LJSpeech-1.1/durations/LJ012-0194.pt|LJSpeech-1.1/pitch_char/LJ012-0194.pt|But Burke and Hare had their imitators further south,|1
+LJSpeech-1.1/mels/LJ031-0041.pt|LJSpeech-1.1/durations/LJ031-0041.pt|LJSpeech-1.1/pitch_char/LJ031-0041.pt|He noted that the President was blue-white or ashen in color; had slow, spasmodic, agonal respiration without any coordination;|1
+LJSpeech-1.1/mels/LJ039-0027.pt|LJSpeech-1.1/durations/LJ039-0027.pt|LJSpeech-1.1/pitch_char/LJ039-0027.pt|Oswald's revolver|1
+LJSpeech-1.1/mels/LJ036-0169.pt|LJSpeech-1.1/durations/LJ036-0169.pt|LJSpeech-1.1/pitch_char/LJ036-0169.pt|he would have reached his destination at approximately twelve:fifty-four p.m.|1
+LJSpeech-1.1/mels/LJ002-0225.pt|LJSpeech-1.1/durations/LJ002-0225.pt|LJSpeech-1.1/pitch_char/LJ002-0225.pt|The rentals of rooms and fees went to the warden, whose income was two thousand three hundred seventy-two pounds.|1
+Jenny/mels/05509.pt|Jenny/durations/05509.pt|Jenny/pitch_char/05509.pt|But the thing happens; the husband and father breaks his leg or his neck.|0
+LJSpeech-1.1/mels/LJ017-0050.pt|LJSpeech-1.1/durations/LJ017-0050.pt|LJSpeech-1.1/pitch_char/LJ017-0050.pt|Palmer, who was only thirty-one at the time of his trial, was in appearance short and stout, with a round head|1
+LJSpeech-1.1/mels/LJ027-0006.pt|LJSpeech-1.1/durations/LJ027-0006.pt|LJSpeech-1.1/pitch_char/LJ027-0006.pt|In all these lines the facts are drawn together by a strong thread of unity.|1
+LJSpeech-1.1/mels/LJ026-0052.pt|LJSpeech-1.1/durations/LJ026-0052.pt|LJSpeech-1.1/pitch_char/LJ026-0052.pt|In the nutrition of the animal the most essential and characteristic part of the food supply is derived from vegetable|1
+LJSpeech-1.1/mels/LJ030-0032.pt|LJSpeech-1.1/durations/LJ030-0032.pt|LJSpeech-1.1/pitch_char/LJ030-0032.pt|Dallas police stood at intervals along the fence and Dallas plain clothes men mixed in the crowd.|1
+LJSpeech-1.1/mels/LJ030-0238.pt|LJSpeech-1.1/durations/LJ030-0238.pt|LJSpeech-1.1/pitch_char/LJ030-0238.pt|and then looked around again and saw more of this movement, and so I proceeded to go to the back seat and get on top of him.|1
+LJSpeech-1.1/mels/LJ015-0266.pt|LJSpeech-1.1/durations/LJ015-0266.pt|LJSpeech-1.1/pitch_char/LJ015-0266.pt|has probably no parallel in the annals of crime. Saward himself is a striking and in some respects an unique figure in criminal history.|1
+LJSpeech-1.1/mels/LJ039-0192.pt|LJSpeech-1.1/durations/LJ039-0192.pt|LJSpeech-1.1/pitch_char/LJ039-0192.pt|he had a total of between four point eight and five point six seconds between the two shots which hit|1
+LJSpeech-1.1/mels/LJ040-0201.pt|LJSpeech-1.1/durations/LJ040-0201.pt|LJSpeech-1.1/pitch_char/LJ040-0201.pt|After her interview with Mrs. Oswald,|1
+Jenny/mels/01839.pt|Jenny/durations/01839.pt|Jenny/pitch_char/01839.pt|He threw some feces. If you're working late, I can look in on him.|0
+LJSpeech-1.1/mels/LJ028-0340.pt|LJSpeech-1.1/durations/LJ028-0340.pt|LJSpeech-1.1/pitch_char/LJ028-0340.pt|Such of the Babylonians as witnessed the treachery took refuge in the temple of Jupiter Belus;|1
+LJSpeech-1.1/mels/LJ036-0104.pt|LJSpeech-1.1/durations/LJ036-0104.pt|LJSpeech-1.1/pitch_char/LJ036-0104.pt|Whaley picked Oswald.|1
+Jenny/mels/04755.pt|Jenny/durations/04755.pt|Jenny/pitch_char/04755.pt|And that brings me BACK to the robbery.|0
+LJSpeech-1.1/mels/LJ028-0494.pt|LJSpeech-1.1/durations/LJ028-0494.pt|LJSpeech-1.1/pitch_char/LJ028-0494.pt|Between the several sections were wide spaces where foot soldiers and charioteers might fight.|1
+Jenny/mels/01565.pt|Jenny/durations/01565.pt|Jenny/pitch_char/01565.pt|I'm going through my mail, and I open up their monthly statement. |0
+Jenny/mels/06152.pt|Jenny/durations/06152.pt|Jenny/pitch_char/06152.pt|Very well!|0
+Jenny/mels/02773.pt|Jenny/durations/02773.pt|Jenny/pitch_char/02773.pt|Okay. Here we go. There's no room for milk.|0
+LJSpeech-1.1/mels/LJ002-0260.pt|LJSpeech-1.1/durations/LJ002-0260.pt|LJSpeech-1.1/pitch_char/LJ002-0260.pt|Yet the public opinion of the whole body seems to have checked dissipation.|1
+Jenny/mels/04043.pt|Jenny/durations/04043.pt|Jenny/pitch_char/04043.pt|A word from me brings him to my bedside.|0
+Jenny/mels/05554.pt|Jenny/durations/05554.pt|Jenny/pitch_char/05554.pt|He was as bad a correspondent as I am myself.|0
+LJSpeech-1.1/mels/LJ047-0022.pt|LJSpeech-1.1/durations/LJ047-0022.pt|LJSpeech-1.1/pitch_char/LJ047-0022.pt|provided by other agencies.|1
+Jenny/mels/06014.pt|Jenny/durations/06014.pt|Jenny/pitch_char/06014.pt|Lapham groaned.|0
+Jenny/mels/06619.pt|Jenny/durations/06619.pt|Jenny/pitch_char/06619.pt|The growing influence of the speech is testified to in letters from all sections.|0
+Jenny/mels/03777.pt|Jenny/durations/03777.pt|Jenny/pitch_char/03777.pt|They would have to mind their p's and q's.|0
+Jenny/mels/02371.pt|Jenny/durations/02371.pt|Jenny/pitch_char/02371.pt|What do or did you smoke?|0
+Jenny/mels/04499.pt|Jenny/durations/04499.pt|Jenny/pitch_char/04499.pt|It's Mr. Pendleton, you know.|0
+LJSpeech-1.1/mels/LJ021-0026.pt|LJSpeech-1.1/durations/LJ021-0026.pt|LJSpeech-1.1/pitch_char/LJ021-0026.pt|seems necessary to produce the same result of justice and right conduct|1
+LJSpeech-1.1/mels/LJ028-0410.pt|LJSpeech-1.1/durations/LJ028-0410.pt|LJSpeech-1.1/pitch_char/LJ028-0410.pt|There among the ruins they still live in the same kind of houses,|1
+LJSpeech-1.1/mels/LJ030-0197.pt|LJSpeech-1.1/durations/LJ030-0197.pt|LJSpeech-1.1/pitch_char/LJ030-0197.pt|At first Mrs. Connally thought that her husband had been killed,|1
+Jenny/mels/01081.pt|Jenny/durations/01081.pt|Jenny/pitch_char/01081.pt|Are you sure you're okay? Yeah.|0
+Jenny/mels/05875.pt|Jenny/durations/05875.pt|Jenny/pitch_char/05875.pt|Practical exercises. This is a worse sorrow than to have one's husband die.|0
+Jenny/mels/05947.pt|Jenny/durations/05947.pt|Jenny/pitch_char/05947.pt|After all, it may have BEEN somebody else.|0
+Jenny/mels/04714.pt|Jenny/durations/04714.pt|Jenny/pitch_char/04714.pt|And the mother read the letter to me.|0
+LJSpeech-1.1/mels/LJ008-0228.pt|LJSpeech-1.1/durations/LJ008-0228.pt|LJSpeech-1.1/pitch_char/LJ008-0228.pt|their harsh and half-cracked voices full of maudlin, besotted sympathy for those about to die.|1
+Jenny/mels/04998.pt|Jenny/durations/04998.pt|Jenny/pitch_char/04998.pt|Horace tried to compose her.|0
+LJSpeech-1.1/mels/LJ046-0191.pt|LJSpeech-1.1/durations/LJ046-0191.pt|LJSpeech-1.1/pitch_char/LJ046-0191.pt|it had established periodic regular review of the status of four hundred individuals;|1
+LJSpeech-1.1/mels/LJ044-0224.pt|LJSpeech-1.1/durations/LJ044-0224.pt|LJSpeech-1.1/pitch_char/LJ044-0224.pt|would not agree with that particular wording, end quote.|1
+LJSpeech-1.1/mels/LJ014-0326.pt|LJSpeech-1.1/durations/LJ014-0326.pt|LJSpeech-1.1/pitch_char/LJ014-0326.pt|Maltby and Co. would issue warrants on them deliverable to the importer, and the goods were then passed to be stored in neighboring warehouses.|1
+Jenny/mels/01833.pt|Jenny/durations/01833.pt|Jenny/pitch_char/01833.pt|What lung function test did you have? When and what were the results?|0
+Jenny/mels/02235.pt|Jenny/durations/02235.pt|Jenny/pitch_char/02235.pt|Alan. He was unbelievable.|0
+LJSpeech-1.1/mels/LJ008-0215.pt|LJSpeech-1.1/durations/LJ008-0215.pt|LJSpeech-1.1/pitch_char/LJ008-0215.pt|One by one the huge uprights of black timber were fitted together,|1
+LJSpeech-1.1/mels/LJ004-0024.pt|LJSpeech-1.1/durations/LJ004-0024.pt|LJSpeech-1.1/pitch_char/LJ004-0024.pt|Thus in eighteen thirteen the exaction of jail fees had been forbidden by law,|1
+Jenny/mels/03846.pt|Jenny/durations/03846.pt|Jenny/pitch_char/03846.pt|Daughter, remember what I told you: if the Prince do solicit you in that kind, you know your answer.|0
+Jenny/mels/00615.pt|Jenny/durations/00615.pt|Jenny/pitch_char/00615.pt|What is you maximum diving depth?|0
+Jenny/mels/04145.pt|Jenny/durations/04145.pt|Jenny/pitch_char/04145.pt|Two robberies!|0
+LJSpeech-1.1/mels/LJ039-0227.pt|LJSpeech-1.1/durations/LJ039-0227.pt|LJSpeech-1.1/pitch_char/LJ039-0227.pt|with two hits, within four point eight and five point six seconds.|1
+Jenny/mels/04002.pt|Jenny/durations/04002.pt|Jenny/pitch_char/04002.pt|From me!|0
+LJSpeech-1.1/mels/LJ050-0090.pt|LJSpeech-1.1/durations/LJ050-0090.pt|LJSpeech-1.1/pitch_char/LJ050-0090.pt|they seem unduly restrictive in continuing to require some manifestation of animus against a Government official.|1
+LJSpeech-1.1/mels/LJ018-0130.pt|LJSpeech-1.1/durations/LJ018-0130.pt|LJSpeech-1.1/pitch_char/LJ018-0130.pt|and stole paper on a much larger scale than Brown.|1
+LJSpeech-1.1/mels/LJ029-0096.pt|LJSpeech-1.1/durations/LJ029-0096.pt|LJSpeech-1.1/pitch_char/LJ029-0096.pt|On November fourteen, Lawson and Sorrels attended a meeting at Love Field|1
+Jenny/mels/05849.pt|Jenny/durations/05849.pt|Jenny/pitch_char/05849.pt|No one could surpass Julio in the quick slap and the ready card.|0
+LJSpeech-1.1/mels/LJ050-0223.pt|LJSpeech-1.1/durations/LJ050-0223.pt|LJSpeech-1.1/pitch_char/LJ050-0223.pt|The plan provides for an additional two hundred five agents for the Secret Service. Seventeen of this number are proposed for the Protective Research Section;|1
+Jenny/mels/03875.pt|Jenny/durations/03875.pt|Jenny/pitch_char/03875.pt|The slide to regulate the focus to the plate holder.|0
+Jenny/mels/00269.pt|Jenny/durations/00269.pt|Jenny/pitch_char/00269.pt|Mindy the guy is the devil! He is Satan in a smock!|0
+Jenny/mels/05541.pt|Jenny/durations/05541.pt|Jenny/pitch_char/05541.pt|I am going to make. An hour later they owned a thousand crowns.|0
+Jenny/mels/01078.pt|Jenny/durations/01078.pt|Jenny/pitch_char/01078.pt|What is up with the universe?!|0
+Jenny/mels/03739.pt|Jenny/durations/03739.pt|Jenny/pitch_char/03739.pt|It had all come of reading heathen works exclusively.|0
+LJSpeech-1.1/mels/LJ001-0186.pt|LJSpeech-1.1/durations/LJ001-0186.pt|LJSpeech-1.1/pitch_char/LJ001-0186.pt|the position of our Society that a work of utility might be also a work of art, if we cared to make it so.|1
+LJSpeech-1.1/mels/LJ016-0314.pt|LJSpeech-1.1/durations/LJ016-0314.pt|LJSpeech-1.1/pitch_char/LJ016-0314.pt|Sir George Grey thought there was a growing feeling in favor of executions within the prison precincts.|1
+LJSpeech-1.1/mels/LJ043-0016.pt|LJSpeech-1.1/durations/LJ043-0016.pt|LJSpeech-1.1/pitch_char/LJ043-0016.pt|Jeanne De Mohrenschildt said, quote,|1
+LJSpeech-1.1/mels/LJ019-0348.pt|LJSpeech-1.1/durations/LJ019-0348.pt|LJSpeech-1.1/pitch_char/LJ019-0348.pt|Every facility was promised. The sanction of the Secretary of State would not be withheld if plans and estimates were duly submitted,|1
+Jenny/mels/06218.pt|Jenny/durations/06218.pt|Jenny/pitch_char/06218.pt|Contemporary judgment could not, of course, anticipate this culmination of a later generation.|0
+Jenny/mels/02424.pt|Jenny/durations/02424.pt|Jenny/pitch_char/02424.pt|Please state the age of person with such a disease|0
+Jenny/mels/06450.pt|Jenny/durations/06450.pt|Jenny/pitch_char/06450.pt|He opened the door and went out into the starlight.|0
+LJSpeech-1.1/mels/LJ003-0324.pt|LJSpeech-1.1/durations/LJ003-0324.pt|LJSpeech-1.1/pitch_char/LJ003-0324.pt|gaming of all sorts should be peremptorily forbidden under heavy pains and penalties.|1
+LJSpeech-1.1/mels/LJ009-0194.pt|LJSpeech-1.1/durations/LJ009-0194.pt|LJSpeech-1.1/pitch_char/LJ009-0194.pt|and that executors or persons having lawful possession of the bodies|1
+LJSpeech-1.1/mels/LJ007-0125.pt|LJSpeech-1.1/durations/LJ007-0125.pt|LJSpeech-1.1/pitch_char/LJ007-0125.pt|It was diverted from its proper uses, and, as the "place of the greatest comfort," was allotted to persons who should not have been sent to Newgate at all.|1
+LJSpeech-1.1/mels/LJ029-0060.pt|LJSpeech-1.1/durations/LJ029-0060.pt|LJSpeech-1.1/pitch_char/LJ029-0060.pt|A number of people who resembled some of those in the photographs were placed under surveillance at the Trade Mart.|1
+LJSpeech-1.1/mels/LJ003-0282.pt|LJSpeech-1.1/durations/LJ003-0282.pt|LJSpeech-1.1/pitch_char/LJ003-0282.pt|Many years were to elapse before these objections should be fairly met and universally overcome.|1
+Jenny/mels/00013.pt|Jenny/durations/00013.pt|Jenny/pitch_char/00013.pt|Keep the change.|0
+Jenny/mels/01580.pt|Jenny/durations/01580.pt|Jenny/pitch_char/01580.pt|was my. What?|0
+Jenny/mels/06614.pt|Jenny/durations/06614.pt|Jenny/pitch_char/06614.pt|I know him as well as I know you.|0
+Jenny/mels/00588.pt|Jenny/durations/00588.pt|Jenny/pitch_char/00588.pt|Which respiratory complaints do you suffer from or did you suffer from in the last five years?|0
+LJSpeech-1.1/mels/LJ004-0239.pt|LJSpeech-1.1/durations/LJ004-0239.pt|LJSpeech-1.1/pitch_char/LJ004-0239.pt|He had been committed for an offense for which he was acquitted.|1
+LJSpeech-1.1/mels/LJ044-0004.pt|LJSpeech-1.1/durations/LJ044-0004.pt|LJSpeech-1.1/pitch_char/LJ044-0004.pt|Political Activities|1
+Jenny/mels/02025.pt|Jenny/durations/02025.pt|Jenny/pitch_char/02025.pt|And I'm an orthodontist.|0
+LJSpeech-1.1/mels/LJ019-0221.pt|LJSpeech-1.1/durations/LJ019-0221.pt|LJSpeech-1.1/pitch_char/LJ019-0221.pt|It was intended as far as possible that, except awaiting trial, no prisoner should find himself relegated to Newgate.|1
+LJSpeech-1.1/mels/LJ001-0096.pt|LJSpeech-1.1/durations/LJ001-0096.pt|LJSpeech-1.1/pitch_char/LJ001-0096.pt|have now come into general use and are obviously a great improvement on the ordinary "modern style" in use in England, which is in fact the Bodoni type|1
+LJSpeech-1.1/mels/LJ028-0416.pt|LJSpeech-1.1/durations/LJ028-0416.pt|LJSpeech-1.1/pitch_char/LJ028-0416.pt|(if man may speak so confidently of His great impenetrable counsels), for an eternal Testimony of His great work in the confusion of Man's pride,|1
+LJSpeech-1.1/mels/LJ014-0029.pt|LJSpeech-1.1/durations/LJ014-0029.pt|LJSpeech-1.1/pitch_char/LJ014-0029.pt|This was Delarue's watch, fully identified as such, which Hocker told his brother Delarue had given him the morning of the murder.|1
+LJSpeech-1.1/mels/LJ016-0007.pt|LJSpeech-1.1/durations/LJ016-0007.pt|LJSpeech-1.1/pitch_char/LJ016-0007.pt|There were others less successful.|1
+LJSpeech-1.1/mels/LJ009-0192.pt|LJSpeech-1.1/durations/LJ009-0192.pt|LJSpeech-1.1/pitch_char/LJ009-0192.pt|The dissection of executed criminals was abolished soon after the discovery of the crime of burking,|1
+Jenny/mels/06256.pt|Jenny/durations/06256.pt|Jenny/pitch_char/06256.pt|What a life it is that I lead!|0
+LJSpeech-1.1/mels/LJ002-0289.pt|LJSpeech-1.1/durations/LJ002-0289.pt|LJSpeech-1.1/pitch_char/LJ002-0289.pt|the latter raised eighteen pence among them to pay for a truss of straw for the poor woman to lie on.|1
+LJSpeech-1.1/mels/LJ018-0231.pt|LJSpeech-1.1/durations/LJ018-0231.pt|LJSpeech-1.1/pitch_char/LJ018-0231.pt|namely, to suppress it and substitute another.|1
+LJSpeech-1.1/mels/LJ015-0308.pt|LJSpeech-1.1/durations/LJ015-0308.pt|LJSpeech-1.1/pitch_char/LJ015-0308.pt|and others who swore to the meetings of the conspirators and their movements. Saward was found guilty,|1
+Jenny/mels/00016.pt|Jenny/durations/00016.pt|Jenny/pitch_char/00016.pt|Sorry. How are things going?|0
+Jenny/mels/05733.pt|Jenny/durations/05733.pt|Jenny/pitch_char/05733.pt|The conversation dropped at the jest. I can't endure it!|0
+Jenny/mels/00874.pt|Jenny/durations/00874.pt|Jenny/pitch_char/00874.pt|Is everything all right? How we doing? You guys ready?|0
+Jenny/mels/02232.pt|Jenny/durations/02232.pt|Jenny/pitch_char/02232.pt|I hit her in the eye! In the eye!|0
+Jenny/mels/03964.pt|Jenny/durations/03964.pt|Jenny/pitch_char/03964.pt|Here COMES my father. He darkened the room completely.|0
+LJSpeech-1.1/mels/LJ046-0016.pt|LJSpeech-1.1/durations/LJ046-0016.pt|LJSpeech-1.1/pitch_char/LJ046-0016.pt|The Commission has not undertaken a comprehensive examination of all facets of this subject;|1
+LJSpeech-1.1/mels/LJ047-0097.pt|LJSpeech-1.1/durations/LJ047-0097.pt|LJSpeech-1.1/pitch_char/LJ047-0097.pt|Agent Quigley did not know of Oswald's prior FBI record when he interviewed him,|1
+Jenny/mels/04841.pt|Jenny/durations/04841.pt|Jenny/pitch_char/04841.pt|When did I refuse to share your poverty?|0
+Jenny/mels/06606.pt|Jenny/durations/06606.pt|Jenny/pitch_char/06606.pt|Ay, by my faith, they shall not be changed yet.|0
+LJSpeech-1.1/mels/LJ013-0005.pt|LJSpeech-1.1/durations/LJ013-0005.pt|LJSpeech-1.1/pitch_char/LJ013-0005.pt|One of the earliest of the big operators in fraudulent finance was Edward Beaumont Smith,|1
+LJSpeech-1.1/mels/LJ026-0054.pt|LJSpeech-1.1/durations/LJ026-0054.pt|LJSpeech-1.1/pitch_char/LJ026-0054.pt|carbohydrates (starch, cellulose) and fats.|1
+Jenny/mels/05469.pt|Jenny/durations/05469.pt|Jenny/pitch_char/05469.pt|He's sinking, Tom! I do not sail this week. They had belonged to Nimrod.|0
+Jenny/mels/02125.pt|Jenny/durations/02125.pt|Jenny/pitch_char/02125.pt|Since when do or did you suffer from your impaired hearing?|0
+Jenny/mels/06433.pt|Jenny/durations/06433.pt|Jenny/pitch_char/06433.pt|The taking of a queen requires a human offering!|0
+LJSpeech-1.1/mels/LJ009-0286.pt|LJSpeech-1.1/durations/LJ009-0286.pt|LJSpeech-1.1/pitch_char/LJ009-0286.pt|There has never been much science in the system of carrying out the extreme penalty in this country; the "finisher of the law"|1
+LJSpeech-1.1/mels/LJ004-0077.pt|LJSpeech-1.1/durations/LJ004-0077.pt|LJSpeech-1.1/pitch_char/LJ004-0077.pt|nor has he a right to poison or starve his fellow-creatures."|1
+LJSpeech-1.1/mels/LJ018-0262.pt|LJSpeech-1.1/durations/LJ018-0262.pt|LJSpeech-1.1/pitch_char/LJ018-0262.pt|Roupell received the announcement with a cheerful countenance,|1
+Jenny/mels/02008.pt|Jenny/durations/02008.pt|Jenny/pitch_char/02008.pt|You know no suds|0
+Jenny/mels/05895.pt|Jenny/durations/05895.pt|Jenny/pitch_char/05895.pt|How could you manage it? I'll show you how.|0
+Jenny/mels/00434.pt|Jenny/durations/00434.pt|Jenny/pitch_char/00434.pt|Careful. They haven't quite taken yet.|0
+LJSpeech-1.1/mels/LJ009-0172.pt|LJSpeech-1.1/durations/LJ009-0172.pt|LJSpeech-1.1/pitch_char/LJ009-0172.pt|While in London, for instance, in eighteen twenty-nine, twenty-four persons had been executed for crimes other than murder,|1
+LJSpeech-1.1/mels/LJ028-0145.pt|LJSpeech-1.1/durations/LJ028-0145.pt|LJSpeech-1.1/pitch_char/LJ028-0145.pt|And here I may not omit to tell the use to which the mould dug out of the great moat was turned, nor the manner wherein the wall was wrought.|1
+LJSpeech-1.1/mels/LJ031-0109.pt|LJSpeech-1.1/durations/LJ031-0109.pt|LJSpeech-1.1/pitch_char/LJ031-0109.pt|At one:thirty-five p.m., after Governor Connally had been moved to the operating room, Dr. Shaw started the first operation|1
+LJSpeech-1.1/mels/LJ019-0368.pt|LJSpeech-1.1/durations/LJ019-0368.pt|LJSpeech-1.1/pitch_char/LJ019-0368.pt|The latter too was to be laid before the House of Commons.|1
+LJSpeech-1.1/mels/LJ040-0110.pt|LJSpeech-1.1/durations/LJ040-0110.pt|LJSpeech-1.1/pitch_char/LJ040-0110.pt|he apparently adjusted well enough there to have had an average, although gradually deteriorating, school record|1
+Jenny/mels/03655.pt|Jenny/durations/03655.pt|Jenny/pitch_char/03655.pt|Every one is in the family. And the society would not send me again.|0
+Jenny/mels/02883.pt|Jenny/durations/02883.pt|Jenny/pitch_char/02883.pt|A thing through which you can tinkle|0
+LJSpeech-1.1/mels/LJ033-0120.pt|LJSpeech-1.1/durations/LJ033-0120.pt|LJSpeech-1.1/pitch_char/LJ033-0120.pt|which he believed was where the bag reached when it was laid on the seat with one edge against the door.|1
+LJSpeech-1.1/mels/LJ011-0048.pt|LJSpeech-1.1/durations/LJ011-0048.pt|LJSpeech-1.1/pitch_char/LJ011-0048.pt|Wherefore let him that thinketh he standeth take heed lest he fall," and was full of the most pointed allusions to the culprit.|1
+LJSpeech-1.1/mels/LJ017-0134.pt|LJSpeech-1.1/durations/LJ017-0134.pt|LJSpeech-1.1/pitch_char/LJ017-0134.pt|Within a few weeks occurred the Leeds poisoning case, in which the murderer undoubtedly was inspired by the facts made public at Palmer's trial.|1
+LJSpeech-1.1/mels/LJ036-0067.pt|LJSpeech-1.1/durations/LJ036-0067.pt|LJSpeech-1.1/pitch_char/LJ036-0067.pt|According to McWatters, the Beckley bus was behind the Marsalis bus, but he did not actually see it.|1
+LJSpeech-1.1/mels/LJ027-0178.pt|LJSpeech-1.1/durations/LJ027-0178.pt|LJSpeech-1.1/pitch_char/LJ027-0178.pt|These were undoubtedly perennibranchs. In the Permian and Triassic higher forms appeared, which were certainly caducibranch.|1
+LJSpeech-1.1/mels/LJ012-0189.pt|LJSpeech-1.1/durations/LJ012-0189.pt|LJSpeech-1.1/pitch_char/LJ012-0189.pt|Hunt, in consideration of the information he had given, escaped death, and was sentenced to transportation for life.|1
+Jenny/mels/03418.pt|Jenny/durations/03418.pt|Jenny/pitch_char/03418.pt|Oh for one good draught, even if it should exhaust the whole supply!|0
+LJSpeech-1.1/mels/LJ016-0367.pt|LJSpeech-1.1/durations/LJ016-0367.pt|LJSpeech-1.1/pitch_char/LJ016-0367.pt|Under the new system the whole of the arrangements from first to last fell upon the officers.|1
+Jenny/mels/00956.pt|Jenny/durations/00956.pt|Jenny/pitch_char/00956.pt|They take like|0
+Jenny/mels/04230.pt|Jenny/durations/04230.pt|Jenny/pitch_char/04230.pt|Blanche listened.|0
+LJSpeech-1.1/mels/LJ018-0309.pt|LJSpeech-1.1/durations/LJ018-0309.pt|LJSpeech-1.1/pitch_char/LJ018-0309.pt|where probably the money still remains.|1
+Jenny/mels/00236.pt|Jenny/durations/00236.pt|Jenny/pitch_char/00236.pt|Oh my God!|0
+Jenny/mels/01327.pt|Jenny/durations/01327.pt|Jenny/pitch_char/01327.pt|Look what I just found on the floor. What?|0
+LJSpeech-1.1/mels/LJ014-0306.pt|LJSpeech-1.1/durations/LJ014-0306.pt|LJSpeech-1.1/pitch_char/LJ014-0306.pt|These had been attributed to political action; some thought that the large purchases in foreign grains, effected at losing prices,|1
+LJSpeech-1.1/mels/LJ014-0224.pt|LJSpeech-1.1/durations/LJ014-0224.pt|LJSpeech-1.1/pitch_char/LJ014-0224.pt|As Dwyer survived, Cannon escaped the death sentence, which was commuted to penal servitude for life.|1
+LJSpeech-1.1/mels/LJ019-0344.pt|LJSpeech-1.1/durations/LJ019-0344.pt|LJSpeech-1.1/pitch_char/LJ019-0344.pt|monitor, or schoolmaster, nor to be engaged in the service of any officer of the prison.|1
+Jenny/mels/03180.pt|Jenny/durations/03180.pt|Jenny/pitch_char/03180.pt|I wish things were different.|0
+Jenny/mels/02323.pt|Jenny/durations/02323.pt|Jenny/pitch_char/02323.pt|Sometimes I wish I was a lesbian.|0
+LJSpeech-1.1/mels/LJ001-0051.pt|LJSpeech-1.1/durations/LJ001-0051.pt|LJSpeech-1.1/pitch_char/LJ001-0051.pt|and paying great attention to the "press work" or actual process of printing,|1
+LJSpeech-1.1/mels/LJ001-0072.pt|LJSpeech-1.1/durations/LJ001-0072.pt|LJSpeech-1.1/pitch_char/LJ001-0072.pt|After the end of the fifteenth century the degradation of printing, especially in Germany and Italy,|1
+LJSpeech-1.1/mels/LJ010-0038.pt|LJSpeech-1.1/durations/LJ010-0038.pt|LJSpeech-1.1/pitch_char/LJ010-0038.pt|as there had been before; as in the year eighteen forty-nine, a year memorable for the Rush murders at Norwich,|1
+LJSpeech-1.1/mels/LJ042-0221.pt|LJSpeech-1.1/durations/LJ042-0221.pt|LJSpeech-1.1/pitch_char/LJ042-0221.pt|With either great ambivalence, or cold calculation he prepared completely different answers to the same questions.|1
+LJSpeech-1.1/mels/LJ025-0157.pt|LJSpeech-1.1/durations/LJ025-0157.pt|LJSpeech-1.1/pitch_char/LJ025-0157.pt|Under these circumstances, unnatural as they are, with proper management, the bean will thrust forth its radicle and its plumule;|1
+Jenny/mels/03060.pt|Jenny/durations/03060.pt|Jenny/pitch_char/03060.pt|he's just gonna get vicious. But that may just be a pipe dream. He's out of state.|0
+Jenny/mels/06760.pt|Jenny/durations/06760.pt|Jenny/pitch_char/06760.pt|You see, I have nobody to advise me.|0
+LJSpeech-1.1/mels/LJ050-0235.pt|LJSpeech-1.1/durations/LJ050-0235.pt|LJSpeech-1.1/pitch_char/LJ050-0235.pt|It has also used other Federal law enforcement agents during Presidential visits to cities in which such agents are stationed.|1
+LJSpeech-1.1/mels/LJ018-0206.pt|LJSpeech-1.1/durations/LJ018-0206.pt|LJSpeech-1.1/pitch_char/LJ018-0206.pt|He was a tall, slender man, with a long face and iron-gray hair.|1
+LJSpeech-1.1/mels/LJ019-0052.pt|LJSpeech-1.1/durations/LJ019-0052.pt|LJSpeech-1.1/pitch_char/LJ019-0052.pt|Both systems came to us from the United States. The difference was really more in degree than in principle,|1
+Jenny/mels/01918.pt|Jenny/durations/01918.pt|Jenny/pitch_char/01918.pt|What is this? You've been so good for three years!|0
+LJSpeech-1.1/mels/LJ008-0206.pt|LJSpeech-1.1/durations/LJ008-0206.pt|LJSpeech-1.1/pitch_char/LJ008-0206.pt|and caused a number of stout additional barriers to be erected in front of the scaffold,|1
+Jenny/mels/01502.pt|Jenny/durations/01502.pt|Jenny/pitch_char/01502.pt|Oh, no, me. I am so sorry.|0
+Jenny/mels/04256.pt|Jenny/durations/04256.pt|Jenny/pitch_char/04256.pt|There alone could lovers see each other and communicate.|0
+LJSpeech-1.1/mels/LJ015-0005.pt|LJSpeech-1.1/durations/LJ015-0005.pt|LJSpeech-1.1/pitch_char/LJ015-0005.pt|About this time Davidson and Gordon, the people above-mentioned,|1
+LJSpeech-1.1/mels/LJ007-0170.pt|LJSpeech-1.1/durations/LJ007-0170.pt|LJSpeech-1.1/pitch_char/LJ007-0170.pt|That in this vast metropolis, the center of wealth, civilization, and information;|1
+LJSpeech-1.1/mels/LJ001-0079.pt|LJSpeech-1.1/durations/LJ001-0079.pt|LJSpeech-1.1/pitch_char/LJ001-0079.pt|Caslon's type is clear and neat, and fairly well designed;|1
+LJSpeech-1.1/mels/LJ003-0319.pt|LJSpeech-1.1/durations/LJ003-0319.pt|LJSpeech-1.1/pitch_char/LJ003-0319.pt|provided only that their security was not jeopardized, and dependent upon the enforcement of another new rule,|1
+Jenny/mels/01846.pt|Jenny/durations/01846.pt|Jenny/pitch_char/01846.pt|Please indicate the cause of your disorder|0
+LJSpeech-1.1/mels/LJ050-0069.pt|LJSpeech-1.1/durations/LJ050-0069.pt|LJSpeech-1.1/pitch_char/LJ050-0069.pt|the Secret Service had received from the FBI some nine thousand reports on members of the Communist Party.|1
+LJSpeech-1.1/mels/LJ010-0228.pt|LJSpeech-1.1/durations/LJ010-0228.pt|LJSpeech-1.1/pitch_char/LJ010-0228.pt|He was released from Broadmoor in eighteen seventy-eight, and went abroad.|1
+LJSpeech-1.1/mels/LJ006-0088.pt|LJSpeech-1.1/durations/LJ006-0088.pt|LJSpeech-1.1/pitch_char/LJ006-0088.pt|It was not likely that a system which left innocent men -- for the great bulk of new arrivals were still untried|1
+Jenny/mels/04798.pt|Jenny/durations/04798.pt|Jenny/pitch_char/04798.pt|I called up his paper yesterday, but he hasn't shown up.|0
+LJSpeech-1.1/mels/LJ007-0112.pt|LJSpeech-1.1/durations/LJ007-0112.pt|LJSpeech-1.1/pitch_char/LJ007-0112.pt|Many of the old customs once prevalent in the State Side, so properly condemned and abolished,|1
+LJSpeech-1.1/mels/LJ048-0053.pt|LJSpeech-1.1/durations/LJ048-0053.pt|LJSpeech-1.1/pitch_char/LJ048-0053.pt|It is the conclusion of the Commission that, even in the absence of Secret Service criteria|1
+Jenny/mels/02187.pt|Jenny/durations/02187.pt|Jenny/pitch_char/02187.pt|All right! You guys, it's starting to snow.|0
+Jenny/mels/01965.pt|Jenny/durations/01965.pt|Jenny/pitch_char/01965.pt|Which joints of your body are involved?|0
+Jenny/mels/00779.pt|Jenny/durations/00779.pt|Jenny/pitch_char/00779.pt|There's nothing wrong with speaking correctly.|0
+LJSpeech-1.1/mels/LJ023-0056.pt|LJSpeech-1.1/durations/LJ023-0056.pt|LJSpeech-1.1/pitch_char/LJ023-0056.pt|It is an easy document to understand when you remember that it was called into being|1
+LJSpeech-1.1/mels/LJ020-0092.pt|LJSpeech-1.1/durations/LJ020-0092.pt|LJSpeech-1.1/pitch_char/LJ020-0092.pt|Have yourself called on biscuit mornings an hour earlier than usual.|1
+LJSpeech-1.1/mels/LJ005-0253.pt|LJSpeech-1.1/durations/LJ005-0253.pt|LJSpeech-1.1/pitch_char/LJ005-0253.pt|"to inquire into and report upon the several jails and houses of correction in the counties, cities, and corporate towns within England and Wales|1
+LJSpeech-1.1/mels/LJ003-0088.pt|LJSpeech-1.1/durations/LJ003-0088.pt|LJSpeech-1.1/pitch_char/LJ003-0088.pt|in one, for seven years -- that of a man sentenced to death, for whom great interest had been made, but whom it was not thought right to pardon.|1
+Jenny/mels/01121.pt|Jenny/durations/01121.pt|Jenny/pitch_char/01121.pt|I don't have, I work in a restaurant. They don't have to know that. Then why bring it up? He latches on.|0
+LJSpeech-1.1/mels/LJ018-0215.pt|LJSpeech-1.1/durations/LJ018-0215.pt|LJSpeech-1.1/pitch_char/LJ018-0215.pt|William Roupell was the eldest but illegitimate son of a wealthy man who subsequently married Roupell's mother, and had further legitimate issue.|1
+LJSpeech-1.1/mels/LJ034-0041.pt|LJSpeech-1.1/durations/LJ034-0041.pt|LJSpeech-1.1/pitch_char/LJ034-0041.pt|Although Bureau experiments had shown that twenty-four hours was a likely maximum time, Latona stated|1
+Jenny/mels/01293.pt|Jenny/durations/01293.pt|Jenny/pitch_char/01293.pt|Has your Doctor recommended you too diet or reduce your alcohol consumption?|0
+LJSpeech-1.1/mels/LJ009-0106.pt|LJSpeech-1.1/durations/LJ009-0106.pt|LJSpeech-1.1/pitch_char/LJ009-0106.pt|The keeper tries to appear unmoved, but his eye wanders anxiously over the combustible assembly.|1
+LJSpeech-1.1/mels/LJ030-0035.pt|LJSpeech-1.1/durations/LJ030-0035.pt|LJSpeech-1.1/pitch_char/LJ030-0035.pt|Organization of the Motorcade|1
+LJSpeech-1.1/mels/LJ031-0189.pt|LJSpeech-1.1/durations/LJ031-0189.pt|LJSpeech-1.1/pitch_char/LJ031-0189.pt|At two:thirty-eight p.m., Eastern Standard Time, Lyndon Baines Johnson took the oath of office as the thirty-sixth President of the United States.|1
+LJSpeech-1.1/mels/LJ017-0226.pt|LJSpeech-1.1/durations/LJ017-0226.pt|LJSpeech-1.1/pitch_char/LJ017-0226.pt|One half of the mutineers fell upon him unawares with handspikes and capstan-bars.|1
+LJSpeech-1.1/mels/LJ018-0031.pt|LJSpeech-1.1/durations/LJ018-0031.pt|LJSpeech-1.1/pitch_char/LJ018-0031.pt|This fixed the crime pretty certainly upon Müller, who had already left the country, thus increasing suspicion under which he lay.|1
+Jenny/mels/06587.pt|Jenny/durations/06587.pt|Jenny/pitch_char/06587.pt|We permit them even in our own House of Commons.|0
+LJSpeech-1.1/mels/LJ034-0123.pt|LJSpeech-1.1/durations/LJ034-0123.pt|LJSpeech-1.1/pitch_char/LJ034-0123.pt|Although Brennan testified that the man in the window was standing when he fired the shots, most probably he was either sitting or kneeling.|1
+LJSpeech-1.1/mels/LJ028-0138.pt|LJSpeech-1.1/durations/LJ028-0138.pt|LJSpeech-1.1/pitch_char/LJ028-0138.pt|perhaps the tales that travelers told him were exaggerated as travelers' tales are likely to be,|1
+Jenny/mels/05515.pt|Jenny/durations/05515.pt|Jenny/pitch_char/05515.pt|Oh, how OFTEN have I wished to see him.|0
+Jenny/mels/01314.pt|Jenny/durations/01314.pt|Jenny/pitch_char/01314.pt|Yeah? Good for you.|0
+Jenny/mels/05383.pt|Jenny/durations/05383.pt|Jenny/pitch_char/05383.pt|He had been staying with a distant relative.|0
+Jenny/mels/06129.pt|Jenny/durations/06129.pt|Jenny/pitch_char/06129.pt|You TALK as if you were an impostor.|0
+LJSpeech-1.1/mels/LJ037-0002.pt|LJSpeech-1.1/durations/LJ037-0002.pt|LJSpeech-1.1/pitch_char/LJ037-0002.pt|Chapter four. The Assassin: Part six.|1
+Jenny/mels/02309.pt|Jenny/durations/02309.pt|Jenny/pitch_char/02309.pt|What other treatment have you had?|0
+LJSpeech-1.1/mels/LJ002-0171.pt|LJSpeech-1.1/durations/LJ002-0171.pt|LJSpeech-1.1/pitch_char/LJ002-0171.pt|The boy declared he saw no one, and accordingly passed through without paying the toll of a penny.|1
+LJSpeech-1.1/mels/LJ004-0083.pt|LJSpeech-1.1/durations/LJ004-0083.pt|LJSpeech-1.1/pitch_char/LJ004-0083.pt|As Mr. Buxton pointed out, many old acts of parliament designed to protect the prisoner were still in full force.|1
+Jenny/mels/06683.pt|Jenny/durations/06683.pt|Jenny/pitch_char/06683.pt|Sufficient for the day be its own evil.|0
+Jenny/mels/01911.pt|Jenny/durations/01911.pt|Jenny/pitch_char/01911.pt|They wanna see if you're okay.|0
+LJSpeech-1.1/mels/LJ050-0031.pt|LJSpeech-1.1/durations/LJ050-0031.pt|LJSpeech-1.1/pitch_char/LJ050-0031.pt|that the Secret Service consciously set about the task of inculcating and maintaining the highest standard of excellence and esprit, for all of its personnel.|1
+LJSpeech-1.1/mels/LJ050-0084.pt|LJSpeech-1.1/durations/LJ050-0084.pt|LJSpeech-1.1/pitch_char/LJ050-0084.pt|or, quote, other high government officials in the nature of a complaint coupled with an expressed or implied determination to use a means,|1
+Jenny/mels/02262.pt|Jenny/durations/02262.pt|Jenny/pitch_char/02262.pt|When have you had last respiratory complaints?|0
+Jenny/mels/00992.pt|Jenny/durations/00992.pt|Jenny/pitch_char/00992.pt|I haven't heard from her in seven months, what else is it about?|0
+LJSpeech-1.1/mels/LJ050-0118.pt|LJSpeech-1.1/durations/LJ050-0118.pt|LJSpeech-1.1/pitch_char/LJ050-0118.pt|Since these agencies are already obliged constantly to evaluate the activities of such groups,|1
+Jenny/mels/06025.pt|Jenny/durations/06025.pt|Jenny/pitch_char/06025.pt|I have the sacred word of the Sovereigns.|0
+Jenny/mels/06694.pt|Jenny/durations/06694.pt|Jenny/pitch_char/06694.pt|I THOUGHT it would be fun to brighten the place up a bit.|0
+LJSpeech-1.1/mels/LJ016-0347.pt|LJSpeech-1.1/durations/LJ016-0347.pt|LJSpeech-1.1/pitch_char/LJ016-0347.pt|had undoubtedly a solemn, impressive effect upon those outside.|1
+LJSpeech-1.1/mels/LJ019-0201.pt|LJSpeech-1.1/durations/LJ019-0201.pt|LJSpeech-1.1/pitch_char/LJ019-0201.pt|to select a sufficiently spacious piece of ground, and erect a prison which from foundations to roofs should be in conformity with the newest ideas.|1
+Jenny/mels/04049.pt|Jenny/durations/04049.pt|Jenny/pitch_char/04049.pt|The man said, No. Hawthorne is almost alone in his command of BOTH kinds.|0
+LJSpeech-1.1/mels/LJ005-0072.pt|LJSpeech-1.1/durations/LJ005-0072.pt|LJSpeech-1.1/pitch_char/LJ005-0072.pt|After a few years of active exertion the Society was rewarded by fresh legislation.|1
+LJSpeech-1.1/mels/LJ006-0082.pt|LJSpeech-1.1/durations/LJ006-0082.pt|LJSpeech-1.1/pitch_char/LJ006-0082.pt|and this particular official took excellent care to select as residents for his own ward those most suitable from his own point of view.|1
+Jenny/mels/04467.pt|Jenny/durations/04467.pt|Jenny/pitch_char/04467.pt|Oh, he makes things spin!|0
+LJSpeech-1.1/mels/LJ044-0137.pt|LJSpeech-1.1/durations/LJ044-0137.pt|LJSpeech-1.1/pitch_char/LJ044-0137.pt|More seriously, the facts of his defection had become known, leaving him open to almost unanswerable attack by those who opposed his views.|1
+LJSpeech-1.1/mels/LJ039-0096.pt|LJSpeech-1.1/durations/LJ039-0096.pt|LJSpeech-1.1/pitch_char/LJ039-0096.pt|This is a definite advantage to the shooter, the vehicle moving directly away from him and the downgrade of the street, and he being in an elevated position|1
+LJSpeech-1.1/mels/LJ003-0211.pt|LJSpeech-1.1/durations/LJ003-0211.pt|LJSpeech-1.1/pitch_char/LJ003-0211.pt|They were never left quite alone for fear of suicide, and for the same reason they were searched for weapons or poisons.|1
+Jenny/mels/04975.pt|Jenny/durations/04975.pt|Jenny/pitch_char/04975.pt|When you have slain all the gossips in this town, can we eat them?|0
+Jenny/mels/04060.pt|Jenny/durations/04060.pt|Jenny/pitch_char/04060.pt|Do you think you will have any supper this evening?|0
+Jenny/mels/06570.pt|Jenny/durations/06570.pt|Jenny/pitch_char/06570.pt|I instantly covered them from sight with two of my own precious publications.|0
+Jenny/mels/04260.pt|Jenny/durations/04260.pt|Jenny/pitch_char/04260.pt|Only a few old men could remember the last meeting of the States General.|0
+Jenny/mels/06599.pt|Jenny/durations/06599.pt|Jenny/pitch_char/06599.pt|Let the lover breathe his vows to the Shades.|0
+LJSpeech-1.1/mels/LJ015-0027.pt|LJSpeech-1.1/durations/LJ015-0027.pt|LJSpeech-1.1/pitch_char/LJ015-0027.pt|Yet even so early as the death of the first Sir John Paul,|1
+LJSpeech-1.1/mels/LJ044-0158.pt|LJSpeech-1.1/durations/LJ044-0158.pt|LJSpeech-1.1/pitch_char/LJ044-0158.pt|As for my return entrance visa please consider it separately. End quote.|1
+LJSpeech-1.1/mels/LJ008-0054.pt|LJSpeech-1.1/durations/LJ008-0054.pt|LJSpeech-1.1/pitch_char/LJ008-0054.pt|This contrivance appears to have been copied with improvements from that which had been used in Dublin at a still earlier date,|1
+LJSpeech-1.1/mels/LJ016-0049.pt|LJSpeech-1.1/durations/LJ016-0049.pt|LJSpeech-1.1/pitch_char/LJ016-0049.pt|He had here completed his ascent.|1
+LJSpeech-1.1/mels/LJ009-0280.pt|LJSpeech-1.1/durations/LJ009-0280.pt|LJSpeech-1.1/pitch_char/LJ009-0280.pt|Again the wretched creature succeeded in obtaining foothold, but this time on the left side of the drop.|1
+LJSpeech-1.1/mels/LJ021-0110.pt|LJSpeech-1.1/durations/LJ021-0110.pt|LJSpeech-1.1/pitch_char/LJ021-0110.pt|have been best calculated to promote industrial recovery and a permanent improvement of business and labor conditions.|1
+LJSpeech-1.1/mels/LJ030-0021.pt|LJSpeech-1.1/durations/LJ030-0021.pt|LJSpeech-1.1/pitch_char/LJ030-0021.pt|all one had to do was get a high building someday with a telescopic rifle, and there was nothing anybody could do to defend against such an attempt.|1
+LJSpeech-1.1/mels/LJ019-0371.pt|LJSpeech-1.1/durations/LJ019-0371.pt|LJSpeech-1.1/pitch_char/LJ019-0371.pt|Yet the law was seldom if ever enforced.|1
+LJSpeech-1.1/mels/LJ003-0011.pt|LJSpeech-1.1/durations/LJ003-0011.pt|LJSpeech-1.1/pitch_char/LJ003-0011.pt|that not more than one bottle of wine or one quart of beer could be issued at one time. No account was taken of the amount of liquors admitted in one day,|1
+Jenny/mels/04941.pt|Jenny/durations/04941.pt|Jenny/pitch_char/04941.pt|But that was tough work! But the murderers had not followed the paths.|0
+LJSpeech-1.1/mels/LJ019-0335.pt|LJSpeech-1.1/durations/LJ019-0335.pt|LJSpeech-1.1/pitch_char/LJ019-0335.pt|The books and journals he was to keep were minutely specified, and his constant presence in or near the jail was insisted upon.|1
+LJSpeech-1.1/mels/LJ037-0081.pt|LJSpeech-1.1/durations/LJ037-0081.pt|LJSpeech-1.1/pitch_char/LJ037-0081.pt|Later in the day each woman found an empty shell on the ground near the house. These two shells were delivered to the police.|1
+LJSpeech-1.1/mels/LJ043-0107.pt|LJSpeech-1.1/durations/LJ043-0107.pt|LJSpeech-1.1/pitch_char/LJ043-0107.pt|Upon moving to New Orleans on April twenty-four, nineteen sixty-three,|1
+LJSpeech-1.1/mels/LJ010-0062.pt|LJSpeech-1.1/durations/LJ010-0062.pt|LJSpeech-1.1/pitch_char/LJ010-0062.pt|But they proceeded in all seriousness, and would have shrunk from no outrage or atrocity in furtherance of their foolhardy enterprise.|1
+LJSpeech-1.1/mels/LJ041-0070.pt|LJSpeech-1.1/durations/LJ041-0070.pt|LJSpeech-1.1/pitch_char/LJ041-0070.pt|He did not rise above the rank of private first class, even though he had passed a qualifying examination for the rank of corporal.|1
+Jenny/mels/06377.pt|Jenny/durations/06377.pt|Jenny/pitch_char/06377.pt|"No," said he, "a young girl is not thus abandoned, when she has a dowry of a million, unless for some good reason." I am, Tom.|0
+Jenny/mels/05362.pt|Jenny/durations/05362.pt|Jenny/pitch_char/05362.pt|This man she had never known, or loved.|0
+LJSpeech-1.1/mels/LJ016-0238.pt|LJSpeech-1.1/durations/LJ016-0238.pt|LJSpeech-1.1/pitch_char/LJ016-0238.pt|"just to steady their legs a little;" in other words, to add his weight to that of the hanging bodies.|1
+Jenny/mels/00426.pt|Jenny/durations/00426.pt|Jenny/pitch_char/00426.pt|I mean, I know this is just a first step, but I hope that someday|0
+Jenny/mels/04637.pt|Jenny/durations/04637.pt|Jenny/pitch_char/04637.pt|This life has a morrow.|0
+Jenny/mels/04558.pt|Jenny/durations/04558.pt|Jenny/pitch_char/04558.pt|It was a night of almost equal suffering to both.|0
+Jenny/mels/06210.pt|Jenny/durations/06210.pt|Jenny/pitch_char/06210.pt|Why, what did she do? How magnificent was the sight from this height!|0
+Jenny/mels/04098.pt|Jenny/durations/04098.pt|Jenny/pitch_char/04098.pt|And I hung his key on the nail!|0
+Jenny/mels/00339.pt|Jenny/durations/00339.pt|Jenny/pitch_char/00339.pt|Why is it unfair? So I have a flaw! Big deal!|0
+LJSpeech-1.1/mels/LJ016-0264.pt|LJSpeech-1.1/durations/LJ016-0264.pt|LJSpeech-1.1/pitch_char/LJ016-0264.pt|The upturned faces of the eager spectators resembled those of the 'gods' at Drury Lane on Boxing Night;|1
+LJSpeech-1.1/mels/LJ030-0084.pt|LJSpeech-1.1/durations/LJ030-0084.pt|LJSpeech-1.1/pitch_char/LJ030-0084.pt|or when the press of the crowd made it impossible for the escort motorcycles to stay in position on the car's rear flanks.|1
+Jenny/mels/03106.pt|Jenny/durations/03106.pt|Jenny/pitch_char/03106.pt|Oh David. But what are you gonna do?|0
+LJSpeech-1.1/mels/LJ012-0015.pt|LJSpeech-1.1/durations/LJ012-0015.pt|LJSpeech-1.1/pitch_char/LJ012-0015.pt|Weedon and Lecasser to twelve and six months respectively in Coldbath Fields.|1
+LJSpeech-1.1/mels/LJ031-0058.pt|LJSpeech-1.1/durations/LJ031-0058.pt|LJSpeech-1.1/pitch_char/LJ031-0058.pt|to infuse blood and fluids into the circulatory system.|1
+Jenny/mels/04011.pt|Jenny/durations/04011.pt|Jenny/pitch_char/04011.pt|I ain't going. Was it William that she really addressed?|0
+LJSpeech-1.1/mels/LJ026-0034.pt|LJSpeech-1.1/durations/LJ026-0034.pt|LJSpeech-1.1/pitch_char/LJ026-0034.pt|When any given "protist" has to be classified the case must be decided on its individual merits;|1
+Jenny/mels/05350.pt|Jenny/durations/05350.pt|Jenny/pitch_char/05350.pt|I am sure your dress must make you feel ill.|0
+LJSpeech-1.1/mels/LJ034-0097.pt|LJSpeech-1.1/durations/LJ034-0097.pt|LJSpeech-1.1/pitch_char/LJ034-0097.pt|The window was approximately one hundred twenty feet away.|1
+LJSpeech-1.1/mels/LJ001-0102.pt|LJSpeech-1.1/durations/LJ001-0102.pt|LJSpeech-1.1/pitch_char/LJ001-0102.pt|Here and there a book is printed in France or Germany with some pretension to good taste,|1
+Jenny/mels/01021.pt|Jenny/durations/01021.pt|Jenny/pitch_char/01021.pt|his head is flopping down Broadway, right?|0
+Jenny/mels/03670.pt|Jenny/durations/03670.pt|Jenny/pitch_char/03670.pt|I wish I was well rid of her.|0
+Jenny/mels/03805.pt|Jenny/durations/03805.pt|Jenny/pitch_char/03805.pt|Only adopted.|0
+Jenny/mels/01924.pt|Jenny/durations/01924.pt|Jenny/pitch_char/01924.pt|What happened to the puppet guy? Dad.|0
+Jenny/mels/05047.pt|Jenny/durations/05047.pt|Jenny/pitch_char/05047.pt|The insurrection was permanent and masquerade a normal state.|0
+Jenny/mels/04314.pt|Jenny/durations/04314.pt|Jenny/pitch_char/04314.pt|And is not this an honourable spoil, A gallant prize?|0
+LJSpeech-1.1/mels/LJ033-0072.pt|LJSpeech-1.1/durations/LJ033-0072.pt|LJSpeech-1.1/pitch_char/LJ033-0072.pt|I then stepped off of it and the officer picked it up in the middle and it bent so.|1
+Jenny/mels/02469.pt|Jenny/durations/02469.pt|Jenny/pitch_char/02469.pt|They said I acted too much with it.|0
+LJSpeech-1.1/mels/LJ015-0007.pt|LJSpeech-1.1/durations/LJ015-0007.pt|LJSpeech-1.1/pitch_char/LJ015-0007.pt|This affected Cole's credit, and ugly reports were in circulation charging him with the issue of simulated warrants.|1
+Jenny/mels/04131.pt|Jenny/durations/04131.pt|Jenny/pitch_char/04131.pt|He went out, SLAMMING the door in disgust.|0
+Jenny/mels/05588.pt|Jenny/durations/05588.pt|Jenny/pitch_char/05588.pt|Sit DOWN and compose yourself. How is it worse?|0
+Jenny/mels/02603.pt|Jenny/durations/02603.pt|Jenny/pitch_char/02603.pt|that's it. Then I'm here talking to you, and it's easy and it's fun.|0
+LJSpeech-1.1/mels/LJ015-0194.pt|LJSpeech-1.1/durations/LJ015-0194.pt|LJSpeech-1.1/pitch_char/LJ015-0194.pt|and behaved so as to justify a belief that he had been a jail-bird all his life.|1
+LJSpeech-1.1/mels/LJ003-0107.pt|LJSpeech-1.1/durations/LJ003-0107.pt|LJSpeech-1.1/pitch_char/LJ003-0107.pt|he slept in the same bed with a highwayman on one side, and a man charged with murder on the other.|1
+Jenny/mels/01474.pt|Jenny/durations/01474.pt|Jenny/pitch_char/01474.pt|Who is it? Alan.|0
+LJSpeech-1.1/mels/LJ047-0056.pt|LJSpeech-1.1/durations/LJ047-0056.pt|LJSpeech-1.1/pitch_char/LJ047-0056.pt|From August nineteen sixty-two|1
+LJSpeech-1.1/mels/LJ031-0165.pt|LJSpeech-1.1/durations/LJ031-0165.pt|LJSpeech-1.1/pitch_char/LJ031-0165.pt|When security arrangements at the airport were complete, the Secret Service made the necessary arrangements for the Vice President to leave the hospital.|1
+Jenny/mels/03427.pt|Jenny/durations/03427.pt|Jenny/pitch_char/03427.pt|I remember standing in a cathedral "somewhere in France" during the celebration of some special Big Magic. You hurt me!|0
+LJSpeech-1.1/mels/LJ012-0067.pt|LJSpeech-1.1/durations/LJ012-0067.pt|LJSpeech-1.1/pitch_char/LJ012-0067.pt|But Mrs. Solomons could not resist the temptation to dabble in stolen goods, and she was found shipping watches of the wrong category to New York.|1
+LJSpeech-1.1/mels/LJ006-0044.pt|LJSpeech-1.1/durations/LJ006-0044.pt|LJSpeech-1.1/pitch_char/LJ006-0044.pt|the same callous indifference to the moral well-being of the prisoners, the same want of employment and of all disciplinary control.|1
+Jenny/mels/01947.pt|Jenny/durations/01947.pt|Jenny/pitch_char/01947.pt|Let me just change. Trouble?|0
+Jenny/mels/05613.pt|Jenny/durations/05613.pt|Jenny/pitch_char/05613.pt|You have known me since some ten years, I think; and I have known you.|0
+Jenny/mels/05359.pt|Jenny/durations/05359.pt|Jenny/pitch_char/05359.pt|And he who has learned music a musician?|0
+Jenny/mels/05857.pt|Jenny/durations/05857.pt|Jenny/pitch_char/05857.pt|Absolutely! There was always something about Jane that attracted men.|0
+Jenny/mels/01860.pt|Jenny/durations/01860.pt|Jenny/pitch_char/01860.pt|Do you suffer any restriction in movement in the joints?|0
+LJSpeech-1.1/mels/LJ010-0281.pt|LJSpeech-1.1/durations/LJ010-0281.pt|LJSpeech-1.1/pitch_char/LJ010-0281.pt|who had borne the Queen's commission, first as cornet, and then lieutenant, in the tenth Hussars.|1
+Jenny/mels/04409.pt|Jenny/durations/04409.pt|Jenny/pitch_char/04409.pt|But it's all so funny. I will, my lord.|0
+LJSpeech-1.1/mels/LJ044-0125.pt|LJSpeech-1.1/durations/LJ044-0125.pt|LJSpeech-1.1/pitch_char/LJ044-0125.pt|of residence in the U.S.S.R. against any cause which I join, by association,|1
+Jenny/mels/01321.pt|Jenny/durations/01321.pt|Jenny/pitch_char/01321.pt|It's my bank.|0
+Jenny/mels/06579.pt|Jenny/durations/06579.pt|Jenny/pitch_char/06579.pt|If I only had your reputation and your prospects!|0
+Jenny/mels/06332.pt|Jenny/durations/06332.pt|Jenny/pitch_char/06332.pt|The apology is inadequate. Saving that flesh with blood you shall not eat.|0
+LJSpeech-1.1/mels/LJ002-0220.pt|LJSpeech-1.1/durations/LJ002-0220.pt|LJSpeech-1.1/pitch_char/LJ002-0220.pt|In consequence of these disclosures, both Bambridge and Huggin, his predecessor in the office, were committed to Newgate,|1
+LJSpeech-1.1/mels/LJ023-0016.pt|LJSpeech-1.1/durations/LJ023-0016.pt|LJSpeech-1.1/pitch_char/LJ023-0016.pt|In nineteen thirty-three you and I knew that we must never let our economic system get completely out of joint again|1
+Jenny/mels/03581.pt|Jenny/durations/03581.pt|Jenny/pitch_char/03581.pt|For if you did believe Moses, you would perhaps believe me also: for he wrote of me.|0
+Jenny/mels/06023.pt|Jenny/durations/06023.pt|Jenny/pitch_char/06023.pt|She got up and walked across to her husband.|0
+LJSpeech-1.1/mels/LJ048-0112.pt|LJSpeech-1.1/durations/LJ048-0112.pt|LJSpeech-1.1/pitch_char/LJ048-0112.pt|The Commission also regards the security arrangements worked out by Lawson and Sorrels at Love Field as entirely adequate.|1
+LJSpeech-1.1/mels/LJ012-0271.pt|LJSpeech-1.1/durations/LJ012-0271.pt|LJSpeech-1.1/pitch_char/LJ012-0271.pt|Whether it was greed or a quarrel that drove Greenacre to the desperate deed remains obscure.|1
+LJSpeech-1.1/mels/LJ031-0014.pt|LJSpeech-1.1/durations/LJ031-0014.pt|LJSpeech-1.1/pitch_char/LJ031-0014.pt|the Presidential limousine arrived at the emergency entrance of the Parkland Hospital at about twelve:thirty-five p.m.|1
+LJSpeech-1.1/mels/LJ016-0417.pt|LJSpeech-1.1/durations/LJ016-0417.pt|LJSpeech-1.1/pitch_char/LJ016-0417.pt|Catherine Wilson, the poisoner, was reserved and reticent to the last, expressing no contrition, but also no fear --|1
+Jenny/mels/03937.pt|Jenny/durations/03937.pt|Jenny/pitch_char/03937.pt|Life with a man is more businesslike after it, and money matters work better.|0
+LJSpeech-1.1/mels/LJ021-0091.pt|LJSpeech-1.1/durations/LJ021-0091.pt|LJSpeech-1.1/pitch_char/LJ021-0091.pt|In this recent reorganization we have recognized three distinct functions:|1
+Jenny/mels/00661.pt|Jenny/durations/00661.pt|Jenny/pitch_char/00661.pt|let's see what it looked like in the old spot.|0
+Jenny/mels/02430.pt|Jenny/durations/02430.pt|Jenny/pitch_char/02430.pt|I mean they feel the thing|0
+LJSpeech-1.1/mels/LJ007-0130.pt|LJSpeech-1.1/durations/LJ007-0130.pt|LJSpeech-1.1/pitch_char/LJ007-0130.pt|are all huddled together without discrimination, oversight, or control."|1
+Jenny/mels/04216.pt|Jenny/durations/04216.pt|Jenny/pitch_char/04216.pt|The white man's duties are in his mind clearly defined.|0
+LJSpeech-1.1/mels/LJ037-0053.pt|LJSpeech-1.1/durations/LJ037-0053.pt|LJSpeech-1.1/pitch_char/LJ037-0053.pt|who had been greatly upset by her experience, was able to view a lineup of four men handcuffed together at the police station.|1
+LJSpeech-1.1/mels/LJ042-0135.pt|LJSpeech-1.1/durations/LJ042-0135.pt|LJSpeech-1.1/pitch_char/LJ042-0135.pt|that he was not yet twenty years old when he went to the Soviet Union with such high hopes and not quite twenty-three when he returned bitterly disappointed.|1
+Jenny/mels/04633.pt|Jenny/durations/04633.pt|Jenny/pitch_char/04633.pt|As pilgrim to the temple of a shrine.|0
+Jenny/mels/02642.pt|Jenny/durations/02642.pt|Jenny/pitch_char/02642.pt|State disorders in the family|0
+LJSpeech-1.1/mels/LJ035-0164.pt|LJSpeech-1.1/durations/LJ035-0164.pt|LJSpeech-1.1/pitch_char/LJ035-0164.pt|three minutes after the shooting.|1
+LJSpeech-1.1/mels/LJ005-0265.pt|LJSpeech-1.1/durations/LJ005-0265.pt|LJSpeech-1.1/pitch_char/LJ005-0265.pt|It was recommended that the dietaries should be submitted and approved like the rules; that convicted prisoners should not receive any food but the jail allowance;|1
+LJSpeech-1.1/mels/LJ028-0289.pt|LJSpeech-1.1/durations/LJ028-0289.pt|LJSpeech-1.1/pitch_char/LJ028-0289.pt|For he cut off his own nose and ears, and then, clipping his hair close and flogging himself with a scourge,|1
+LJSpeech-1.1/mels/LJ032-0103.pt|LJSpeech-1.1/durations/LJ032-0103.pt|LJSpeech-1.1/pitch_char/LJ032-0103.pt|The name "Hidell" was stamped on some of the "Chapter's" printed literature and on the membership application blanks.|1
+Jenny/mels/04968.pt|Jenny/durations/04968.pt|Jenny/pitch_char/04968.pt|What is it ails you, this night, Nora Burke?|0
+Jenny/mels/04613.pt|Jenny/durations/04613.pt|Jenny/pitch_char/04613.pt|Where will honour be then? Then what do you suggest?|0
+LJSpeech-1.1/mels/LJ014-0265.pt|LJSpeech-1.1/durations/LJ014-0265.pt|LJSpeech-1.1/pitch_char/LJ014-0265.pt|and later he became manager of the newly rebuilt Olympic at Wych Street.|1
+Jenny/mels/01277.pt|Jenny/durations/01277.pt|Jenny/pitch_char/01277.pt|Something's in my eye. Could we check it in the light, please?|0
+LJSpeech-1.1/mels/LJ028-0502.pt|LJSpeech-1.1/durations/LJ028-0502.pt|LJSpeech-1.1/pitch_char/LJ028-0502.pt|The Ishtar gateway leading to the palace was encased with beautiful blue glazed bricks,|1
+LJSpeech-1.1/mels/LJ046-0113.pt|LJSpeech-1.1/durations/LJ046-0113.pt|LJSpeech-1.1/pitch_char/LJ046-0113.pt|The Commission has concluded that at the time of the assassination|1
+Jenny/mels/05763.pt|Jenny/durations/05763.pt|Jenny/pitch_char/05763.pt|The hereditary principle is good, because it is founded on fact and nature.|0
+LJSpeech-1.1/mels/LJ016-0248.pt|LJSpeech-1.1/durations/LJ016-0248.pt|LJSpeech-1.1/pitch_char/LJ016-0248.pt|Marwood was proud of his calling, and when questioned as to whether his process was satisfactory, replied that he heard "no complaints."|1
+LJSpeech-1.1/mels/LJ044-0135.pt|LJSpeech-1.1/durations/LJ044-0135.pt|LJSpeech-1.1/pitch_char/LJ044-0135.pt|While he had drawn some attention to himself and had actually appeared on two radio programs, he had been attacked by Cuban exiles and arrested,|1
+Jenny/mels/03673.pt|Jenny/durations/03673.pt|Jenny/pitch_char/03673.pt|When do the performances in the schoolroom begin? A Plain before the Castle.|0
+Jenny/mels/01073.pt|Jenny/durations/01073.pt|Jenny/pitch_char/01073.pt|Okay, so I'm responsible. I'm organized. Imagine this.|0
+Jenny/mels/02217.pt|Jenny/durations/02217.pt|Jenny/pitch_char/02217.pt|I'm not in a meeting.|0
+Jenny/mels/01149.pt|Jenny/durations/01149.pt|Jenny/pitch_char/01149.pt|I don't know if it's your kind of thing|0
+LJSpeech-1.1/mels/LJ009-0061.pt|LJSpeech-1.1/durations/LJ009-0061.pt|LJSpeech-1.1/pitch_char/LJ009-0061.pt|He staggers towards the pew, reels into it, stumbles forward, flings himself on the ground, and, by a curious twist of the spine,|1
+Jenny/mels/02465.pt|Jenny/durations/02465.pt|Jenny/pitch_char/02465.pt|Peaches? Actually, nectarines but. Could've been a peach.|0
+Jenny/mels/03671.pt|Jenny/durations/03671.pt|Jenny/pitch_char/03671.pt|Her voice was delicious; her bow, as she left me, was the perfection of unaffected grace.|0
+Jenny/mels/03859.pt|Jenny/durations/03859.pt|Jenny/pitch_char/03859.pt|I've been having a run of hard luck.|0
+LJSpeech-1.1/mels/LJ012-0054.pt|LJSpeech-1.1/durations/LJ012-0054.pt|LJSpeech-1.1/pitch_char/LJ012-0054.pt|Solomons, while waiting to appear in court, persuaded the turnkeys to take him to a public-house, where all might "refresh."|1
+LJSpeech-1.1/mels/LJ010-0257.pt|LJSpeech-1.1/durations/LJ010-0257.pt|LJSpeech-1.1/pitch_char/LJ010-0257.pt|a third miscreant made a similar but far less serious attempt in the month of July following.|1
+LJSpeech-1.1/mels/LJ015-0025.pt|LJSpeech-1.1/durations/LJ015-0025.pt|LJSpeech-1.1/pitch_char/LJ015-0025.pt|The bank enjoyed an excellent reputation, it had a good connection, and was supposed to be perfectly sound.|1
+LJSpeech-1.1/mels/LJ017-0108.pt|LJSpeech-1.1/durations/LJ017-0108.pt|LJSpeech-1.1/pitch_char/LJ017-0108.pt|He was struck with the appearance of the corpse, which was not emaciated, as after a long disease ending in death;|1
+Jenny/mels/06107.pt|Jenny/durations/06107.pt|Jenny/pitch_char/06107.pt|And that's exactly what's happened!|0
+LJSpeech-1.1/mels/LJ032-0206.pt|LJSpeech-1.1/durations/LJ032-0206.pt|LJSpeech-1.1/pitch_char/LJ032-0206.pt|After comparing the rifle in the simulated photograph with the rifle in Exhibit Number one thirty-three A, Shaneyfelt testified, quote,|1
+LJSpeech-1.1/mels/LJ006-0040.pt|LJSpeech-1.1/durations/LJ006-0040.pt|LJSpeech-1.1/pitch_char/LJ006-0040.pt|The fact was that the years as they passed, nearly twenty in all, had worked but little permanent improvement in this detestable prison.|1
+LJSpeech-1.1/mels/LJ045-0015.pt|LJSpeech-1.1/durations/LJ045-0015.pt|LJSpeech-1.1/pitch_char/LJ045-0015.pt|which Johnson said he did not receive until after the assassination. The letter said in part, quote,|1
+LJSpeech-1.1/mels/LJ016-0283.pt|LJSpeech-1.1/durations/LJ016-0283.pt|LJSpeech-1.1/pitch_char/LJ016-0283.pt|to do them mere justice, there was at least till then a half-drunken ribald gaiety among the crowd that made them all akin."|1
+LJSpeech-1.1/mels/LJ034-0072.pt|LJSpeech-1.1/durations/LJ034-0072.pt|LJSpeech-1.1/pitch_char/LJ034-0072.pt|The employees raced the elevators to the first floor. Givens saw Oswald standing at the gate on the fifth floor as the elevator went by.|1
+Jenny/mels/00386.pt|Jenny/durations/00386.pt|Jenny/pitch_char/00386.pt|Listen, I just wanna thank you for this great opportunity. Me?|0
+Jenny/mels/02009.pt|Jenny/durations/02009.pt|Jenny/pitch_char/02009.pt|When did you undergo surgery or laser?|0
+LJSpeech-1.1/mels/LJ031-0185.pt|LJSpeech-1.1/durations/LJ031-0185.pt|LJSpeech-1.1/pitch_char/LJ031-0185.pt|From the Presidential airplane, the Vice President telephoned Attorney General Robert F. Kennedy,|1
+LJSpeech-1.1/mels/LJ001-0015.pt|LJSpeech-1.1/durations/LJ001-0015.pt|LJSpeech-1.1/pitch_char/LJ001-0015.pt|the forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves.|1
+LJSpeech-1.1/mels/LJ012-0230.pt|LJSpeech-1.1/durations/LJ012-0230.pt|LJSpeech-1.1/pitch_char/LJ012-0230.pt|Shortly before the day fixed for execution, Bishop made a full confession, the bulk of which bore the impress of truth,|1
+LJSpeech-1.1/mels/LJ034-0166.pt|LJSpeech-1.1/durations/LJ034-0166.pt|LJSpeech-1.1/pitch_char/LJ034-0166.pt|Two other witnesses were able to offer partial descriptions of a man they saw in the southeast corner window|1
+Jenny/mels/04848.pt|Jenny/durations/04848.pt|Jenny/pitch_char/04848.pt|She took his hand gratefully. Please begin. Thirty minutes and not a minute more.|0
+LJSpeech-1.1/mels/LJ042-0219.pt|LJSpeech-1.1/durations/LJ042-0219.pt|LJSpeech-1.1/pitch_char/LJ042-0219.pt|Oswald demonstrated his thinking in connection with his return to the United States by preparing two sets of identical questions of the type which he might have thought|1
+LJSpeech-1.1/mels/LJ049-0154.pt|LJSpeech-1.1/durations/LJ049-0154.pt|LJSpeech-1.1/pitch_char/LJ049-0154.pt|In eighteen ninety-four,|1
+LJSpeech-1.1/mels/LJ016-0137.pt|LJSpeech-1.1/durations/LJ016-0137.pt|LJSpeech-1.1/pitch_char/LJ016-0137.pt|that numbers of men, "lifers," and others with ten, fourteen, or twenty years to do, can be trusted to work out of doors without bolts and bars|1
+Jenny/mels/02455.pt|Jenny/durations/02455.pt|Jenny/pitch_char/02455.pt|Oh my God! There's really money in here. I know.|0
+Jenny/mels/00383.pt|Jenny/durations/00383.pt|Jenny/pitch_char/00383.pt|Listen, as someone who's seen more than her share of bad beef|0
+Jenny/mels/05530.pt|Jenny/durations/05530.pt|Jenny/pitch_char/05530.pt|She had one FIXED idea.|0
+LJSpeech-1.1/mels/LJ030-0006.pt|LJSpeech-1.1/durations/LJ030-0006.pt|LJSpeech-1.1/pitch_char/LJ030-0006.pt|They took off in the Presidential plane, Air Force One, at eleven a.m., arriving at San Antonio at one:thirty p.m., Eastern Standard Time.|1
+Jenny/mels/04993.pt|Jenny/durations/04993.pt|Jenny/pitch_char/04993.pt|We do not want conquests.|0
+LJSpeech-1.1/mels/LJ014-0233.pt|LJSpeech-1.1/durations/LJ014-0233.pt|LJSpeech-1.1/pitch_char/LJ014-0233.pt|he shot an old soldier who had attempted to detain him. He was convicted and executed.|1
+LJSpeech-1.1/mels/LJ012-0021.pt|LJSpeech-1.1/durations/LJ012-0021.pt|LJSpeech-1.1/pitch_char/LJ012-0021.pt|at fourteen he was a pickpocket and a "duffer," or a seller of sham goods.|1
+LJSpeech-1.1/mels/LJ039-0088.pt|LJSpeech-1.1/durations/LJ039-0088.pt|LJSpeech-1.1/pitch_char/LJ039-0088.pt|It just is an aid in seeing in the fact that you only have the one element, the crosshair,|1
+Jenny/mels/04846.pt|Jenny/durations/04846.pt|Jenny/pitch_char/04846.pt|Mine is a misery which nothing can do away.|0
+Jenny/mels/04062.pt|Jenny/durations/04062.pt|Jenny/pitch_char/04062.pt|What can I do to help you, Henry.|0
+LJSpeech-1.1/mels/LJ049-0202.pt|LJSpeech-1.1/durations/LJ049-0202.pt|LJSpeech-1.1/pitch_char/LJ049-0202.pt|incident to its responsibilities.|1
+Jenny/mels/01320.pt|Jenny/durations/01320.pt|Jenny/pitch_char/01320.pt|Are people eating my dip? Yes.|0
+LJSpeech-1.1/mels/LJ043-0188.pt|LJSpeech-1.1/durations/LJ043-0188.pt|LJSpeech-1.1/pitch_char/LJ043-0188.pt|that he was the leader of a fascist organization, and when I said that even though all of that might be true, just the same he had no right to take his life,|1
+LJSpeech-1.1/mels/LJ002-0298.pt|LJSpeech-1.1/durations/LJ002-0298.pt|LJSpeech-1.1/pitch_char/LJ002-0298.pt|in his evidence in eighteen fourteen, said it was more,|1
+Jenny/mels/03190.pt|Jenny/durations/03190.pt|Jenny/pitch_char/03190.pt|This is still ruined right?|0
+Jenny/mels/05560.pt|Jenny/durations/05560.pt|Jenny/pitch_char/05560.pt|I am far from denying that this is a distinction of peculiar importance.|0
+LJSpeech-1.1/mels/LJ050-0029.pt|LJSpeech-1.1/durations/LJ050-0029.pt|LJSpeech-1.1/pitch_char/LJ050-0029.pt|that is reflected in definite and comprehensive operating procedures.|1
+Jenny/mels/05701.pt|Jenny/durations/05701.pt|Jenny/pitch_char/05701.pt|The seat was lost, after all, by a narrow majority.|0
+LJSpeech-1.1/mels/LJ005-0248.pt|LJSpeech-1.1/durations/LJ005-0248.pt|LJSpeech-1.1/pitch_char/LJ005-0248.pt|and stated that in his opinion Newgate, as the common jail of Middlesex, was wholly inadequate to the proper confinement of its prisoners.|1
+Jenny/mels/03424.pt|Jenny/durations/03424.pt|Jenny/pitch_char/03424.pt|Not dying, like me? Who is it, Morrison?|0
+Jenny/mels/00250.pt|Jenny/durations/00250.pt|Jenny/pitch_char/00250.pt|Unless I get them, then wake up really early and put them back.|0
+LJSpeech-1.1/mels/LJ039-0125.pt|LJSpeech-1.1/durations/LJ039-0125.pt|LJSpeech-1.1/pitch_char/LJ039-0125.pt|that Oswald was a good shot, somewhat better than or equal to -- better than the average let us say.|1
+Jenny/mels/06303.pt|Jenny/durations/06303.pt|Jenny/pitch_char/06303.pt|Are you really such a fool as to die rather than hold your tongue?|0
+Jenny/mels/03923.pt|Jenny/durations/03923.pt|Jenny/pitch_char/03923.pt|He had never seen her look more beautiful.|0
+LJSpeech-1.1/mels/LJ010-0297.pt|LJSpeech-1.1/durations/LJ010-0297.pt|LJSpeech-1.1/pitch_char/LJ010-0297.pt|But there were other notorious cases of forgery.|1
+Jenny/mels/01340.pt|Jenny/durations/01340.pt|Jenny/pitch_char/01340.pt|He's wearing a sweater. No.|0
+Jenny/mels/06341.pt|Jenny/durations/06341.pt|Jenny/pitch_char/06341.pt|She is younger than you.|0
+LJSpeech-1.1/mels/LJ047-0240.pt|LJSpeech-1.1/durations/LJ047-0240.pt|LJSpeech-1.1/pitch_char/LJ047-0240.pt|They agree that Hosty told Revill|1
+Jenny/mels/04378.pt|Jenny/durations/04378.pt|Jenny/pitch_char/04378.pt|He passed on, and the street was again desolate.|0
+Jenny/mels/00033.pt|Jenny/durations/00033.pt|Jenny/pitch_char/00033.pt|I know I had it when I was in the kitchen with|0
+Jenny/mels/02247.pt|Jenny/durations/02247.pt|Jenny/pitch_char/02247.pt|Boys? We're going in. Hi.|0
+Jenny/mels/01611.pt|Jenny/durations/01611.pt|Jenny/pitch_char/01611.pt|Do you plan to have a surgery for your complaints?|0
+LJSpeech-1.1/mels/LJ007-0076.pt|LJSpeech-1.1/durations/LJ007-0076.pt|LJSpeech-1.1/pitch_char/LJ007-0076.pt|The lax discipline maintained in Newgate was still further deteriorated by the presence of two other classes of prisoners who ought never to have been inmates of such a jail.|1
+LJSpeech-1.1/mels/LJ045-0096.pt|LJSpeech-1.1/durations/LJ045-0096.pt|LJSpeech-1.1/pitch_char/LJ045-0096.pt|Mrs. De Mohrenschildt thought that Oswald,|1
+LJSpeech-1.1/mels/LJ024-0018.pt|LJSpeech-1.1/durations/LJ024-0018.pt|LJSpeech-1.1/pitch_char/LJ024-0018.pt|Consequently, although there never can be more than fifteen, there may be only fourteen, or thirteen, or twelve.|1
+LJSpeech-1.1/mels/LJ029-0114.pt|LJSpeech-1.1/durations/LJ029-0114.pt|LJSpeech-1.1/pitch_char/LJ029-0114.pt|The route chosen from the airport to Main Street was the normal one, except where Harwood Street was selected as the means of access to Main Street|1
+Jenny/mels/05692.pt|Jenny/durations/05692.pt|Jenny/pitch_char/05692.pt|They set off once more in the direction of the Bastille.|0
+LJSpeech-1.1/mels/LJ029-0004.pt|LJSpeech-1.1/durations/LJ029-0004.pt|LJSpeech-1.1/pitch_char/LJ029-0004.pt|The narrative of these events is based largely on the recollections of the participants,|1
+Jenny/mels/01700.pt|Jenny/durations/01700.pt|Jenny/pitch_char/01700.pt|Even more than I was.|0
+Jenny/mels/02420.pt|Jenny/durations/02420.pt|Jenny/pitch_char/02420.pt|Do you suffer from any complications?|0
+Jenny/mels/05160.pt|Jenny/durations/05160.pt|Jenny/pitch_char/05160.pt|Oh, what a comfort a light can be! Six months more wilderness now.|0
+LJSpeech-1.1/mels/LJ039-0059.pt|LJSpeech-1.1/durations/LJ039-0059.pt|LJSpeech-1.1/pitch_char/LJ039-0059.pt|(three) his experience and practice after leaving the Marine Corps, and (four) the accuracy of the weapon and the quality of the ammunition.|1
+Jenny/mels/05523.pt|Jenny/durations/05523.pt|Jenny/pitch_char/05523.pt|It was a page that was closed. Would he peer into the darkness?|0
+LJSpeech-1.1/mels/LJ033-0174.pt|LJSpeech-1.1/durations/LJ033-0174.pt|LJSpeech-1.1/pitch_char/LJ033-0174.pt|microscopic and UV (ultra violet) characteristics, end quote.|1
+LJSpeech-1.1/mels/LJ045-0090.pt|LJSpeech-1.1/durations/LJ045-0090.pt|LJSpeech-1.1/pitch_char/LJ045-0090.pt|He was very much interested in autobiographical works of outstanding statesmen of the United States, to whom his wife thought he compared himself.|1
+LJSpeech-1.1/mels/LJ048-0197.pt|LJSpeech-1.1/durations/LJ048-0197.pt|LJSpeech-1.1/pitch_char/LJ048-0197.pt|I then told the officers that their primary duty was traffic and crowd control and that they should be alert for any persons who might attempt to throw anything|1
+Jenny/mels/05813.pt|Jenny/durations/05813.pt|Jenny/pitch_char/05813.pt|They know the means; they comprehend the final end. So she loved him! Air Pressure Indicator.|0
+LJSpeech-1.1/mels/LJ045-0082.pt|LJSpeech-1.1/durations/LJ045-0082.pt|LJSpeech-1.1/pitch_char/LJ045-0082.pt|it appears that Marina Oswald also complained that her husband was not able to provide more material things for her.|1
+Jenny/mels/01440.pt|Jenny/durations/01440.pt|Jenny/pitch_char/01440.pt|I was falling.|0
+Jenny/mels/03600.pt|Jenny/durations/03600.pt|Jenny/pitch_char/03600.pt|Quite another thing, as you may judge from this single fact.|0
+LJSpeech-1.1/mels/LJ012-0219.pt|LJSpeech-1.1/durations/LJ012-0219.pt|LJSpeech-1.1/pitch_char/LJ012-0219.pt|and in one corner, at some depth, a bundle of clothes were unearthed, which, with a hairy cap,|1
+LJSpeech-1.1/mels/LJ032-0027.pt|LJSpeech-1.1/durations/LJ032-0027.pt|LJSpeech-1.1/pitch_char/LJ032-0027.pt|According to its microfilm records, Klein's received an order for a rifle on March thirteen, nineteen sixty-three,|1
+Jenny/mels/00485.pt|Jenny/durations/00485.pt|Jenny/pitch_char/00485.pt|What do you say? Look please don't go anywhere.|0
+Jenny/mels/02148.pt|Jenny/durations/02148.pt|Jenny/pitch_char/02148.pt|Doesn't that make me seem? You obviously saw my personal ad.|0
+Jenny/mels/00901.pt|Jenny/durations/00901.pt|Jenny/pitch_char/00901.pt|Which kind of benefit? Why did you claim for?|0
+Jenny/mels/00646.pt|Jenny/durations/00646.pt|Jenny/pitch_char/00646.pt|And they are. Hey Chan|0
+Jenny/mels/06458.pt|Jenny/durations/06458.pt|Jenny/pitch_char/06458.pt|It was cold and the neighbors were cruel.|0
+Jenny/mels/00277.pt|Jenny/durations/00277.pt|Jenny/pitch_char/00277.pt|I just want it the way it was.|0
+LJSpeech-1.1/mels/LJ044-0013.pt|LJSpeech-1.1/durations/LJ044-0013.pt|LJSpeech-1.1/pitch_char/LJ044-0013.pt|Hands Off Cuba, end quote, an application form for, and a membership card in,|1
+Jenny/mels/02865.pt|Jenny/durations/02865.pt|Jenny/pitch_char/02865.pt|But I figure that shouldnt change anything. What does it matter how old we are?|0
+Jenny/mels/06808.pt|Jenny/durations/06808.pt|Jenny/pitch_char/06808.pt|She shook her head calmly.|0
+Jenny/mels/03166.pt|Jenny/durations/03166.pt|Jenny/pitch_char/03166.pt|I know but|0
+LJSpeech-1.1/mels/LJ033-0056.pt|LJSpeech-1.1/durations/LJ033-0056.pt|LJSpeech-1.1/pitch_char/LJ033-0056.pt|While the rifle may have already been disassembled when Oswald arrived home on Thursday, he had ample time that evening to disassemble the rifle|1
+LJSpeech-1.1/mels/LJ037-0248.pt|LJSpeech-1.1/durations/LJ037-0248.pt|LJSpeech-1.1/pitch_char/LJ037-0248.pt|The eyewitnesses vary in their identification of the jacket.|1
+LJSpeech-1.1/mels/LJ035-0014.pt|LJSpeech-1.1/durations/LJ035-0014.pt|LJSpeech-1.1/pitch_char/LJ035-0014.pt|it sounded high and I immediately kind of looked up,|1
+Jenny/mels/04192.pt|Jenny/durations/04192.pt|Jenny/pitch_char/04192.pt|He started impulsively to his feet, and looked at me.|0
+Jenny/mels/04033.pt|Jenny/durations/04033.pt|Jenny/pitch_char/04033.pt|The word with which you parted so lightly is the keyword of all life.|0
+Jenny/mels/03271.pt|Jenny/durations/03271.pt|Jenny/pitch_char/03271.pt|Did you tell her I wasn't? No. It's because I wanted to go out with her too.|0
+Jenny/mels/00274.pt|Jenny/durations/00274.pt|Jenny/pitch_char/00274.pt|She told you about that huh?|0
+Jenny/mels/06799.pt|Jenny/durations/06799.pt|Jenny/pitch_char/06799.pt|Are you listening to me? She was jealous of her.|0
+LJSpeech-1.1/mels/LJ001-0153.pt|LJSpeech-1.1/durations/LJ001-0153.pt|LJSpeech-1.1/pitch_char/LJ001-0153.pt|only nominally so, however, in many cases, since when he uses a headline he counts that in,|1
+Jenny/mels/03181.pt|Jenny/durations/03181.pt|Jenny/pitch_char/03181.pt|And now I feel so stupid.|0
+Jenny/mels/05683.pt|Jenny/durations/05683.pt|Jenny/pitch_char/05683.pt|I won't have you work. What's Lin, or you, or anything to me?|0
+Jenny/mels/00746.pt|Jenny/durations/00746.pt|Jenny/pitch_char/00746.pt|How long were you off work for?|0
+Jenny/mels/02143.pt|Jenny/durations/02143.pt|Jenny/pitch_char/02143.pt|Is there somebody else? It's just|0
+LJSpeech-1.1/mels/LJ033-0055.pt|LJSpeech-1.1/durations/LJ033-0055.pt|LJSpeech-1.1/pitch_char/LJ033-0055.pt|and he could disassemble it more rapidly.|1
+Jenny/mels/06091.pt|Jenny/durations/06091.pt|Jenny/pitch_char/06091.pt|But, to any mind, I thought, the connection here was clear and straight.|0
+LJSpeech-1.1/mels/LJ025-0118.pt|LJSpeech-1.1/durations/LJ025-0118.pt|LJSpeech-1.1/pitch_char/LJ025-0118.pt|and that, however diverse may be the fabrics or tissues of which their bodies are composed, all these varied structures result|1
+LJSpeech-1.1/mels/LJ021-0040.pt|LJSpeech-1.1/durations/LJ021-0040.pt|LJSpeech-1.1/pitch_char/LJ021-0040.pt|The second step we have taken in the restoration of normal business enterprise|1
+LJSpeech-1.1/mels/LJ028-0023.pt|LJSpeech-1.1/durations/LJ028-0023.pt|LJSpeech-1.1/pitch_char/LJ028-0023.pt|Two weeks pass, and at last you stand on the eastern edge of the plateau|1
+LJSpeech-1.1/mels/LJ005-0257.pt|LJSpeech-1.1/durations/LJ005-0257.pt|LJSpeech-1.1/pitch_char/LJ005-0257.pt|during which time a host of witnesses were examined, and the committee presented three separate reports,|1
+LJSpeech-1.1/mels/LJ050-0162.pt|LJSpeech-1.1/durations/LJ050-0162.pt|LJSpeech-1.1/pitch_char/LJ050-0162.pt|In planning its data processing techniques,|1
+Jenny/mels/05727.pt|Jenny/durations/05727.pt|Jenny/pitch_char/05727.pt|Hiram!|0
+Jenny/mels/03129.pt|Jenny/durations/03129.pt|Jenny/pitch_char/03129.pt|How long do your symptoms last on average?|0
+LJSpeech-1.1/mels/LJ045-0194.pt|LJSpeech-1.1/durations/LJ045-0194.pt|LJSpeech-1.1/pitch_char/LJ045-0194.pt|Anyone who was familiar with that area of Dallas would have known that the motorcade would probably pass the Texas School Book Depository to get from Main Street|1
+LJSpeech-1.1/mels/LJ027-0176.pt|LJSpeech-1.1/durations/LJ027-0176.pt|LJSpeech-1.1/pitch_char/LJ027-0176.pt|Fishes first appeared in the Devonian and Upper Silurian in very reptilian or rather amphibian forms.|1
+LJSpeech-1.1/mels/LJ047-0158.pt|LJSpeech-1.1/durations/LJ047-0158.pt|LJSpeech-1.1/pitch_char/LJ047-0158.pt|After a moment's hesitation, she told me that he worked at the Texas School Book Depository near the downtown area of Dallas.|1
+Jenny/mels/00370.pt|Jenny/durations/00370.pt|Jenny/pitch_char/00370.pt|Let's leave it there for a while.|0
+LJSpeech-1.1/mels/LJ048-0200.pt|LJSpeech-1.1/durations/LJ048-0200.pt|LJSpeech-1.1/pitch_char/LJ048-0200.pt|paying particular attention to the crowd for any unusual activity.|1
+LJSpeech-1.1/mels/LJ039-0154.pt|LJSpeech-1.1/durations/LJ039-0154.pt|LJSpeech-1.1/pitch_char/LJ039-0154.pt|four point eight to five point six seconds if the second shot missed,|1
+Jenny/mels/01771.pt|Jenny/durations/01771.pt|Jenny/pitch_char/01771.pt|You could make little puppets out of them. And you could use them in your Theater of Cruelty!|0
+LJSpeech-1.1/mels/LJ047-0197.pt|LJSpeech-1.1/durations/LJ047-0197.pt|LJSpeech-1.1/pitch_char/LJ047-0197.pt|in view of all the information concerning Oswald in its files, should have alerted the Secret Service to Oswald's presence in Dallas|1
+LJSpeech-1.1/mels/LJ003-0140.pt|LJSpeech-1.1/durations/LJ003-0140.pt|LJSpeech-1.1/pitch_char/LJ003-0140.pt|otherwise he would have been stripped of his clothes. End quote.|1
+LJSpeech-1.1/mels/LJ040-0018.pt|LJSpeech-1.1/durations/LJ040-0018.pt|LJSpeech-1.1/pitch_char/LJ040-0018.pt|the Commission is not able to reach any definite conclusions as to whether or not he was, quote, sane, unquote, under prevailing legal standards.|1
+Jenny/mels/01720.pt|Jenny/durations/01720.pt|Jenny/pitch_char/01720.pt|What kind of licence do you hold?|0
+Jenny/mels/06302.pt|Jenny/durations/06302.pt|Jenny/pitch_char/06302.pt|They turned again into the narrow streets amid the darkness.|0
+LJSpeech-1.1/mels/LJ009-0041.pt|LJSpeech-1.1/durations/LJ009-0041.pt|LJSpeech-1.1/pitch_char/LJ009-0041.pt|The occupants of this terrible black pew were the last always to enter the chapel.|1
+Jenny/mels/05110.pt|Jenny/durations/05110.pt|Jenny/pitch_char/05110.pt|He reaches great heights and sinks to awful depths.|0
+LJSpeech-1.1/mels/LJ042-0194.pt|LJSpeech-1.1/durations/LJ042-0194.pt|LJSpeech-1.1/pitch_char/LJ042-0194.pt|they should not be confused with slowness, indecision or fear. Only the intellectually fearless could even be remotely attracted to our doctrine,|1
+LJSpeech-1.1/mels/LJ048-0222.pt|LJSpeech-1.1/durations/LJ048-0222.pt|LJSpeech-1.1/pitch_char/LJ048-0222.pt|in Fort Worth, there occurred a breach of discipline by some members of the Secret Service who were officially traveling with the President.|1
+Jenny/mels/05408.pt|Jenny/durations/05408.pt|Jenny/pitch_char/05408.pt|Besides, he who seeks the end must use the means.|0
+Jenny/mels/03862.pt|Jenny/durations/03862.pt|Jenny/pitch_char/03862.pt|The younger one went on. On your own account don't!|0
+Jenny/mels/05497.pt|Jenny/durations/05497.pt|Jenny/pitch_char/05497.pt|Many women came alongside, but NONE climbed on board.|0
+Jenny/mels/02679.pt|Jenny/durations/02679.pt|Jenny/pitch_char/02679.pt|What is or was the treatment?|0
+Jenny/mels/06650.pt|Jenny/durations/06650.pt|Jenny/pitch_char/06650.pt|Do you think we're millionaires?|0
+LJSpeech-1.1/mels/LJ048-0033.pt|LJSpeech-1.1/durations/LJ048-0033.pt|LJSpeech-1.1/pitch_char/LJ048-0033.pt|Prior to November twenty-two, nineteen sixty-three|1
+Jenny/mels/04522.pt|Jenny/durations/04522.pt|Jenny/pitch_char/04522.pt|We know that we are somewhere on the mainland of the Shetland Isles.|0
+Jenny/mels/00781.pt|Jenny/durations/00781.pt|Jenny/pitch_char/00781.pt|In what type of Rally do you participate?|0
+Jenny/mels/00633.pt|Jenny/durations/00633.pt|Jenny/pitch_char/00633.pt|Have you been unable to work in the last ten years because of your disorder or symptoms?|0
+Jenny/mels/06479.pt|Jenny/durations/06479.pt|Jenny/pitch_char/06479.pt|All the next day we went down with the current.|0
+Jenny/mels/01534.pt|Jenny/durations/01534.pt|Jenny/pitch_char/01534.pt|He stopped by. Next time you talk to him|0
+LJSpeech-1.1/mels/LJ050-0209.pt|LJSpeech-1.1/durations/LJ050-0209.pt|LJSpeech-1.1/pitch_char/LJ050-0209.pt|The assistant to the Director of the FBI testified that|1
+Jenny/mels/06440.pt|Jenny/durations/06440.pt|Jenny/pitch_char/06440.pt|And then began the search.|0
+LJSpeech-1.1/mels/LJ002-0105.pt|LJSpeech-1.1/durations/LJ002-0105.pt|LJSpeech-1.1/pitch_char/LJ002-0105.pt|and beyond it was a room called the "wine room," because formerly used for the sale of wine, but|1
+LJSpeech-1.1/mels/LJ037-0252.pt|LJSpeech-1.1/durations/LJ037-0252.pt|LJSpeech-1.1/pitch_char/LJ037-0252.pt|Ted Callaway, who saw the gunman moments after the shooting, testified that Commission Exhibit Number one sixty-two|1
+Jenny/mels/05144.pt|Jenny/durations/05144.pt|Jenny/pitch_char/05144.pt|Find him if you can! A jungle fire!|0
+Jenny/mels/02560.pt|Jenny/durations/02560.pt|Jenny/pitch_char/02560.pt|What's going on? We just|0
+Jenny/mels/02186.pt|Jenny/durations/02186.pt|Jenny/pitch_char/02186.pt|Is like a giant pigeon|0
+LJSpeech-1.1/mels/LJ026-0148.pt|LJSpeech-1.1/durations/LJ026-0148.pt|LJSpeech-1.1/pitch_char/LJ026-0148.pt|water which is lost by evaporation, especially from the leaf surface through the stomata;|1
+LJSpeech-1.1/mels/LJ005-0264.pt|LJSpeech-1.1/durations/LJ005-0264.pt|LJSpeech-1.1/pitch_char/LJ005-0264.pt|inspectors of prisons should be appointed, who should visit all the prisons from time to time and report to the Secretary of State.|1
+Jenny/mels/04426.pt|Jenny/durations/04426.pt|Jenny/pitch_char/04426.pt|What lady was he with?|0
+LJSpeech-1.1/mels/LJ044-0139.pt|LJSpeech-1.1/durations/LJ044-0139.pt|LJSpeech-1.1/pitch_char/LJ044-0139.pt|since there was no background to the New Orleans FPCC, quote, organization, end quote, which consisted solely of Oswald.|1
+Jenny/mels/00961.pt|Jenny/durations/00961.pt|Jenny/pitch_char/00961.pt|or I'll end up like my mom!|0
+LJSpeech-1.1/mels/LJ033-0152.pt|LJSpeech-1.1/durations/LJ033-0152.pt|LJSpeech-1.1/pitch_char/LJ033-0152.pt|The portion of the palm which was identified was the heel of the right palm, i.e., the area near the wrist, on the little finger side.|1
+LJSpeech-1.1/mels/LJ028-0357.pt|LJSpeech-1.1/durations/LJ028-0357.pt|LJSpeech-1.1/pitch_char/LJ028-0357.pt|yet we may be sure that Babylon was taken by Darius only by use of stratagem. Its walls were impregnable.|1
+LJSpeech-1.1/mels/LJ019-0161.pt|LJSpeech-1.1/durations/LJ019-0161.pt|LJSpeech-1.1/pitch_char/LJ019-0161.pt|These disciplinary improvements were, however, only slowly and gradually introduced.|1
+Jenny/mels/01579.pt|Jenny/durations/01579.pt|Jenny/pitch_char/01579.pt|I just needed to know|0
+LJSpeech-1.1/mels/LJ019-0318.pt|LJSpeech-1.1/durations/LJ019-0318.pt|LJSpeech-1.1/pitch_char/LJ019-0318.pt|was to be the rule for all convicted prisoners throughout the early stages of their detention;|1
+Jenny/mels/06457.pt|Jenny/durations/06457.pt|Jenny/pitch_char/06457.pt|I can almost guarantee you success FROM now on. His shoes are dusty.|0
+LJSpeech-1.1/mels/LJ039-0207.pt|LJSpeech-1.1/durations/LJ039-0207.pt|LJSpeech-1.1/pitch_char/LJ039-0207.pt|Although all of the shots were a few inches high and to the right of the target,|1
+Jenny/mels/05604.pt|Jenny/durations/05604.pt|Jenny/pitch_char/05604.pt|The turn of the tide came, before my cigar was finished.|0
+LJSpeech-1.1/mels/LJ028-0168.pt|LJSpeech-1.1/durations/LJ028-0168.pt|LJSpeech-1.1/pitch_char/LJ028-0168.pt|in the other was the sacred precinct of Jupiter Belus,|1
+LJSpeech-1.1/mels/LJ045-0033.pt|LJSpeech-1.1/durations/LJ045-0033.pt|LJSpeech-1.1/pitch_char/LJ045-0033.pt|He began to treat me better. He helped me more -- although he always did help. But he was more attentive, end quote.|1
+Jenny/mels/04545.pt|Jenny/durations/04545.pt|Jenny/pitch_char/04545.pt|Perhaps I'd better read it.|0
+LJSpeech-1.1/mels/LJ045-0190.pt|LJSpeech-1.1/durations/LJ045-0190.pt|LJSpeech-1.1/pitch_char/LJ045-0190.pt|appeared in The Dallas Times Herald on November fifteen, nineteen sixty-three.|1
+Jenny/mels/00413.pt|Jenny/durations/00413.pt|Jenny/pitch_char/00413.pt|On which basis was the sum insured calculated?|0
+Jenny/mels/00715.pt|Jenny/durations/00715.pt|Jenny/pitch_char/00715.pt|Really?|0
+LJSpeech-1.1/mels/LJ025-0129.pt|LJSpeech-1.1/durations/LJ025-0129.pt|LJSpeech-1.1/pitch_char/LJ025-0129.pt|On each lobe of the bi-lobed leaf of Venus flytrap are three delicate filaments which stand out at right angles from the surface of the leaf.|1
+LJSpeech-1.1/mels/LJ023-0047.pt|LJSpeech-1.1/durations/LJ023-0047.pt|LJSpeech-1.1/pitch_char/LJ023-0047.pt|The three horses are, of course, the three branches of government -- the Congress, the Executive and the courts.|1
+LJSpeech-1.1/mels/LJ008-0085.pt|LJSpeech-1.1/durations/LJ008-0085.pt|LJSpeech-1.1/pitch_char/LJ008-0085.pt|The fire had not quite burnt out at twelve, in nearly four hours, that is to say.|1
+LJSpeech-1.1/mels/LJ018-0276.pt|LJSpeech-1.1/durations/LJ018-0276.pt|LJSpeech-1.1/pitch_char/LJ018-0276.pt|The first plot was against Mr. Harry Emmanuel, but he escaped, and the attempt was made upon Loudon and Ryder.|1
+LJSpeech-1.1/mels/LJ045-0234.pt|LJSpeech-1.1/durations/LJ045-0234.pt|LJSpeech-1.1/pitch_char/LJ045-0234.pt|While he did become enraged at at least one point in his interrogation,|1
+Jenny/mels/06061.pt|Jenny/durations/06061.pt|Jenny/pitch_char/06061.pt|No, Caesar, we will answer on their charge.|0
+Jenny/mels/02385.pt|Jenny/durations/02385.pt|Jenny/pitch_char/02385.pt|Where else are varicose veins present?|0
+Jenny/mels/06600.pt|Jenny/durations/06600.pt|Jenny/pitch_char/06600.pt|And the servants struck him WITH the palms their hands.|0
+Jenny/mels/04901.pt|Jenny/durations/04901.pt|Jenny/pitch_char/04901.pt|A blow injures groups of nerve cells and consciousness disappears; when they recover, it returns.|0
+Jenny/mels/04762.pt|Jenny/durations/04762.pt|Jenny/pitch_char/04762.pt|I set myself to consider what I should say next.|0
+LJSpeech-1.1/mels/LJ050-0022.pt|LJSpeech-1.1/durations/LJ050-0022.pt|LJSpeech-1.1/pitch_char/LJ050-0022.pt|A formal and thorough description of the responsibilities of the advance agent is now in preparation by the Service.|1
+LJSpeech-1.1/mels/LJ042-0133.pt|LJSpeech-1.1/durations/LJ042-0133.pt|LJSpeech-1.1/pitch_char/LJ042-0133.pt|a great change must have occurred in Oswald's thinking to induce him to return to the United States.|1
+LJSpeech-1.1/mels/LJ011-0245.pt|LJSpeech-1.1/durations/LJ011-0245.pt|LJSpeech-1.1/pitch_char/LJ011-0245.pt|Mr. Mullay called again, taking with him five hundred pounds in cash. Howard discovered this, and his manner was very suspicious;|1
+LJSpeech-1.1/mels/LJ050-0188.pt|LJSpeech-1.1/durations/LJ050-0188.pt|LJSpeech-1.1/pitch_char/LJ050-0188.pt|each patrolman might be given a prepared booklet of instructions explaining what is expected of him. The Secret Service has expressed concern|1
+Jenny/mels/06569.pt|Jenny/durations/06569.pt|Jenny/pitch_char/06569.pt|Even if we would be I'd take this chance to get her out.|0
+Jenny/mels/00774.pt|Jenny/durations/00774.pt|Jenny/pitch_char/00774.pt|Wow!|0
+LJSpeech-1.1/mels/LJ002-0096.pt|LJSpeech-1.1/durations/LJ002-0096.pt|LJSpeech-1.1/pitch_char/LJ002-0096.pt|The eight courts above enumerated were well supplied with water;|1
+Jenny/mels/00990.pt|Jenny/durations/00990.pt|Jenny/pitch_char/00990.pt|He's a senior in college. College?|0
+Jenny/mels/02287.pt|Jenny/durations/02287.pt|Jenny/pitch_char/02287.pt|and not even care. Saturday night. The big night!|0
+LJSpeech-1.1/mels/LJ002-0174.pt|LJSpeech-1.1/durations/LJ002-0174.pt|LJSpeech-1.1/pitch_char/LJ002-0174.pt|Mr. Buxton's friends at once paid the forty shillings, and the boy was released.|1
+LJSpeech-1.1/mels/LJ040-0052.pt|LJSpeech-1.1/durations/LJ040-0052.pt|LJSpeech-1.1/pitch_char/LJ040-0052.pt|that his commitment to Marxism was an important factor influencing his conduct during his adult years.|1
+LJSpeech-1.1/mels/LJ050-0137.pt|LJSpeech-1.1/durations/LJ050-0137.pt|LJSpeech-1.1/pitch_char/LJ050-0137.pt|FBI, and the Secret Service.|1
+Jenny/mels/03540.pt|Jenny/durations/03540.pt|Jenny/pitch_char/03540.pt|No; take your oil and pour it into a bottle with water. "Yes, my friend," I said, pressing his hand, "we will save him, if possible."|0
+Jenny/mels/05540.pt|Jenny/durations/05540.pt|Jenny/pitch_char/05540.pt|She thought of him calmly: he seemed a refuge. He pointed out to her that she knew who he was.|0
+Jenny/mels/06267.pt|Jenny/durations/06267.pt|Jenny/pitch_char/06267.pt|I often think of her.|0
+LJSpeech-1.1/mels/LJ006-0043.pt|LJSpeech-1.1/durations/LJ006-0043.pt|LJSpeech-1.1/pitch_char/LJ006-0043.pt|The disgraceful overcrowding had been partially ended, but the same evils of indiscriminate association were still present; there was the old neglect of decency,|1
+LJSpeech-1.1/mels/LJ024-0034.pt|LJSpeech-1.1/durations/LJ024-0034.pt|LJSpeech-1.1/pitch_char/LJ024-0034.pt|What do they mean by the words "packing the Court"?|1
+LJSpeech-1.1/mels/LJ007-0085.pt|LJSpeech-1.1/durations/LJ007-0085.pt|LJSpeech-1.1/pitch_char/LJ007-0085.pt|at Newgate and York Castle as long as five years; "at Ilchester and Morpeth for seven years; at Warwick for eight years,|1
+Jenny/mels/03970.pt|Jenny/durations/03970.pt|Jenny/pitch_char/03970.pt|He broke off one end of it and stuck it in his mouth.|0
+Jenny/mels/00648.pt|Jenny/durations/00648.pt|Jenny/pitch_char/00648.pt|Let's get started.|0
+LJSpeech-1.1/mels/LJ037-0007.pt|LJSpeech-1.1/durations/LJ037-0007.pt|LJSpeech-1.1/pitch_char/LJ037-0007.pt|Three others subsequently identified Oswald from a photograph.|1
+LJSpeech-1.1/mels/LJ018-0211.pt|LJSpeech-1.1/durations/LJ018-0211.pt|LJSpeech-1.1/pitch_char/LJ018-0211.pt|The false coin was bought by an agent from an agent, and dealings were carried on secretly at the "Clock House" in Seven Dials.|1
+LJSpeech-1.1/mels/LJ001-0173.pt|LJSpeech-1.1/durations/LJ001-0173.pt|LJSpeech-1.1/pitch_char/LJ001-0173.pt|The essential point to be remembered is that the ornament, whatever it is, whether picture or pattern-work, should form part of the page,|1
+LJSpeech-1.1/mels/LJ044-0105.pt|LJSpeech-1.1/durations/LJ044-0105.pt|LJSpeech-1.1/pitch_char/LJ044-0105.pt|He presented Arnold Johnson, Gus Hall,|1
+Jenny/mels/00294.pt|Jenny/durations/00294.pt|Jenny/pitch_char/00294.pt|Know what I'd hear with every step I took? Not mine. Not mine. Not mine. |0
+LJSpeech-1.1/mels/LJ016-0380.pt|LJSpeech-1.1/durations/LJ016-0380.pt|LJSpeech-1.1/pitch_char/LJ016-0380.pt|with hope to the last. There is always the chance of a flaw in the indictment, of a missing witness, or extenuating circumstances.|1
+LJSpeech-1.1/mels/LJ012-0188.pt|LJSpeech-1.1/durations/LJ012-0188.pt|LJSpeech-1.1/pitch_char/LJ012-0188.pt|Probert was then admitted as a witness, and the case was fully proved against Thurtell, who was hanged in front of Hertford Jail.|1
+LJSpeech-1.1/mels/LJ019-0169.pt|LJSpeech-1.1/durations/LJ019-0169.pt|LJSpeech-1.1/pitch_char/LJ019-0169.pt|and one or two men were allowed to mend clothes and make shoes. The rules made by the Secretary of State were hung up in conspicuous parts of the prison;|1
+Jenny/mels/04666.pt|Jenny/durations/04666.pt|Jenny/pitch_char/04666.pt|In spite of men's hateful modern costume, you see he has a leg.|0
+Jenny/mels/06814.pt|Jenny/durations/06814.pt|Jenny/pitch_char/06814.pt|But when you have given Him yourself, never, never will He abandon you.|0
+Jenny/mels/06595.pt|Jenny/durations/06595.pt|Jenny/pitch_char/06595.pt|He was in twenty different minds about the Diamond in as many minutes.|0
+LJSpeech-1.1/mels/LJ028-0212.pt|LJSpeech-1.1/durations/LJ028-0212.pt|LJSpeech-1.1/pitch_char/LJ028-0212.pt|On the night of the eleventh day Gobrias killed the son of the King.|1
+LJSpeech-1.1/mels/LJ021-0078.pt|LJSpeech-1.1/durations/LJ021-0078.pt|LJSpeech-1.1/pitch_char/LJ021-0078.pt|no economic panacea, which could simply revive over-night the heavy industries and the trades dependent upon them.|1
+LJSpeech-1.1/mels/LJ017-0102.pt|LJSpeech-1.1/durations/LJ017-0102.pt|LJSpeech-1.1/pitch_char/LJ017-0102.pt|The second attack was fatal, and ended in Cook's death from tetanus.|1
+LJSpeech-1.1/mels/LJ014-0094.pt|LJSpeech-1.1/durations/LJ014-0094.pt|LJSpeech-1.1/pitch_char/LJ014-0094.pt|Discovery of the murder came in this wise. O'Connor, a punctual and well-conducted official, was at once missed at the London Docks.|1
+Jenny/mels/04483.pt|Jenny/durations/04483.pt|Jenny/pitch_char/04483.pt|I want to earn my wages, you know.|0
+LJSpeech-1.1/mels/LJ045-0178.pt|LJSpeech-1.1/durations/LJ045-0178.pt|LJSpeech-1.1/pitch_char/LJ045-0178.pt|he left his wedding ring in a cup on the dresser in his room. He also left one hundred seventy dollars in a wallet in one of the dresser drawers.|1
+LJSpeech-1.1/mels/LJ008-0098.pt|LJSpeech-1.1/durations/LJ008-0098.pt|LJSpeech-1.1/pitch_char/LJ008-0098.pt|One was the "yeoman of the halter," a Newgate official, the executioner's assistant, whom Mr. J. T. Smith, who was present at the execution,|1
+Jenny/mels/00302.pt|Jenny/durations/00302.pt|Jenny/pitch_char/00302.pt|Do you suffer from any other symptoms or complications caused by this disorder or are other organs involved?|0
+Jenny/mels/02112.pt|Jenny/durations/02112.pt|Jenny/pitch_char/02112.pt|What are you doing tomorrow night? That depends on how tonight goes. About tonight Don't you bail on me!|0
+Jenny/mels/04144.pt|Jenny/durations/04144.pt|Jenny/pitch_char/04144.pt|What breast so cold that is not warmed here?|0
+LJSpeech-1.1/mels/LJ037-0061.pt|LJSpeech-1.1/durations/LJ037-0061.pt|LJSpeech-1.1/pitch_char/LJ037-0061.pt|and having, quote, somewhat bushy, end quote, hair.|1
+Jenny/mels/05057.pt|Jenny/durations/05057.pt|Jenny/pitch_char/05057.pt|She wanted frightfully to be beautiful to him.|0
+LJSpeech-1.1/mels/LJ009-0074.pt|LJSpeech-1.1/durations/LJ009-0074.pt|LJSpeech-1.1/pitch_char/LJ009-0074.pt|Let us pass on.|1
+LJSpeech-1.1/mels/LJ042-0198.pt|LJSpeech-1.1/durations/LJ042-0198.pt|LJSpeech-1.1/pitch_char/LJ042-0198.pt|The discussion above has already set forth examples of his expression of hatred for the United States.|1
+LJSpeech-1.1/mels/LJ007-0071.pt|LJSpeech-1.1/durations/LJ007-0071.pt|LJSpeech-1.1/pitch_char/LJ007-0071.pt|in the face of impediments confessedly discouraging|1
+LJSpeech-1.1/mels/LJ046-0105.pt|LJSpeech-1.1/durations/LJ046-0105.pt|LJSpeech-1.1/pitch_char/LJ046-0105.pt|Second, the adequacy of other advance preparations for the security of the President, during his visit to Dallas,|1
+Jenny/mels/06351.pt|Jenny/durations/06351.pt|Jenny/pitch_char/06351.pt|I'd be afraid to risk taking her anywhere.|0
+Jenny/mels/04376.pt|Jenny/durations/04376.pt|Jenny/pitch_char/04376.pt|Chlorine or iodine will produce the same result.|0
+Jenny/mels/02990.pt|Jenny/durations/02990.pt|Jenny/pitch_char/02990.pt|You're right. They're nice guys!|0
+Jenny/mels/01326.pt|Jenny/durations/01326.pt|Jenny/pitch_char/01326.pt|Which other education do you have?|0
+LJSpeech-1.1/mels/LJ026-0108.pt|LJSpeech-1.1/durations/LJ026-0108.pt|LJSpeech-1.1/pitch_char/LJ026-0108.pt|It is clear that there are upward and downward currents of water containing food (comparable to blood of an animal),|1
+Jenny/mels/02833.pt|Jenny/durations/02833.pt|Jenny/pitch_char/02833.pt|Are you taking any treatment?|0
+LJSpeech-1.1/mels/LJ003-0159.pt|LJSpeech-1.1/durations/LJ003-0159.pt|LJSpeech-1.1/pitch_char/LJ003-0159.pt|To constitute this the aristocratic quarter, unwarrantable demands were made upon the space properly allotted to the female felons,|1
+Jenny/mels/06308.pt|Jenny/durations/06308.pt|Jenny/pitch_char/06308.pt|No, I don't think I could marry you.|0
+LJSpeech-1.1/mels/LJ034-0197.pt|LJSpeech-1.1/durations/LJ034-0197.pt|LJSpeech-1.1/pitch_char/LJ034-0197.pt|who was one of the first witnesses to alert the police to the Depository as the source of the shots, as has been discussed in chapter three.|1
+Jenny/mels/04619.pt|Jenny/durations/04619.pt|Jenny/pitch_char/04619.pt|Because this island is full of inimical phenomena.|0
+LJSpeech-1.1/mels/LJ017-0035.pt|LJSpeech-1.1/durations/LJ017-0035.pt|LJSpeech-1.1/pitch_char/LJ017-0035.pt|in the interests and for the due protection of the public, that the fullest and fairest inquiry should be made,|1
+Jenny/mels/03592.pt|Jenny/durations/03592.pt|Jenny/pitch_char/03592.pt|Treat your body properly and it will treat you properly.|0
+Jenny/mels/01220.pt|Jenny/durations/01220.pt|Jenny/pitch_char/01220.pt|Please indicate the disorder or complaint|0
+Jenny/mels/05863.pt|Jenny/durations/05863.pt|Jenny/pitch_char/05863.pt|Simon said they said he was a great hand to joke.|0
+Jenny/mels/00455.pt|Jenny/durations/00455.pt|Jenny/pitch_char/00455.pt|Why would you dream that? More importantly|0
+Jenny/mels/01067.pt|Jenny/durations/01067.pt|Jenny/pitch_char/01067.pt|Except for. No. Everyone.|0
+LJSpeech-1.1/mels/LJ018-0159.pt|LJSpeech-1.1/durations/LJ018-0159.pt|LJSpeech-1.1/pitch_char/LJ018-0159.pt|This was all the police wanted to know.|1
+Jenny/mels/06330.pt|Jenny/durations/06330.pt|Jenny/pitch_char/06330.pt|Breathlessly I put the question; his answer was reassuring.|0
+LJSpeech-1.1/mels/LJ018-0354.pt|LJSpeech-1.1/durations/LJ018-0354.pt|LJSpeech-1.1/pitch_char/LJ018-0354.pt|Doubts were long entertained whether Thomas Wainwright,|1
+Jenny/mels/00241.pt|Jenny/durations/00241.pt|Jenny/pitch_char/00241.pt|Which authorisations do you have?|0
+Jenny/mels/03851.pt|Jenny/durations/03851.pt|Jenny/pitch_char/03851.pt|The wit of a family is usually best received among strangers.|0
+LJSpeech-1.1/mels/LJ048-0288.pt|LJSpeech-1.1/durations/LJ048-0288.pt|LJSpeech-1.1/pitch_char/LJ048-0288.pt|might have been more alert in the Dallas motorcade if they had retired promptly in Fort Worth.|1
+Jenny/mels/01279.pt|Jenny/durations/01279.pt|Jenny/pitch_char/01279.pt|Please describe your other occupational status|0
+Jenny/mels/04720.pt|Jenny/durations/04720.pt|Jenny/pitch_char/04720.pt|Moreover, FROM that moment she was always my friend.|0
+Jenny/mels/00484.pt|Jenny/durations/00484.pt|Jenny/pitch_char/00484.pt|Which diving certificates do you hold?|0
+LJSpeech-1.1/mels/LJ013-0109.pt|LJSpeech-1.1/durations/LJ013-0109.pt|LJSpeech-1.1/pitch_char/LJ013-0109.pt|The proceeds of the robbery were lodged in a Boston bank,|1
+Jenny/mels/01353.pt|Jenny/durations/01353.pt|Jenny/pitch_char/01353.pt|Has the treatment finished?|0
+LJSpeech-1.1/mels/LJ032-0045.pt|LJSpeech-1.1/durations/LJ032-0045.pt|LJSpeech-1.1/pitch_char/LJ032-0045.pt|This price included nineteen dollars, ninety-five cents for the rifle and the scope, and one dollar, fifty cents for postage and handling.|1
+Jenny/mels/05277.pt|Jenny/durations/05277.pt|Jenny/pitch_char/05277.pt|Hang your gratitude! Never mind, I know YOUR friends.|0
+LJSpeech-1.1/mels/LJ016-0192.pt|LJSpeech-1.1/durations/LJ016-0192.pt|LJSpeech-1.1/pitch_char/LJ016-0192.pt|"I think I could do that sort of job," said Calcraft, on the spur of the moment.|1
+Jenny/mels/00242.pt|Jenny/durations/00242.pt|Jenny/pitch_char/00242.pt|With Carol? Oh.|0
+Jenny/mels/03762.pt|Jenny/durations/03762.pt|Jenny/pitch_char/03762.pt|So you are her FIRST love. A book?|0
+LJSpeech-1.1/mels/LJ015-0144.pt|LJSpeech-1.1/durations/LJ015-0144.pt|LJSpeech-1.1/pitch_char/LJ015-0144.pt|developed to a colossal extent the frauds he had already practiced as a subordinate.|1
+LJSpeech-1.1/mels/LJ014-0194.pt|LJSpeech-1.1/durations/LJ014-0194.pt|LJSpeech-1.1/pitch_char/LJ014-0194.pt|The policemen were now in possession;|1
+Jenny/mels/00569.pt|Jenny/durations/00569.pt|Jenny/pitch_char/00569.pt|A wuss? Excuse me for living in the real world. So? So they still seem normal.|0
+LJSpeech-1.1/mels/LJ011-0041.pt|LJSpeech-1.1/durations/LJ011-0041.pt|LJSpeech-1.1/pitch_char/LJ011-0041.pt|Visited Mr. Fauntleroy. My application for books for him not having been attended, I had no prayer-book to give him.|1
+Jenny/mels/03818.pt|Jenny/durations/03818.pt|Jenny/pitch_char/03818.pt|That she will have to do. I am der man.|0
+LJSpeech-1.1/mels/LJ039-0139.pt|LJSpeech-1.1/durations/LJ039-0139.pt|LJSpeech-1.1/pitch_char/LJ039-0139.pt|Oswald obtained a hunting license, joined a hunting club and went hunting about six times, as discussed more fully in chapter six.|1
+LJSpeech-1.1/mels/LJ019-0180.pt|LJSpeech-1.1/durations/LJ019-0180.pt|LJSpeech-1.1/pitch_char/LJ019-0180.pt|His letter to the Corporation, under date fourth June,|1
+Jenny/mels/02456.pt|Jenny/durations/02456.pt|Jenny/pitch_char/02456.pt|What other activity do you do? Please indicate the annual frequency and participation in championships, etc.|0
+Jenny/mels/02897.pt|Jenny/durations/02897.pt|Jenny/pitch_char/02897.pt|What was the cause of the anaemia?|0
+Jenny/mels/06537.pt|Jenny/durations/06537.pt|Jenny/pitch_char/06537.pt|This is that dreadful fever which frightens me so.|0
+LJSpeech-1.1/mels/LJ015-0043.pt|LJSpeech-1.1/durations/LJ015-0043.pt|LJSpeech-1.1/pitch_char/LJ015-0043.pt|This went on for some time, and might never have been discovered had some good stroke of luck provided any of the partners|1
+Jenny/mels/03453.pt|Jenny/durations/03453.pt|Jenny/pitch_char/03453.pt|Thrice that!|0
+LJSpeech-1.1/mels/LJ042-0097.pt|LJSpeech-1.1/durations/LJ042-0097.pt|LJSpeech-1.1/pitch_char/LJ042-0097.pt|and considerably better living quarters than those accorded to Soviet citizens of equal age and station.|1
+Jenny/mels/05334.pt|Jenny/durations/05334.pt|Jenny/pitch_char/05334.pt|But what do you think?|0
+Jenny/mels/02858.pt|Jenny/durations/02858.pt|Jenny/pitch_char/02858.pt|Call her. Stop being so testosterone y. Which, by the way, is the real San Francisco treat.|0
+Jenny/mels/05270.pt|Jenny/durations/05270.pt|Jenny/pitch_char/05270.pt|Massa Tom!|0
+Jenny/mels/01835.pt|Jenny/durations/01835.pt|Jenny/pitch_char/01835.pt|It's true. Who am I?|0
+Jenny/mels/05111.pt|Jenny/durations/05111.pt|Jenny/pitch_char/05111.pt|I will kiss your HAND, and so leave you.|0
+Jenny/mels/06637.pt|Jenny/durations/06637.pt|Jenny/pitch_char/06637.pt|And diamond buckles sparkling at his knees, Dignified, stately, florid, much at ease.|0
+LJSpeech-1.1/mels/LJ046-0092.pt|LJSpeech-1.1/durations/LJ046-0092.pt|LJSpeech-1.1/pitch_char/LJ046-0092.pt|has confidence in the dedicated Secret Service men who are ready to lay down their lives for him|1
+LJSpeech-1.1/mels/LJ010-0065.pt|LJSpeech-1.1/durations/LJ010-0065.pt|LJSpeech-1.1/pitch_char/LJ010-0065.pt|At the former the "Provisional Government" was to be established,|1
+Jenny/mels/04122.pt|Jenny/durations/04122.pt|Jenny/pitch_char/04122.pt|On a letter that the lady was writing for me.|0
+LJSpeech-1.1/mels/LJ005-0019.pt|LJSpeech-1.1/durations/LJ005-0019.pt|LJSpeech-1.1/pitch_char/LJ005-0019.pt|refuted by abundant evidence, and having no foundation whatever in truth.|1
+Jenny/mels/04087.pt|Jenny/durations/04087.pt|Jenny/pitch_char/04087.pt|No damage?|0
+Jenny/mels/02019.pt|Jenny/durations/02019.pt|Jenny/pitch_char/02019.pt|Please give details of your disorder|0
+LJSpeech-1.1/mels/LJ011-0118.pt|LJSpeech-1.1/durations/LJ011-0118.pt|LJSpeech-1.1/pitch_char/LJ011-0118.pt|In eighteen twenty-nine the gallows claimed two more victims for this offense.|1
+Jenny/mels/05606.pt|Jenny/durations/05606.pt|Jenny/pitch_char/05606.pt|He gave her no answer.|0
+Jenny/mels/03054.pt|Jenny/durations/03054.pt|Jenny/pitch_char/03054.pt|When have you had last skin symptoms?|0
+LJSpeech-1.1/mels/LJ010-0030.pt|LJSpeech-1.1/durations/LJ010-0030.pt|LJSpeech-1.1/pitch_char/LJ010-0030.pt|The brutal ferocity of the wild beast once aroused, the same means, the same weapons were employed to do the dreadful deed,|1
+LJSpeech-1.1/mels/LJ035-0082.pt|LJSpeech-1.1/durations/LJ035-0082.pt|LJSpeech-1.1/pitch_char/LJ035-0082.pt|The only interval was the time necessary to ride in the elevator from the second to the sixth floor and walk back to the southeast corner.|1
+Jenny/mels/01514.pt|Jenny/durations/01514.pt|Jenny/pitch_char/01514.pt|Notice, no fear. No sense of impending doom. We came on the wrong night.|0
+LJSpeech-1.1/mels/LJ010-0219.pt|LJSpeech-1.1/durations/LJ010-0219.pt|LJSpeech-1.1/pitch_char/LJ010-0219.pt|While one stood over the fire with the papers, another stood with lighted torch to fire the house.|1
+LJSpeech-1.1/mels/LJ002-0106.pt|LJSpeech-1.1/durations/LJ002-0106.pt|LJSpeech-1.1/pitch_char/LJ002-0106.pt|in which latterly a copper had been fixed for the cooking of provisions sent in by charitable persons.|1
+Jenny/mels/05645.pt|Jenny/durations/05645.pt|Jenny/pitch_char/05645.pt|Andre asked no further question, but took his father's hand.|0
+LJSpeech-1.1/mels/LJ037-0249.pt|LJSpeech-1.1/durations/LJ037-0249.pt|LJSpeech-1.1/pitch_char/LJ037-0249.pt|Mrs. Earlene Roberts, the housekeeper at Oswald's roominghouse and the last person known to have seen him before he reached tenth Street and Patton Avenue,|1
+Jenny/mels/03210.pt|Jenny/durations/03210.pt|Jenny/pitch_char/03210.pt|I told everybody about this! Maybe this wasn't it.|0
+LJSpeech-1.1/mels/LJ038-0264.pt|LJSpeech-1.1/durations/LJ038-0264.pt|LJSpeech-1.1/pitch_char/LJ038-0264.pt|He concluded that, quote, the general rifling characteristics of the rifle are of the same type as those found on the bullet|1
+LJSpeech-1.1/mels/LJ009-0276.pt|LJSpeech-1.1/durations/LJ009-0276.pt|LJSpeech-1.1/pitch_char/LJ009-0276.pt|Calcraft, the moment he had adjusted the cap and rope, ran down the steps, drew the bolt, and disappeared.|1
+LJSpeech-1.1/mels/LJ024-0102.pt|LJSpeech-1.1/durations/LJ024-0102.pt|LJSpeech-1.1/pitch_char/LJ024-0102.pt|would be the first to exclaim as soon as an amendment was proposed|1
+Jenny/mels/05553.pt|Jenny/durations/05553.pt|Jenny/pitch_char/05553.pt|It was deserted as usual.|0
+Jenny/mels/04339.pt|Jenny/durations/04339.pt|Jenny/pitch_char/04339.pt|They were at the parting of the ways.|0
+Jenny/mels/01707.pt|Jenny/durations/01707.pt|Jenny/pitch_char/01707.pt|You just have to put the quarter in and it just goes.|0
+LJSpeech-1.1/mels/LJ015-0001.pt|LJSpeech-1.1/durations/LJ015-0001.pt|LJSpeech-1.1/pitch_char/LJ015-0001.pt|Chronicles of Newgate, Volume two. By Arthur Griffiths. Section eighteen: Newgate notorieties continued, part three.|1
+Jenny/mels/05059.pt|Jenny/durations/05059.pt|Jenny/pitch_char/05059.pt|The gentleman was not even aware of the position in which he stood.|0
+Jenny/mels/04969.pt|Jenny/durations/04969.pt|Jenny/pitch_char/04969.pt|Could they have won it on their own play?|0
+LJSpeech-1.1/mels/LJ024-0019.pt|LJSpeech-1.1/durations/LJ024-0019.pt|LJSpeech-1.1/pitch_char/LJ024-0019.pt|And there may be only nine.|1
+Jenny/mels/02792.pt|Jenny/durations/02792.pt|Jenny/pitch_char/02792.pt|What was that?|0
+LJSpeech-1.1/mels/LJ017-0133.pt|LJSpeech-1.1/durations/LJ017-0133.pt|LJSpeech-1.1/pitch_char/LJ017-0133.pt|Palmer speedily found imitators.|1
+Jenny/mels/00745.pt|Jenny/durations/00745.pt|Jenny/pitch_char/00745.pt|Just pointing out the irony.|0
+Jenny/mels/01888.pt|Jenny/durations/01888.pt|Jenny/pitch_char/01888.pt|emphysema and heart disease.|0
+Jenny/mels/00318.pt|Jenny/durations/00318.pt|Jenny/pitch_char/00318.pt|Because now everything's screwed up.|0
+Jenny/mels/04662.pt|Jenny/durations/04662.pt|Jenny/pitch_char/04662.pt|Maybe that's what Gale did when he called.|0
+Jenny/mels/02540.pt|Jenny/durations/02540.pt|Jenny/pitch_char/02540.pt|I might be if I had the supplies.|0
+LJSpeech-1.1/mels/LJ048-0143.pt|LJSpeech-1.1/durations/LJ048-0143.pt|LJSpeech-1.1/pitch_char/LJ048-0143.pt|the Secret Service did not at the time of the assassination have any established procedure governing its relationships with them.|1
+Jenny/mels/00130.pt|Jenny/durations/00130.pt|Jenny/pitch_char/00130.pt|Monica?|0
+Jenny/mels/01820.pt|Jenny/durations/01820.pt|Jenny/pitch_char/01820.pt|Hi sorry I'm late.|0
+LJSpeech-1.1/mels/LJ049-0115.pt|LJSpeech-1.1/durations/LJ049-0115.pt|LJSpeech-1.1/pitch_char/LJ049-0115.pt|of the person who is actually in the exercise of the executive power, or|1
+LJSpeech-1.1/mels/LJ028-0421.pt|LJSpeech-1.1/durations/LJ028-0421.pt|LJSpeech-1.1/pitch_char/LJ028-0421.pt|it was the beginning of the great collections of Babylonian antiquities in the museums of the Western world.|1
+LJSpeech-1.1/mels/LJ047-0015.pt|LJSpeech-1.1/durations/LJ047-0015.pt|LJSpeech-1.1/pitch_char/LJ047-0015.pt|From defection to return to Fort Worth.|1
+Jenny/mels/01426.pt|Jenny/durations/01426.pt|Jenny/pitch_char/01426.pt|Come on he's not that bad. You're wrong! Why would I marry her|0
+LJSpeech-1.1/mels/LJ018-0288.pt|LJSpeech-1.1/durations/LJ018-0288.pt|LJSpeech-1.1/pitch_char/LJ018-0288.pt|After this the other conspirators traveled to obtain genuine bills and master the system of the leading houses at home and abroad.|1
+LJSpeech-1.1/mels/LJ032-0025.pt|LJSpeech-1.1/durations/LJ032-0025.pt|LJSpeech-1.1/pitch_char/LJ032-0025.pt|the officers of Klein's discovered that a rifle bearing serial number C two seven six six had been shipped to one A. Hidell,|1
+Jenny/mels/04016.pt|Jenny/durations/04016.pt|Jenny/pitch_char/04016.pt|They come from the humblest families, from homes that have been wiped out early.|0
+Jenny/mels/05287.pt|Jenny/durations/05287.pt|Jenny/pitch_char/05287.pt|Pa had always been dreadfully foolish about babies.|0
+Jenny/mels/02941.pt|Jenny/durations/02941.pt|Jenny/pitch_char/02941.pt|This is where you'd use that hello word.|0
+Jenny/mels/03420.pt|Jenny/durations/03420.pt|Jenny/pitch_char/03420.pt|Ah, I see YOUR shame.|0
+Jenny/mels/00791.pt|Jenny/durations/00791.pt|Jenny/pitch_char/00791.pt|I could live without it.|0
+LJSpeech-1.1/mels/LJ010-0158.pt|LJSpeech-1.1/durations/LJ010-0158.pt|LJSpeech-1.1/pitch_char/LJ010-0158.pt|feeling, as he said, that he might as well be shot or hanged as remain in such a state.|1
+Jenny/mels/05215.pt|Jenny/durations/05215.pt|Jenny/pitch_char/05215.pt|Confident, yet breathless with expectation, I turned the page.|0
+LJSpeech-1.1/mels/LJ041-0195.pt|LJSpeech-1.1/durations/LJ041-0195.pt|LJSpeech-1.1/pitch_char/LJ041-0195.pt|Oswald's interest in Marxism led some people to avoid him,|1
+Jenny/mels/02087.pt|Jenny/durations/02087.pt|Jenny/pitch_char/02087.pt|Come on, push me. No. Push me. We're gonna get in trouble.|0
+Jenny/mels/00679.pt|Jenny/durations/00679.pt|Jenny/pitch_char/00679.pt|Look I'm asking a favor here.|0
+LJSpeech-1.1/mels/LJ046-0055.pt|LJSpeech-1.1/durations/LJ046-0055.pt|LJSpeech-1.1/pitch_char/LJ046-0055.pt|It is now possible for Presidents to travel the length and breadth of a land far larger than the United States|1
+LJSpeech-1.1/mels/LJ033-0093.pt|LJSpeech-1.1/durations/LJ033-0093.pt|LJSpeech-1.1/pitch_char/LJ033-0093.pt|Frazier estimated that the bag was two feet long, quote, give and take a few inches, end quote, and about five or six inches wide.|1
+Jenny/mels/03674.pt|Jenny/durations/03674.pt|Jenny/pitch_char/03674.pt|I thought you merely did not wish to know anything.|0
+Jenny/mels/06624.pt|Jenny/durations/06624.pt|Jenny/pitch_char/06624.pt|He looked upon this winning creature and felt his first thrill of romance.|0
+Jenny/mels/00729.pt|Jenny/durations/00729.pt|Jenny/pitch_char/00729.pt|Do you currently smoke?|0
+Jenny/mels/00553.pt|Jenny/durations/00553.pt|Jenny/pitch_char/00553.pt|Yes! Yes, I did. But what I didn't say. What I wanted to say was|0
+Jenny/mels/06407.pt|Jenny/durations/06407.pt|Jenny/pitch_char/06407.pt|But it is David's problem, and I cannot take the responsibility of telling you.|0
+LJSpeech-1.1/mels/LJ024-0054.pt|LJSpeech-1.1/durations/LJ024-0054.pt|LJSpeech-1.1/pitch_char/LJ024-0054.pt|democracy will have failed far beyond the importance to it of any king of precedent concerning the judiciary.|1
+Jenny/mels/01778.pt|Jenny/durations/01778.pt|Jenny/pitch_char/01778.pt|Hey this|0
+LJSpeech-1.1/mels/LJ033-0205.pt|LJSpeech-1.1/durations/LJ033-0205.pt|LJSpeech-1.1/pitch_char/LJ033-0205.pt|then I would say the possibility exists, these fibers could have come from this blanket, end quote.|1
+LJSpeech-1.1/mels/LJ040-0176.pt|LJSpeech-1.1/durations/LJ040-0176.pt|LJSpeech-1.1/pitch_char/LJ040-0176.pt|He admitted to fantasies about being powerful and sometimes hurting and killing people, but refused to elaborate on them.|1
+LJSpeech-1.1/mels/LJ006-0268.pt|LJSpeech-1.1/durations/LJ006-0268.pt|LJSpeech-1.1/pitch_char/LJ006-0268.pt|Women saw men if they merely pretended to be wives; even boys were visited by their sweethearts.|1
+Jenny/mels/01226.pt|Jenny/durations/01226.pt|Jenny/pitch_char/01226.pt|You got me.|0
+LJSpeech-1.1/mels/LJ030-0162.pt|LJSpeech-1.1/durations/LJ030-0162.pt|LJSpeech-1.1/pitch_char/LJ030-0162.pt|In the Presidential Limousine|1
+Jenny/mels/00074.pt|Jenny/durations/00074.pt|Jenny/pitch_char/00074.pt|Out here with me bunking up.|0
+Jenny/mels/04045.pt|Jenny/durations/04045.pt|Jenny/pitch_char/04045.pt|The parson does all this.|0
+Jenny/mels/05460.pt|Jenny/durations/05460.pt|Jenny/pitch_char/05460.pt|At that time we men all uncovered, and mostly kept at a distance.|0
+Jenny/mels/02103.pt|Jenny/durations/02103.pt|Jenny/pitch_char/02103.pt|Have you suffered from a heart condition for example angina, heart attack, heart valve surgery?|0
+Jenny/mels/00506.pt|Jenny/durations/00506.pt|Jenny/pitch_char/00506.pt|How often do or did you have symptoms?|0
+Jenny/mels/03742.pt|Jenny/durations/03742.pt|Jenny/pitch_char/03742.pt|You have been giving him bread; you want to kill your husband, I suppose?|0
+Jenny/mels/03436.pt|Jenny/durations/03436.pt|Jenny/pitch_char/03436.pt|However, there was no escape.|0
+Jenny/mels/05569.pt|Jenny/durations/05569.pt|Jenny/pitch_char/05569.pt|What do you SAY, sister?|0
+Jenny/mels/06281.pt|Jenny/durations/06281.pt|Jenny/pitch_char/06281.pt|Think I'll take an interest in municipal doings.|0
+Jenny/mels/03282.pt|Jenny/durations/03282.pt|Jenny/pitch_char/03282.pt|Here we go. I don't think we should go out anymore.|0
+LJSpeech-1.1/mels/LJ015-0231.pt|LJSpeech-1.1/durations/LJ015-0231.pt|LJSpeech-1.1/pitch_char/LJ015-0231.pt|It was Tester's business, who had access to the railway company's books, to watch for this.|1
+LJSpeech-1.1/mels/LJ021-0012.pt|LJSpeech-1.1/durations/LJ021-0012.pt|LJSpeech-1.1/pitch_char/LJ021-0012.pt|with respect to industry and business, but nearly all are agreed that private enterprise in times such as these|1
+Jenny/mels/06662.pt|Jenny/durations/06662.pt|Jenny/pitch_char/06662.pt|I am not aware that anybody wants to fight me.|0
+LJSpeech-1.1/mels/LJ047-0202.pt|LJSpeech-1.1/durations/LJ047-0202.pt|LJSpeech-1.1/pitch_char/LJ047-0202.pt|testified that the information available to the Federal Government about Oswald before the assassination would, if known to PRS,|1
+LJSpeech-1.1/mels/LJ007-0233.pt|LJSpeech-1.1/durations/LJ007-0233.pt|LJSpeech-1.1/pitch_char/LJ007-0233.pt|it consists of several circular perforations, about two inches in diameter,|1
+Jenny/mels/03388.pt|Jenny/durations/03388.pt|Jenny/pitch_char/03388.pt|Joy from that in type we borrow, Which in life gives ONLY sorrow.|0
+Jenny/mels/03152.pt|Jenny/durations/03152.pt|Jenny/pitch_char/03152.pt|What's the score? Beautiful!|0
+LJSpeech-1.1/mels/LJ025-0098.pt|LJSpeech-1.1/durations/LJ025-0098.pt|LJSpeech-1.1/pitch_char/LJ025-0098.pt|and it is probable that amyloid substances are universally present in the animal organism, though not in the precise form of starch.|1
+LJSpeech-1.1/mels/LJ030-0014.pt|LJSpeech-1.1/durations/LJ030-0014.pt|LJSpeech-1.1/pitch_char/LJ030-0014.pt|quote, that the crowd was about the same as the one which came to see him before but there were one hundred thousand extra people on hand who came to see Mrs. Kennedy.|1
+LJSpeech-1.1/mels/LJ017-0164.pt|LJSpeech-1.1/durations/LJ017-0164.pt|LJSpeech-1.1/pitch_char/LJ017-0164.pt|with the idea of subjecting her to the irritant poison slowly but surely until the desired effect, death, was achieved.|1
+Jenny/mels/01743.pt|Jenny/durations/01743.pt|Jenny/pitch_char/01743.pt|That's fine yeah. Why not take it with you?|0
+Jenny/mels/02285.pt|Jenny/durations/02285.pt|Jenny/pitch_char/02285.pt|I'm smoking. I'm smoking I'm smoking. Oh, I can't believe you! You've been so good, for three years!|0
+LJSpeech-1.1/mels/LJ046-0111.pt|LJSpeech-1.1/durations/LJ046-0111.pt|LJSpeech-1.1/pitch_char/LJ046-0111.pt|The Secret Service has attempted to perform this function through the activities of its Protective Research Section|1
+LJSpeech-1.1/mels/LJ045-0177.pt|LJSpeech-1.1/durations/LJ045-0177.pt|LJSpeech-1.1/pitch_char/LJ045-0177.pt|For the first time|1
+Jenny/mels/01392.pt|Jenny/durations/01392.pt|Jenny/pitch_char/01392.pt|How often per year do your activities include underground explosions?|0
+LJSpeech-1.1/mels/LJ047-0075.pt|LJSpeech-1.1/durations/LJ047-0075.pt|LJSpeech-1.1/pitch_char/LJ047-0075.pt|Hosty had inquired earlier and found no evidence that it was functioning in the Dallas area.|1
+Jenny/mels/06767.pt|Jenny/durations/06767.pt|Jenny/pitch_char/06767.pt|On the present occasion, this must have been in part, at least, assumed.|0
+LJSpeech-1.1/mels/LJ013-0104.pt|LJSpeech-1.1/durations/LJ013-0104.pt|LJSpeech-1.1/pitch_char/LJ013-0104.pt|He found them at length residing at the latter place, one as a landed proprietor, the other as a publican.|1
+LJSpeech-1.1/mels/LJ014-0171.pt|LJSpeech-1.1/durations/LJ014-0171.pt|LJSpeech-1.1/pitch_char/LJ014-0171.pt|I will briefly describe one or two of the more remarkable murders in the years immediately following, then pass on to another branch of crime.|1
+Jenny/mels/01234.pt|Jenny/durations/01234.pt|Jenny/pitch_char/01234.pt|Hello, dear!|0
+LJSpeech-1.1/mels/LJ008-0182.pt|LJSpeech-1.1/durations/LJ008-0182.pt|LJSpeech-1.1/pitch_char/LJ008-0182.pt|A tremendous crowd assembled when Bellingham was executed in eighteen twelve for the murder of Spencer Percival, at that time prime minister;|1
+LJSpeech-1.1/mels/LJ014-0142.pt|LJSpeech-1.1/durations/LJ014-0142.pt|LJSpeech-1.1/pitch_char/LJ014-0142.pt|was strewn in front of the dock, and sprinkled it towards the bench with a contemptuous gesture.|1
+Jenny/mels/04398.pt|Jenny/durations/04398.pt|Jenny/pitch_char/04398.pt|Do you know what a phosphate bed looks like?|0
+Jenny/mels/04490.pt|Jenny/durations/04490.pt|Jenny/pitch_char/04490.pt|He had been left an orphan when he was fresh from a public school.|0
+LJSpeech-1.1/mels/LJ016-0117.pt|LJSpeech-1.1/durations/LJ016-0117.pt|LJSpeech-1.1/pitch_char/LJ016-0117.pt|The prisoner had nothing to deal with but wooden panels, and by dint of cutting and chopping he got both the lower panels out.|1
+Jenny/mels/01305.pt|Jenny/durations/01305.pt|Jenny/pitch_char/01305.pt|Don't say it! In Love with you.|0
+LJSpeech-1.1/mels/LJ028-0226.pt|LJSpeech-1.1/durations/LJ028-0226.pt|LJSpeech-1.1/pitch_char/LJ028-0226.pt|Though Herodotus wrote nearly a hundred years after Babylon fell, his story seems to bear the stamp of truth.|1
+Jenny/mels/02007.pt|Jenny/durations/02007.pt|Jenny/pitch_char/02007.pt|Does she? No. Yes, it is. Carol, hi!|0
+Jenny/mels/00852.pt|Jenny/durations/00852.pt|Jenny/pitch_char/00852.pt|She always drank it out of the can. I should have known. Start with that, we're out of here. Please don't spoil all this fun.|0
+Jenny/mels/05332.pt|Jenny/durations/05332.pt|Jenny/pitch_char/05332.pt|And may a person use them either rightly or wrongly?|0
+LJSpeech-1.1/mels/LJ023-0033.pt|LJSpeech-1.1/durations/LJ023-0033.pt|LJSpeech-1.1/pitch_char/LJ023-0033.pt|we will not allow ourselves to run around in new circles of futile discussion and debate, always postponing the day of decision.|1
+Jenny/mels/02426.pt|Jenny/durations/02426.pt|Jenny/pitch_char/02426.pt|Does your job include any occupational hazards|0
+Jenny/mels/05066.pt|Jenny/durations/05066.pt|Jenny/pitch_char/05066.pt|The officers lighted cigarettes. What does it matter if they do?|0
+LJSpeech-1.1/mels/LJ045-0216.pt|LJSpeech-1.1/durations/LJ045-0216.pt|LJSpeech-1.1/pitch_char/LJ045-0216.pt|nineteen sixty-three, merely to disarm her and to provide a justification of sorts,|1
+LJSpeech-1.1/mels/LJ007-0158.pt|LJSpeech-1.1/durations/LJ007-0158.pt|LJSpeech-1.1/pitch_char/LJ007-0158.pt|or any kind of moral improvement was impossible; the prisoner's career was inevitably downward, till he struck the lowest depths.|1
+Jenny/mels/06409.pt|Jenny/durations/06409.pt|Jenny/pitch_char/06409.pt|The young man set his jaw a trifle harder.|0
+LJSpeech-1.1/mels/LJ007-0090.pt|LJSpeech-1.1/durations/LJ007-0090.pt|LJSpeech-1.1/pitch_char/LJ007-0090.pt|Not only did their presence tend greatly to interfere with the discipline of the prison, but their condition was deplorable in the extreme.|1
+LJSpeech-1.1/mels/LJ009-0124.pt|LJSpeech-1.1/durations/LJ009-0124.pt|LJSpeech-1.1/pitch_char/LJ009-0124.pt|occupied when they saw it last, but a few hours ago, by their comrades who are now dead;|1
+Jenny/mels/06535.pt|Jenny/durations/06535.pt|Jenny/pitch_char/06535.pt|I thought you were sick, of course, but you don't seem to be.|0
+Jenny/mels/05885.pt|Jenny/durations/05885.pt|Jenny/pitch_char/05885.pt|Do you dislike Oxford? This, at the time, puzzled and grieved me a lot.|0
+Jenny/mels/02689.pt|Jenny/durations/02689.pt|Jenny/pitch_char/02689.pt|Have you ever used recreational or become reliant on any form of drug?|0
+LJSpeech-1.1/mels/LJ013-0091.pt|LJSpeech-1.1/durations/LJ013-0091.pt|LJSpeech-1.1/pitch_char/LJ013-0091.pt|and Elder had to be assisted by two bank porters, who carried it for him to a carriage waiting near the Mansion House.|1
+LJSpeech-1.1/mels/LJ021-0140.pt|LJSpeech-1.1/durations/LJ021-0140.pt|LJSpeech-1.1/pitch_char/LJ021-0140.pt|and in such an effort we should be able to secure for employers and employees and consumers|1
+LJSpeech-1.1/mels/LJ009-0184.pt|LJSpeech-1.1/durations/LJ009-0184.pt|LJSpeech-1.1/pitch_char/LJ009-0184.pt|Lord Ferrers' body was brought to Surgeons' Hall after execution in his own carriage and six;|1
+LJSpeech-1.1/mels/LJ034-0134.pt|LJSpeech-1.1/durations/LJ034-0134.pt|LJSpeech-1.1/pitch_char/LJ034-0134.pt|Shortly after the assassination Brennan noticed|1
+LJSpeech-1.1/mels/LJ032-0204.pt|LJSpeech-1.1/durations/LJ032-0204.pt|LJSpeech-1.1/pitch_char/LJ032-0204.pt|Special Agent Lyndal L. Shaneyfelt, a photography expert with the FBI,|1
+Jenny/mels/03806.pt|Jenny/durations/03806.pt|Jenny/pitch_char/03806.pt|Marius stiffened himself in advance. The woman tied it up in sullen silence.|0
+LJSpeech-1.1/mels/LJ012-0257.pt|LJSpeech-1.1/durations/LJ012-0257.pt|LJSpeech-1.1/pitch_char/LJ012-0257.pt|But the affair still remained a profound mystery. No light was thrown upon it till, towards the end of March,|1
+LJSpeech-1.1/mels/LJ006-0021.pt|LJSpeech-1.1/durations/LJ006-0021.pt|LJSpeech-1.1/pitch_char/LJ006-0021.pt|Later on he had devoted himself to the personal investigation of the prisons of the United States.|1
+LJSpeech-1.1/mels/LJ042-0230.pt|LJSpeech-1.1/durations/LJ042-0230.pt|LJSpeech-1.1/pitch_char/LJ042-0230.pt|basically, although I hate the USSR and socialist system I still think marxism can work under different circumstances, end quote.|1
+Jenny/mels/05525.pt|Jenny/durations/05525.pt|Jenny/pitch_char/05525.pt|Shall I be tempted of the devil thus?|0
+LJSpeech-1.1/mels/LJ048-0289.pt|LJSpeech-1.1/durations/LJ048-0289.pt|LJSpeech-1.1/pitch_char/LJ048-0289.pt|However, there is no evidence that these men failed to take any action in Dallas within their power that would have averted the tragedy.|1
+Jenny/mels/05985.pt|Jenny/durations/05985.pt|Jenny/pitch_char/05985.pt|It had neither door, nor window, nor floor.|0
+LJSpeech-1.1/mels/LJ026-0140.pt|LJSpeech-1.1/durations/LJ026-0140.pt|LJSpeech-1.1/pitch_char/LJ026-0140.pt|In the plant as in the animal metabolism must consist of anabolic and catabolic processes.|1
+Jenny/mels/03208.pt|Jenny/durations/03208.pt|Jenny/pitch_char/03208.pt|You're in! Right. Come on. Get back in the game.|0
+LJSpeech-1.1/mels/LJ016-0241.pt|LJSpeech-1.1/durations/LJ016-0241.pt|LJSpeech-1.1/pitch_char/LJ016-0241.pt|Calcraft served the city of London till eighteen seventy-four, when he was pensioned at the rate of twenty-five shillings per week.|1
+Jenny/mels/05726.pt|Jenny/durations/05726.pt|Jenny/pitch_char/05726.pt|Somehow or other, stunned and speechless, we lifted ourselves heavily into the opening.|0
+Jenny/mels/02787.pt|Jenny/durations/02787.pt|Jenny/pitch_char/02787.pt|Which gas do you use for diving?|0
+Jenny/mels/05296.pt|Jenny/durations/05296.pt|Jenny/pitch_char/05296.pt|Nothing can resist time, as I am well aware.|0
+LJSpeech-1.1/mels/LJ019-0270.pt|LJSpeech-1.1/durations/LJ019-0270.pt|LJSpeech-1.1/pitch_char/LJ019-0270.pt|Vegetables, especially the potato, that most valuable anti-scorbutic, was too often omitted.|1
+LJSpeech-1.1/mels/LJ019-0289.pt|LJSpeech-1.1/durations/LJ019-0289.pt|LJSpeech-1.1/pitch_char/LJ019-0289.pt|There was unrestrained association of untried and convicted, juvenile with adult prisoners, vagrants, misdemeanants, felons.|1
+Jenny/mels/02044.pt|Jenny/durations/02044.pt|Jenny/pitch_char/02044.pt|your problem is quite clear. To play with or simply let hang|0
+LJSpeech-1.1/mels/LJ014-0199.pt|LJSpeech-1.1/durations/LJ014-0199.pt|LJSpeech-1.1/pitch_char/LJ014-0199.pt|there was no case to make out; why waste money on lawyers for the defense? His demeanor was cool and collected throughout;|1
+Jenny/mels/05850.pt|Jenny/durations/05850.pt|Jenny/pitch_char/05850.pt|Mamma had to be at the funeral service.|0
+LJSpeech-1.1/mels/LJ021-0115.pt|LJSpeech-1.1/durations/LJ021-0115.pt|LJSpeech-1.1/pitch_char/LJ021-0115.pt|we have reached into the heart of the problem which is to provide such annual earnings for the lowest paid worker as will meet his minimum needs.|1
+LJSpeech-1.1/mels/LJ020-0085.pt|LJSpeech-1.1/durations/LJ020-0085.pt|LJSpeech-1.1/pitch_char/LJ020-0085.pt|Break apart from one another and pile on a plate, throwing a clean doily or a small napkin over them. Break open at table.|1
+LJSpeech-1.1/mels/LJ040-0097.pt|LJSpeech-1.1/durations/LJ040-0097.pt|LJSpeech-1.1/pitch_char/LJ040-0097.pt|Lee was brought up in this atmosphere of constant money problems, and I am sure it had quite an effect on him, and also Robert, end quote.|1
+LJSpeech-1.1/mels/LJ010-0027.pt|LJSpeech-1.1/durations/LJ010-0027.pt|LJSpeech-1.1/pitch_char/LJ010-0027.pt|Nor did the methods by which they were perpetrated greatly vary from those in times past.|1
+Jenny/mels/05679.pt|Jenny/durations/05679.pt|Jenny/pitch_char/05679.pt|But still his speed increased. Now go, dear.|0
+LJSpeech-1.1/mels/LJ019-0202.pt|LJSpeech-1.1/durations/LJ019-0202.pt|LJSpeech-1.1/pitch_char/LJ019-0202.pt|The preference given to the Pentonville system destroyed all hopes of a complete reformation of Newgate.|1
+LJSpeech-1.1/mels/LJ019-0179.pt|LJSpeech-1.1/durations/LJ019-0179.pt|LJSpeech-1.1/pitch_char/LJ019-0179.pt|This, with a scheme for limiting the jail to untried prisoners, had been urgently recommended by Lord John Russell in eighteen thirty.|1
+LJSpeech-1.1/mels/LJ016-0125.pt|LJSpeech-1.1/durations/LJ016-0125.pt|LJSpeech-1.1/pitch_char/LJ016-0125.pt|with this, placed against the wall near the chevaux-de-frise, he made an escalade.|1
+LJSpeech-1.1/mels/LJ030-0196.pt|LJSpeech-1.1/durations/LJ030-0196.pt|LJSpeech-1.1/pitch_char/LJ030-0196.pt|He cried out, quote, Oh, no, no, no. My God, they are going to kill us all, end quote,|1
+Jenny/mels/05285.pt|Jenny/durations/05285.pt|Jenny/pitch_char/05285.pt|But now I mean to take another path.|0
+LJSpeech-1.1/mels/LJ039-0118.pt|LJSpeech-1.1/durations/LJ039-0118.pt|LJSpeech-1.1/pitch_char/LJ039-0118.pt|He had high motivation. He had presumably a good to excellent rifle and good ammunition.|1
+Jenny/mels/06139.pt|Jenny/durations/06139.pt|Jenny/pitch_char/06139.pt|The other was his SINGULAR dying reference to a rat.|0
+LJSpeech-1.1/mels/LJ030-0105.pt|LJSpeech-1.1/durations/LJ030-0105.pt|LJSpeech-1.1/pitch_char/LJ030-0105.pt|Communications in the motorcade.|1
+Jenny/mels/01358.pt|Jenny/durations/01358.pt|Jenny/pitch_char/01358.pt|Oh, it's so late for shall we. She's got everything I want, and she doesn't have my mother.|0
+LJSpeech-1.1/mels/LJ041-0022.pt|LJSpeech-1.1/durations/LJ041-0022.pt|LJSpeech-1.1/pitch_char/LJ041-0022.pt|Oswald first wrote, quote, Edward Vogel, end quote, an obvious misspelling of Voebel's name,|1
+Jenny/mels/04797.pt|Jenny/durations/04797.pt|Jenny/pitch_char/04797.pt|Another difficulty, he said, was the lack of school books.|0
+Jenny/mels/06221.pt|Jenny/durations/06221.pt|Jenny/pitch_char/06221.pt|Ay, ay, he told his mind upon mine ear.|0
+LJSpeech-1.1/mels/LJ044-0047.pt|LJSpeech-1.1/durations/LJ044-0047.pt|LJSpeech-1.1/pitch_char/LJ044-0047.pt|that anyone ever attacked any street demonstration in which Oswald was involved, except for the Bringuier incident mentioned above,|1
+Jenny/mels/03201.pt|Jenny/durations/03201.pt|Jenny/pitch_char/03201.pt|What symptoms do you currently suffer from?|0
+LJSpeech-1.1/mels/LJ002-0253.pt|LJSpeech-1.1/durations/LJ002-0253.pt|LJSpeech-1.1/pitch_char/LJ002-0253.pt|were governed by rules which they themselves had framed, and under which subscriptions were levied|1
+Jenny/mels/00885.pt|Jenny/durations/00885.pt|Jenny/pitch_char/00885.pt|to find one of you people. God! Come on. Just do it.|0
+LJSpeech-1.1/mels/LJ006-0149.pt|LJSpeech-1.1/durations/LJ006-0149.pt|LJSpeech-1.1/pitch_char/LJ006-0149.pt|The turnkeys left the prisoners very much to themselves, never entering the wards after locking-up time, at dusk, till unlocking next morning,|1
+LJSpeech-1.1/mels/LJ014-0128.pt|LJSpeech-1.1/durations/LJ014-0128.pt|LJSpeech-1.1/pitch_char/LJ014-0128.pt|her hair was dressed in long crepe bands. She had lace ruffles at her wrist, and wore primrose-colored kid gloves.|1
+LJSpeech-1.1/mels/LJ028-0349.pt|LJSpeech-1.1/durations/LJ028-0349.pt|LJSpeech-1.1/pitch_char/LJ028-0349.pt|who were each required to send so large a number to Babylon, that in all there were collected no fewer than fifty thousand.|1
+LJSpeech-1.1/mels/LJ050-0161.pt|LJSpeech-1.1/durations/LJ050-0161.pt|LJSpeech-1.1/pitch_char/LJ050-0161.pt|The Secret Service should not and does not plan to develop its own intelligence gathering facilities to duplicate the existing facilities of other Federal agencies.|1
+Jenny/mels/06449.pt|Jenny/durations/06449.pt|Jenny/pitch_char/06449.pt|Green snow covered it to a depth of some inches.|0
+LJSpeech-1.1/mels/LJ020-0093.pt|LJSpeech-1.1/durations/LJ020-0093.pt|LJSpeech-1.1/pitch_char/LJ020-0093.pt|Rise, wash face and hands, rinse the mouth out and brush back the hair.|1
+Jenny/mels/04459.pt|Jenny/durations/04459.pt|Jenny/pitch_char/04459.pt|Now was Christian somewhat in amaze. The chair put up a warning hand.|0
+LJSpeech-1.1/mels/LJ030-0063.pt|LJSpeech-1.1/durations/LJ030-0063.pt|LJSpeech-1.1/pitch_char/LJ030-0063.pt|He had repeated this wish only a few days before, during his visit to Tampa, Florida.|1
+LJSpeech-1.1/mels/LJ008-0181.pt|LJSpeech-1.1/durations/LJ008-0181.pt|LJSpeech-1.1/pitch_char/LJ008-0181.pt|he had his pockets filled with bread and cheese, and it was generally supposed that he had come a long distance to see the fatal show.|1
+Jenny/mels/03903.pt|Jenny/durations/03903.pt|Jenny/pitch_char/03903.pt|No; I do not say that he can. Tell me, Mac, please, did you?|0
+LJSpeech-1.1/mels/LJ003-0230.pt|LJSpeech-1.1/durations/LJ003-0230.pt|LJSpeech-1.1/pitch_char/LJ003-0230.pt|The prison allowances were eked out by the broken victuals generously given by several eating-house keepers in the city,|1
+Jenny/mels/06229.pt|Jenny/durations/06229.pt|Jenny/pitch_char/06229.pt|Nowhere else is the sun served with such a word.|0
+Jenny/mels/01599.pt|Jenny/durations/01599.pt|Jenny/pitch_char/01599.pt|Why can't we just talk, laugh and make love|0
+Jenny/mels/02547.pt|Jenny/durations/02547.pt|Jenny/pitch_char/02547.pt|I think it's winning. It's insane. She'll love it.|0
+LJSpeech-1.1/mels/LJ031-0008.pt|LJSpeech-1.1/durations/LJ031-0008.pt|LJSpeech-1.1/pitch_char/LJ031-0008.pt|Meanwhile, Chief Curry ordered the police base station to notify Parkland Hospital that the wounded President was en route.|1
+LJSpeech-1.1/mels/LJ016-0089.pt|LJSpeech-1.1/durations/LJ016-0089.pt|LJSpeech-1.1/pitch_char/LJ016-0089.pt|He was engaged in whitewashing and cleaning; the officer who had him in charge left him on the stairs leading to the gallery.|1
+Jenny/mels/04383.pt|Jenny/durations/04383.pt|Jenny/pitch_char/04383.pt|Is the giving of the names of streams to both of them purely accidental?|0
+LJSpeech-1.1/mels/LJ032-0012.pt|LJSpeech-1.1/durations/LJ032-0012.pt|LJSpeech-1.1/pitch_char/LJ032-0012.pt|the resistance to arrest and the attempted shooting of another police officer by the man (Lee Harvey Oswald) subsequently accused of assassinating President Kennedy|1
+LJSpeech-1.1/mels/LJ009-0126.pt|LJSpeech-1.1/durations/LJ009-0126.pt|LJSpeech-1.1/pitch_char/LJ009-0126.pt|Hardly any one.|1
+LJSpeech-1.1/mels/LJ005-0294.pt|LJSpeech-1.1/durations/LJ005-0294.pt|LJSpeech-1.1/pitch_char/LJ005-0294.pt|It was frequently stated in evidence that the jail of the borough was in so unfit a state for the reception of prisoners,|1
+LJSpeech-1.1/mels/LJ045-0092.pt|LJSpeech-1.1/durations/LJ045-0092.pt|LJSpeech-1.1/pitch_char/LJ045-0092.pt|as to the fact that he was an outstanding man, end quote.|1
+LJSpeech-1.1/mels/LJ017-0183.pt|LJSpeech-1.1/durations/LJ017-0183.pt|LJSpeech-1.1/pitch_char/LJ017-0183.pt|Soon afterwards Dixon died, showing all the symptoms already described.|1
+Jenny/mels/02479.pt|Jenny/durations/02479.pt|Jenny/pitch_char/02479.pt|handing out mints or anything? No just the three of us.|0
+LJSpeech-1.1/mels/LJ018-0278.pt|LJSpeech-1.1/durations/LJ018-0278.pt|LJSpeech-1.1/pitch_char/LJ018-0278.pt|This was the well and astutely devised plot of the brothers Bidwell,|1
+Jenny/mels/06746.pt|Jenny/durations/06746.pt|Jenny/pitch_char/06746.pt|Then came the question: what did my father abstain from?|0
+Jenny/mels/05822.pt|Jenny/durations/05822.pt|Jenny/pitch_char/05822.pt|She looked behind her sharply.|0
+Jenny/mels/01280.pt|Jenny/durations/01280.pt|Jenny/pitch_char/01280.pt|Oh, no. Not in my room. I'll get him.|0
+LJSpeech-1.1/mels/LJ028-0462.pt|LJSpeech-1.1/durations/LJ028-0462.pt|LJSpeech-1.1/pitch_char/LJ028-0462.pt|They were laid in bitumen.|1
+Jenny/mels/00589.pt|Jenny/durations/00589.pt|Jenny/pitch_char/00589.pt|Do you still have symptoms due to the disorder?|0
+Jenny/mels/02397.pt|Jenny/durations/02397.pt|Jenny/pitch_char/02397.pt|It's just You know they're parents. After a certain point, you gotta let go.|0
+Jenny/mels/04275.pt|Jenny/durations/04275.pt|Jenny/pitch_char/04275.pt|The Source must be found again and reopened.|0
+LJSpeech-1.1/mels/LJ017-0190.pt|LJSpeech-1.1/durations/LJ017-0190.pt|LJSpeech-1.1/pitch_char/LJ017-0190.pt|After this came the charge of administering oil of vitriol, which failed, as has been described.|1
+Jenny/mels/04340.pt|Jenny/durations/04340.pt|Jenny/pitch_char/04340.pt|She hesitated; she knew not what to do.|0
+Jenny/mels/05866.pt|Jenny/durations/05866.pt|Jenny/pitch_char/05866.pt|I will break down the wall thereof, and it shall be trodden down.|0
+Jenny/mels/04119.pt|Jenny/durations/04119.pt|Jenny/pitch_char/04119.pt|There was a stone there.|0
+Jenny/mels/02203.pt|Jenny/durations/02203.pt|Jenny/pitch_char/02203.pt|How does she do that?|0
+Jenny/mels/03122.pt|Jenny/durations/03122.pt|Jenny/pitch_char/03122.pt|Think it'll work? No way. It's suicide. The One With The Candy Hearts|0
+Jenny/mels/02849.pt|Jenny/durations/02849.pt|Jenny/pitch_char/02849.pt|Don't you have to pee? That's why I'm dancing. Hey you.|0
+Jenny/mels/02319.pt|Jenny/durations/02319.pt|Jenny/pitch_char/02319.pt|What is the nature of your winter sport activity?|0
+LJSpeech-1.1/mels/LJ019-0055.pt|LJSpeech-1.1/durations/LJ019-0055.pt|LJSpeech-1.1/pitch_char/LJ019-0055.pt|High authorities were in favor of continuous separation.|1
+Jenny/mels/00437.pt|Jenny/durations/00437.pt|Jenny/pitch_char/00437.pt|Okay. Great! So will you bring the truck?|0
+LJSpeech-1.1/mels/LJ010-0157.pt|LJSpeech-1.1/durations/LJ010-0157.pt|LJSpeech-1.1/pitch_char/LJ010-0157.pt|and that, as he was starving, he had resolved on this desperate deed,|1
+LJSpeech-1.1/mels/LJ001-0063.pt|LJSpeech-1.1/durations/LJ001-0063.pt|LJSpeech-1.1/pitch_char/LJ001-0063.pt|which was generally more formally Gothic than the printing of the German workmen,|1
+LJSpeech-1.1/mels/LJ044-0237.pt|LJSpeech-1.1/durations/LJ044-0237.pt|LJSpeech-1.1/pitch_char/LJ044-0237.pt|with thirteen dollars, eighty-seven cents when considerably greater resources were available to him.|1
+LJSpeech-1.1/mels/LJ019-0241.pt|LJSpeech-1.1/durations/LJ019-0241.pt|LJSpeech-1.1/pitch_char/LJ019-0241.pt|But in the interval very comprehensive and, I think it must be admitted, salutary changes were successively introduced into the management of prisons.|1
+LJSpeech-1.1/mels/LJ013-0213.pt|LJSpeech-1.1/durations/LJ013-0213.pt|LJSpeech-1.1/pitch_char/LJ013-0213.pt|This seems to have decided Courvoisier,|1
+Jenny/mels/00138.pt|Jenny/durations/00138.pt|Jenny/pitch_char/00138.pt|You know what? No one will be able to tell.|0
+LJSpeech-1.1/mels/LJ015-0052.pt|LJSpeech-1.1/durations/LJ015-0052.pt|LJSpeech-1.1/pitch_char/LJ015-0052.pt|to the value of twenty thousand pounds.|1
+Jenny/mels/04660.pt|Jenny/durations/04660.pt|Jenny/pitch_char/04660.pt|I walked to Third College.|0
+Jenny/mels/03630.pt|Jenny/durations/03630.pt|Jenny/pitch_char/03630.pt|There's a young female lately arrived from Manchester. Apparently, not.|0
+LJSpeech-1.1/mels/LJ018-0349.pt|LJSpeech-1.1/durations/LJ018-0349.pt|LJSpeech-1.1/pitch_char/LJ018-0349.pt|His disclaimer, distinct and detailed on every point, was intended simply for effect.|1
+Jenny/mels/06568.pt|Jenny/durations/06568.pt|Jenny/pitch_char/06568.pt|She'll think we were against her from the beginning.|0
+Jenny/mels/00217.pt|Jenny/durations/00217.pt|Jenny/pitch_char/00217.pt|I just|0
+Jenny/mels/02763.pt|Jenny/durations/02763.pt|Jenny/pitch_char/02763.pt|Where did symptoms occur?|0
+Jenny/mels/05417.pt|Jenny/durations/05417.pt|Jenny/pitch_char/05417.pt|The log registers ten knots an hour. I just guess.|0
+Jenny/mels/01751.pt|Jenny/durations/01751.pt|Jenny/pitch_char/01751.pt|Have you completely recovered from your disorder?|0
+Jenny/mels/00058.pt|Jenny/durations/00058.pt|Jenny/pitch_char/00058.pt|Can I get an espresso and a latte over here?|0
+Jenny/mels/01627.pt|Jenny/durations/01627.pt|Jenny/pitch_char/01627.pt|Who is being loud? Do I sense a bit of resentment?|0
+Jenny/mels/06545.pt|Jenny/durations/06545.pt|Jenny/pitch_char/06545.pt|He did not know their address. Come on; tune.|0
+Jenny/mels/01208.pt|Jenny/durations/01208.pt|Jenny/pitch_char/01208.pt|Can I stay? No.|0
+LJSpeech-1.1/mels/LJ014-0121.pt|LJSpeech-1.1/durations/LJ014-0121.pt|LJSpeech-1.1/pitch_char/LJ014-0121.pt|The prisoners were in due course transferred to Newgate, to be put upon their trial at the Central Criminal Court.|1
+Jenny/mels/05609.pt|Jenny/durations/05609.pt|Jenny/pitch_char/05609.pt|As time passed and nothing happened she heaved a sigh.|0
+Jenny/mels/06770.pt|Jenny/durations/06770.pt|Jenny/pitch_char/06770.pt|Spiritual vessel. Ah, that, I hardly doubt, was my fancy!|0
+Jenny/mels/01868.pt|Jenny/durations/01868.pt|Jenny/pitch_char/01868.pt|Sorry the first guy runs the lips.|0
+LJSpeech-1.1/mels/LJ003-0299.pt|LJSpeech-1.1/durations/LJ003-0299.pt|LJSpeech-1.1/pitch_char/LJ003-0299.pt|the latter end of the nineteenth century, several of which still fall far short of our English ideal,|1
+LJSpeech-1.1/mels/LJ029-0197.pt|LJSpeech-1.1/durations/LJ029-0197.pt|LJSpeech-1.1/pitch_char/LJ029-0197.pt|During November the Dallas papers reported frequently on the plans for protecting the President, stressing the thoroughness of the preparations.|1
+LJSpeech-1.1/mels/LJ047-0093.pt|LJSpeech-1.1/durations/LJ047-0093.pt|LJSpeech-1.1/pitch_char/LJ047-0093.pt|Oswald was arrested and jailed by the New Orleans Police Department for disturbing the peace, in connection with a street fight which broke out when he was accosted|1
+LJSpeech-1.1/mels/LJ043-0010.pt|LJSpeech-1.1/durations/LJ043-0010.pt|LJSpeech-1.1/pitch_char/LJ043-0010.pt|Some of the members of that group saw a good deal of the Oswalds through the fall of nineteen sixty-three,|1
+LJSpeech-1.1/mels/LJ048-0252.pt|LJSpeech-1.1/durations/LJ048-0252.pt|LJSpeech-1.1/pitch_char/LJ048-0252.pt|Three of these agents occupied positions on the running boards of the car, and the fourth was seated in the car.|1
+LJSpeech-1.1/mels/LJ034-0117.pt|LJSpeech-1.1/durations/LJ034-0117.pt|LJSpeech-1.1/pitch_char/LJ034-0117.pt|At one:twenty-nine p.m. the police radio reported|1
+Jenny/mels/05284.pt|Jenny/durations/05284.pt|Jenny/pitch_char/05284.pt|The town seemed to be running over with celebrities.|0
+Jenny/mels/05868.pt|Jenny/durations/05868.pt|Jenny/pitch_char/05868.pt|If your Highness says the word, he shall pass.|0
+Jenny/mels/00275.pt|Jenny/durations/00275.pt|Jenny/pitch_char/00275.pt|How often do or did you have seizures or events per year?|0
+Jenny/mels/02620.pt|Jenny/durations/02620.pt|Jenny/pitch_char/02620.pt|You'd think you would've known that. You'd think I would've. It's more of an interactive wildlife experience.|0
+LJSpeech-1.1/mels/LJ037-0001.pt|LJSpeech-1.1/durations/LJ037-0001.pt|LJSpeech-1.1/pitch_char/LJ037-0001.pt|Report of the President's Commission on the Assassination of President Kennedy. The Warren Commission Report. By The President's Commission on the Assassination of President Kennedy.|1
+LJSpeech-1.1/mels/LJ018-0218.pt|LJSpeech-1.1/durations/LJ018-0218.pt|LJSpeech-1.1/pitch_char/LJ018-0218.pt|In eighteen fifty-five|1
+LJSpeech-1.1/mels/LJ028-0136.pt|LJSpeech-1.1/durations/LJ028-0136.pt|LJSpeech-1.1/pitch_char/LJ028-0136.pt|Of all the ancient descriptions of the famous walls and the city they protected, that of Herodotus is the fullest.|1
+Jenny/mels/06607.pt|Jenny/durations/06607.pt|Jenny/pitch_char/06607.pt|Unpleasant story to get about in connection with the establishment.|0
+Jenny/mels/02786.pt|Jenny/durations/02786.pt|Jenny/pitch_char/02786.pt|Okay coming.|0
+Jenny/mels/06811.pt|Jenny/durations/06811.pt|Jenny/pitch_char/06811.pt|Let me prove this. Sara turned toward her.|0
+LJSpeech-1.1/mels/LJ045-0045.pt|LJSpeech-1.1/durations/LJ045-0045.pt|LJSpeech-1.1/pitch_char/LJ045-0045.pt|that she would be able to leave the Soviet Union. Marina Oswald has denied this.|1
+LJSpeech-1.1/mels/LJ038-0047.pt|LJSpeech-1.1/durations/LJ038-0047.pt|LJSpeech-1.1/pitch_char/LJ038-0047.pt|Some of the officers saw Oswald strike McDonald with his fist. Most of them heard a click which they assumed to be a click of the hammer of the revolver.|1
+LJSpeech-1.1/mels/LJ001-0094.pt|LJSpeech-1.1/durations/LJ001-0094.pt|LJSpeech-1.1/pitch_char/LJ001-0094.pt|were induced to cut punches for a series of "old style" letters.|1
+Jenny/mels/05901.pt|Jenny/durations/05901.pt|Jenny/pitch_char/05901.pt|And could you tell me what everyone knows about it?|0
+LJSpeech-1.1/mels/LJ009-0084.pt|LJSpeech-1.1/durations/LJ009-0084.pt|LJSpeech-1.1/pitch_char/LJ009-0084.pt|At length the ordinary pauses, and then, in a deep tone, which, though hardly above a whisper, is audible to all, says,|1
+Jenny/mels/02994.pt|Jenny/durations/02994.pt|Jenny/pitch_char/02994.pt|I've been honing.|0
+Jenny/mels/00609.pt|Jenny/durations/00609.pt|Jenny/pitch_char/00609.pt|And basically, that's how a bill becomes a law. How'd it go?|0
+Jenny/mels/01592.pt|Jenny/durations/01592.pt|Jenny/pitch_char/01592.pt|I can't believe I'm even considering this.|0
+Jenny/mels/02967.pt|Jenny/durations/02967.pt|Jenny/pitch_char/02967.pt|And it's not that we don't like the comedian.|0
+LJSpeech-1.1/mels/LJ013-0045.pt|LJSpeech-1.1/durations/LJ013-0045.pt|LJSpeech-1.1/pitch_char/LJ013-0045.pt|Wallace's relations warned him against his Liverpool friend,|1
+Jenny/mels/04681.pt|Jenny/durations/04681.pt|Jenny/pitch_char/04681.pt|He blamed them for this at once. I want you to see him.|0
+LJSpeech-1.1/mels/LJ015-0218.pt|LJSpeech-1.1/durations/LJ015-0218.pt|LJSpeech-1.1/pitch_char/LJ015-0218.pt|A new accomplice was now needed within the company's establishment, and Pierce looked about long before he found the right person.|1
+Jenny/mels/01446.pt|Jenny/durations/01446.pt|Jenny/pitch_char/01446.pt|Go for a drink sometime? Sure sounds good.|0
+LJSpeech-1.1/mels/LJ006-0202.pt|LJSpeech-1.1/durations/LJ006-0202.pt|LJSpeech-1.1/pitch_char/LJ006-0202.pt|The news-vendor was also a tobacconist,|1
+Jenny/mels/06343.pt|Jenny/durations/06343.pt|Jenny/pitch_char/06343.pt|Again, simple and intelligible enough.|0
+Jenny/mels/04171.pt|Jenny/durations/04171.pt|Jenny/pitch_char/04171.pt|But I do not die.|0
+LJSpeech-1.1/mels/LJ042-0130.pt|LJSpeech-1.1/durations/LJ042-0130.pt|LJSpeech-1.1/pitch_char/LJ042-0130.pt|Shortly thereafter, less than eighteen months after his defection, about six weeks before he met Marina Prusakova,|1
+LJSpeech-1.1/mels/LJ049-0196.pt|LJSpeech-1.1/durations/LJ049-0196.pt|LJSpeech-1.1/pitch_char/LJ049-0196.pt|On the other hand, it is urged that all features of the protection of the President and his family should be committed to an elite and independent corps.|1
+LJSpeech-1.1/mels/LJ030-0125.pt|LJSpeech-1.1/durations/LJ030-0125.pt|LJSpeech-1.1/pitch_char/LJ030-0125.pt|On several occasions when the Vice President's car was slowed down by the throng, Special Agent Youngblood stepped out to hold the crowd back.|1
+LJSpeech-1.1/mels/LJ019-0042.pt|LJSpeech-1.1/durations/LJ019-0042.pt|LJSpeech-1.1/pitch_char/LJ019-0042.pt|These were either satisfied with a makeshift, and modified existing buildings, without close regard to their suitability, or for a long time did nothing at all.|1
+LJSpeech-1.1/mels/LJ011-0141.pt|LJSpeech-1.1/durations/LJ011-0141.pt|LJSpeech-1.1/pitch_char/LJ011-0141.pt|There were at the moment in Newgate six convicts sentenced to death for forging wills.|1
+Jenny/mels/00083.pt|Jenny/durations/00083.pt|Jenny/pitch_char/00083.pt|It's going pretty good. It's nice and we're having fun.|0
+Jenny/mels/06418.pt|Jenny/durations/06418.pt|Jenny/pitch_char/06418.pt|He had the air of some frightened creature approaching his master. "You were born in India," he exclaimed, "were you?"|0
+Jenny/mels/06141.pt|Jenny/durations/06141.pt|Jenny/pitch_char/06141.pt|She was now altogether as eager to wean little Gerard.|0
+LJSpeech-1.1/mels/LJ012-0049.pt|LJSpeech-1.1/durations/LJ012-0049.pt|LJSpeech-1.1/pitch_char/LJ012-0049.pt|led him to think seriously of trying his fortunes in another land.|1
+Jenny/mels/04218.pt|Jenny/durations/04218.pt|Jenny/pitch_char/04218.pt|All has turned out splendidly. He is still a fugitive.|0
+Jenny/mels/06680.pt|Jenny/durations/06680.pt|Jenny/pitch_char/06680.pt|My neighbours is all poor and has big families.|0
+Jenny/mels/05829.pt|Jenny/durations/05829.pt|Jenny/pitch_char/05829.pt|I can't keep a single possession to myself.|0
+LJSpeech-1.1/mels/LJ004-0036.pt|LJSpeech-1.1/durations/LJ004-0036.pt|LJSpeech-1.1/pitch_char/LJ004-0036.pt|it was hoped that their rulers would hire accommodation in the county prisons, and that the inferior establishments would in course of time disappear.|1
+Jenny/mels/04902.pt|Jenny/durations/04902.pt|Jenny/pitch_char/04902.pt|He is an uncommon man.|0
+LJSpeech-1.1/mels/LJ043-0047.pt|LJSpeech-1.1/durations/LJ043-0047.pt|LJSpeech-1.1/pitch_char/LJ043-0047.pt|Oswald and his family lived for a brief period with his mother at her urging, but Oswald soon decided to move out.|1
+LJSpeech-1.1/mels/LJ023-0089.pt|LJSpeech-1.1/durations/LJ023-0089.pt|LJSpeech-1.1/pitch_char/LJ023-0089.pt|That is not only my accusation.|1
+Jenny/mels/05196.pt|Jenny/durations/05196.pt|Jenny/pitch_char/05196.pt|You are very unkind, Agatha. I'll answer for Miss Barbara.|0
+LJSpeech-1.1/mels/LJ048-0069.pt|LJSpeech-1.1/durations/LJ048-0069.pt|LJSpeech-1.1/pitch_char/LJ048-0069.pt|Efforts made by the Bureau since the assassination, on the other hand,|1
+Jenny/mels/05280.pt|Jenny/durations/05280.pt|Jenny/pitch_char/05280.pt|It was not a dream. You'll never go back!|0
+LJSpeech-1.1/mels/LJ017-0189.pt|LJSpeech-1.1/durations/LJ017-0189.pt|LJSpeech-1.1/pitch_char/LJ017-0189.pt|who was presently attacked in the same way as the others, but, but, thanks to the prompt administration of remedies, he recovered.|1
+LJSpeech-1.1/mels/LJ006-0137.pt|LJSpeech-1.1/durations/LJ006-0137.pt|LJSpeech-1.1/pitch_char/LJ006-0137.pt|They were not obliged to attend chapel, and seldom if ever went; "prisoners," said one of them under examination, "did not like the trouble of going to chapel."|1
+LJSpeech-1.1/mels/LJ017-0059.pt|LJSpeech-1.1/durations/LJ017-0059.pt|LJSpeech-1.1/pitch_char/LJ017-0059.pt|even after sentence, and until within a few hours of execution, he was buoyed up with the hope of reprieve.|1
+LJSpeech-1.1/mels/LJ019-0317.pt|LJSpeech-1.1/durations/LJ019-0317.pt|LJSpeech-1.1/pitch_char/LJ019-0317.pt|The former, which consisted principally of the tread-wheel, cranks, capstans, shot-drill,|1
+Jenny/mels/05555.pt|Jenny/durations/05555.pt|Jenny/pitch_char/05555.pt|Where Scotland?|0
+Jenny/mels/00835.pt|Jenny/durations/00835.pt|Jenny/pitch_char/00835.pt|She's amazing! Go over to her. She's not with anyone.|0
+Jenny/mels/00402.pt|Jenny/durations/00402.pt|Jenny/pitch_char/00402.pt|Here you go.|0
+LJSpeech-1.1/mels/LJ043-0140.pt|LJSpeech-1.1/durations/LJ043-0140.pt|LJSpeech-1.1/pitch_char/LJ043-0140.pt|He also studied Dallas bus schedules to prepare for his later use of buses to travel to and from General Walker's house.|1
+Jenny/mels/03646.pt|Jenny/durations/03646.pt|Jenny/pitch_char/03646.pt|She stopped still close to him, touching him.|0
+LJSpeech-1.1/mels/LJ019-0355.pt|LJSpeech-1.1/durations/LJ019-0355.pt|LJSpeech-1.1/pitch_char/LJ019-0355.pt|came up in all respects to modern requirements.|1
+Jenny/mels/02784.pt|Jenny/durations/02784.pt|Jenny/pitch_char/02784.pt|Was a follow-up smear normal?|0
+LJSpeech-1.1/mels/LJ010-0083.pt|LJSpeech-1.1/durations/LJ010-0083.pt|LJSpeech-1.1/pitch_char/LJ010-0083.pt|and measures taken to arrest them when their plans were so far developed that no doubt could remain as to their guilt.|1
+LJSpeech-1.1/mels/LJ005-0086.pt|LJSpeech-1.1/durations/LJ005-0086.pt|LJSpeech-1.1/pitch_char/LJ005-0086.pt|with such further separation as the justices should deem conducive to good order and discipline.|1
+Jenny/mels/04150.pt|Jenny/durations/04150.pt|Jenny/pitch_char/04150.pt|She appealed to Stella. Stop, or I shoot you dead!|0
+LJSpeech-1.1/mels/LJ033-0042.pt|LJSpeech-1.1/durations/LJ033-0042.pt|LJSpeech-1.1/pitch_char/LJ033-0042.pt|Between the hours of eight and nine p.m. they were occupied with the children in the bedrooms located at the extreme east end of the house.|1
+LJSpeech-1.1/mels/LJ039-0076.pt|LJSpeech-1.1/durations/LJ039-0076.pt|LJSpeech-1.1/pitch_char/LJ039-0076.pt|Ronald Simmons, chief of the U.S. Army Infantry Weapons Evaluation Branch of the Ballistics Research Laboratory, said, quote,|1
+Jenny/mels/00578.pt|Jenny/durations/00578.pt|Jenny/pitch_char/00578.pt|Be glad you didn't fan the magazines. She'll scratch your eyes out.|0
+Jenny/mels/06702.pt|Jenny/durations/06702.pt|Jenny/pitch_char/06702.pt|I'm going on and you're going with me, Cole, like a sensible chap!|0
+Jenny/mels/02989.pt|Jenny/durations/02989.pt|Jenny/pitch_char/02989.pt|You guys, I am not that bad! Yeah, you are. Remember, I lived with you? You were a little.|0
+LJSpeech-1.1/mels/LJ045-0228.pt|LJSpeech-1.1/durations/LJ045-0228.pt|LJSpeech-1.1/pitch_char/LJ045-0228.pt|On the other hand, he could have traveled some distance with the money he did have and he did return to his room where he obtained his revolver.|1
+LJSpeech-1.1/mels/LJ016-0077.pt|LJSpeech-1.1/durations/LJ016-0077.pt|LJSpeech-1.1/pitch_char/LJ016-0077.pt|A man named Lears, under sentence of transportation for an attempt at murder on board ship, got up part of the way,|1
+LJSpeech-1.1/mels/LJ046-0033.pt|LJSpeech-1.1/durations/LJ046-0033.pt|LJSpeech-1.1/pitch_char/LJ046-0033.pt|The adequacy of existing procedures can fairly be assessed only after full consideration of the difficulty of the protective assignment,|1
+LJSpeech-1.1/mels/LJ015-0036.pt|LJSpeech-1.1/durations/LJ015-0036.pt|LJSpeech-1.1/pitch_char/LJ015-0036.pt|The bank was already insolvent,|1
+Jenny/mels/05478.pt|Jenny/durations/05478.pt|Jenny/pitch_char/05478.pt|The fact is, that job I was speaking to you about was simply this.|0
+LJSpeech-1.1/mels/LJ006-0084.pt|LJSpeech-1.1/durations/LJ006-0084.pt|LJSpeech-1.1/pitch_char/LJ006-0084.pt|and so numerous were his opportunities of showing favoritism, that all the prisoners may be said to be in his power.|1
+Jenny/mels/03480.pt|Jenny/durations/03480.pt|Jenny/pitch_char/03480.pt|We seem to be forgetting Milton. There is correct English: that is not slang.|0
+Jenny/mels/06187.pt|Jenny/durations/06187.pt|Jenny/pitch_char/06187.pt|Now, while we speak of her? WHAT fellow?|0
+LJSpeech-1.1/mels/LJ050-0056.pt|LJSpeech-1.1/durations/LJ050-0056.pt|LJSpeech-1.1/pitch_char/LJ050-0056.pt|On December twenty-six, nineteen sixty-three, the FBI circulated additional instructions to all its agents,|1
+LJSpeech-1.1/mels/LJ016-0205.pt|LJSpeech-1.1/durations/LJ016-0205.pt|LJSpeech-1.1/pitch_char/LJ016-0205.pt|he received a retaining fee of five pounds, five shillings, with the usual guinea for each job;|1
+Jenny/mels/06616.pt|Jenny/durations/06616.pt|Jenny/pitch_char/06616.pt|More silence. All the same, this Hague Conference is a most mysterious affair.|0
+LJSpeech-1.1/mels/LJ047-0073.pt|LJSpeech-1.1/durations/LJ047-0073.pt|LJSpeech-1.1/pitch_char/LJ047-0073.pt|Hosty considered the information to be, quote, stale, unquote, by that time, and did not attempt to verify Oswald's reported statement.|1
+Jenny/mels/04695.pt|Jenny/durations/04695.pt|Jenny/pitch_char/04695.pt|No, at a proper distance. See over yonder.|0
+Jenny/mels/05771.pt|Jenny/durations/05771.pt|Jenny/pitch_char/05771.pt|I don't know what money looks like in the morning.|0
+Jenny/mels/05883.pt|Jenny/durations/05883.pt|Jenny/pitch_char/05883.pt|So far as outward appearances were concerned, no impression was produced upon her.|0
+LJSpeech-1.1/mels/LJ016-0277.pt|LJSpeech-1.1/durations/LJ016-0277.pt|LJSpeech-1.1/pitch_char/LJ016-0277.pt|This is proved by contemporary accounts, especially one graphic and realistic article which appeared in the 'Times,'|1
+LJSpeech-1.1/mels/LJ039-0148.pt|LJSpeech-1.1/durations/LJ039-0148.pt|LJSpeech-1.1/pitch_char/LJ039-0148.pt|Examination of the cartridge cases found on the sixth floor of the Depository Building|1
+Jenny/mels/06731.pt|Jenny/durations/06731.pt|Jenny/pitch_char/06731.pt|And she was quite willing; and we talked.|0
+LJSpeech-1.1/mels/LJ046-0179.pt|LJSpeech-1.1/durations/LJ046-0179.pt|LJSpeech-1.1/pitch_char/LJ046-0179.pt|being reviewed regularly.|1
+LJSpeech-1.1/mels/LJ007-0150.pt|LJSpeech-1.1/durations/LJ007-0150.pt|LJSpeech-1.1/pitch_char/LJ007-0150.pt|He is allowed intercourse with prostitutes who, in nine cases out of ten, have originally conduced to his ruin;|1
+LJSpeech-1.1/mels/LJ013-0055.pt|LJSpeech-1.1/durations/LJ013-0055.pt|LJSpeech-1.1/pitch_char/LJ013-0055.pt|The jury did not believe him, and the verdict was for the defendants.|1
+Jenny/mels/04258.pt|Jenny/durations/04258.pt|Jenny/pitch_char/04258.pt|Have you any ambition? Miserable ones! How did you escape?|0
+LJSpeech-1.1/mels/LJ009-0037.pt|LJSpeech-1.1/durations/LJ009-0037.pt|LJSpeech-1.1/pitch_char/LJ009-0037.pt|the schoolmaster and the juvenile prisoners being seated round the communion-table, opposite the pulpit.|1
+Jenny/mels/06269.pt|Jenny/durations/06269.pt|Jenny/pitch_char/06269.pt|I'm to put it into shape when he's done the translation.|0
+Jenny/mels/02757.pt|Jenny/durations/02757.pt|Jenny/pitch_char/02757.pt|When did this treatment commence?|0
+Jenny/mels/03329.pt|Jenny/durations/03329.pt|Jenny/pitch_char/03329.pt|Awful play man!|0
+LJSpeech-1.1/mels/LJ008-0266.pt|LJSpeech-1.1/durations/LJ008-0266.pt|LJSpeech-1.1/pitch_char/LJ008-0266.pt|Thus in the years between May first, eighteen twenty-seven, and thirtieth April, eighteen thirty-one,|1
+Jenny/mels/00642.pt|Jenny/durations/00642.pt|Jenny/pitch_char/00642.pt|That's it? Yeah it was really hard.|0
+LJSpeech-1.1/mels/LJ028-0278.pt|LJSpeech-1.1/durations/LJ028-0278.pt|LJSpeech-1.1/pitch_char/LJ028-0278.pt|Zopyrus, when they told him, not thinking that it could be true, went and saw the colt with his own eyes;|1
+Jenny/mels/00463.pt|Jenny/durations/00463.pt|Jenny/pitch_char/00463.pt|Nothing. Oh maybe that's it.|0
+Jenny/mels/03482.pt|Jenny/durations/03482.pt|Jenny/pitch_char/03482.pt|There are three or four more of his like.|0
+LJSpeech-1.1/mels/LJ021-0139.pt|LJSpeech-1.1/durations/LJ021-0139.pt|LJSpeech-1.1/pitch_char/LJ021-0139.pt|There should be at least a full and fair trial given to these means of ending industrial warfare;|1
+LJSpeech-1.1/mels/LJ023-0122.pt|LJSpeech-1.1/durations/LJ023-0122.pt|LJSpeech-1.1/pitch_char/LJ023-0122.pt|It was said in last year's Democratic platform,|1
+LJSpeech-1.1/mels/LJ019-0129.pt|LJSpeech-1.1/durations/LJ019-0129.pt|LJSpeech-1.1/pitch_char/LJ019-0129.pt|which marked the growth of public interest in prison affairs, and which was the germ of the new system|1
+LJSpeech-1.1/mels/LJ019-0248.pt|LJSpeech-1.1/durations/LJ019-0248.pt|LJSpeech-1.1/pitch_char/LJ019-0248.pt|leading to an inequality, uncertainty, and inefficiency of punishment productive of the most prejudicial results.|1
+LJSpeech-1.1/mels/LJ032-0261.pt|LJSpeech-1.1/durations/LJ032-0261.pt|LJSpeech-1.1/pitch_char/LJ032-0261.pt|When he appeared before the Commission, Michael Paine lifted the blanket|1
+Jenny/mels/04108.pt|Jenny/durations/04108.pt|Jenny/pitch_char/04108.pt|I wonder you are not ashamed to acknowledge it!|0
+Jenny/mels/03631.pt|Jenny/durations/03631.pt|Jenny/pitch_char/03631.pt|Is the story as present to your mind now, as it was then?|0
+LJSpeech-1.1/mels/LJ041-0199.pt|LJSpeech-1.1/durations/LJ041-0199.pt|LJSpeech-1.1/pitch_char/LJ041-0199.pt|is shown most clearly by his employment relations after his return from the Soviet Union. Of course, he made his real problems worse to the extent|1
+LJSpeech-1.1/mels/LJ031-0122.pt|LJSpeech-1.1/durations/LJ031-0122.pt|LJSpeech-1.1/pitch_char/LJ031-0122.pt|treated the gunshot wound in the left thigh.|1
+Jenny/mels/02624.pt|Jenny/durations/02624.pt|Jenny/pitch_char/02624.pt|It's a really funny story how this happened. It's all right.|0
+Jenny/mels/04653.pt|Jenny/durations/04653.pt|Jenny/pitch_char/04653.pt|He reminded his people of the church debt.|0
+Jenny/mels/04767.pt|Jenny/durations/04767.pt|Jenny/pitch_char/04767.pt|To be there seemed almost too good to be true.|0
+LJSpeech-1.1/mels/LJ005-0252.pt|LJSpeech-1.1/durations/LJ005-0252.pt|LJSpeech-1.1/pitch_char/LJ005-0252.pt|A committee was appointed, under the presidency of the Duke of Richmond|1
+LJSpeech-1.1/mels/LJ013-0098.pt|LJSpeech-1.1/durations/LJ013-0098.pt|LJSpeech-1.1/pitch_char/LJ013-0098.pt|Mr. Oxenford having denied that he had made any transfer of stock, the matter was at once put into the hands of the police.|1
+Jenny/mels/03425.pt|Jenny/durations/03425.pt|Jenny/pitch_char/03425.pt|There was but one course to take now.|0
+Jenny/mels/01004.pt|Jenny/durations/01004.pt|Jenny/pitch_char/01004.pt|No it's fine. You don't|0
+Jenny/mels/04789.pt|Jenny/durations/04789.pt|Jenny/pitch_char/04789.pt|For the Dauphin, I stand here for him.|0
+LJSpeech-1.1/mels/LJ004-0009.pt|LJSpeech-1.1/durations/LJ004-0009.pt|LJSpeech-1.1/pitch_char/LJ004-0009.pt|as indefatigable and self-sacrificing, found by personal visitation that the condition of jails throughout the kingdom was,|1
+Jenny/mels/01708.pt|Jenny/durations/01708.pt|Jenny/pitch_char/01708.pt|Ma I'm sorry. I just did what I thought you'd want.|0
+LJSpeech-1.1/mels/LJ015-0289.pt|LJSpeech-1.1/durations/LJ015-0289.pt|LJSpeech-1.1/pitch_char/LJ015-0289.pt|As each transaction was carried out from a different address, and a different messenger always employed,|1
+LJSpeech-1.1/mels/LJ021-0025.pt|LJSpeech-1.1/durations/LJ021-0025.pt|LJSpeech-1.1/pitch_char/LJ021-0025.pt|And in many directions, the intervention of that organized control which we call government|1
+Jenny/mels/05758.pt|Jenny/durations/05758.pt|Jenny/pitch_char/05758.pt|This morning! And Billy suffered her to kiss him again.|0
+Jenny/mels/05945.pt|Jenny/durations/05945.pt|Jenny/pitch_char/05945.pt|All cloth to be sold shall be sealed according to this measure. "Sir," said Basque, "Monsieur has just been brought back."|0
+Jenny/mels/01824.pt|Jenny/durations/01824.pt|Jenny/pitch_char/01824.pt|Come on, come on, come on. Really?|0
+Jenny/mels/00590.pt|Jenny/durations/00590.pt|Jenny/pitch_char/00590.pt|Come on. If I go I have to break up with you.|0
+Jenny/mels/03887.pt|Jenny/durations/03887.pt|Jenny/pitch_char/03887.pt|Did your master say anything?|0
+Jenny/mels/05234.pt|Jenny/durations/05234.pt|Jenny/pitch_char/05234.pt|Yes, necessarily.|0
+Jenny/mels/05264.pt|Jenny/durations/05264.pt|Jenny/pitch_char/05264.pt|Why, I love you like the very devil, Saxon. Henri smiled.|0
+Jenny/mels/01912.pt|Jenny/durations/01912.pt|Jenny/pitch_char/01912.pt|Is or are the stones still present?|0
+Jenny/mels/04091.pt|Jenny/durations/04091.pt|Jenny/pitch_char/04091.pt|I don't think you mean that. A peach!|0
+Jenny/mels/04430.pt|Jenny/durations/04430.pt|Jenny/pitch_char/04430.pt|But Solomon was right; there is no second chance, not for most of us.|0
+LJSpeech-1.1/mels/LJ028-0459.pt|LJSpeech-1.1/durations/LJ028-0459.pt|LJSpeech-1.1/pitch_char/LJ028-0459.pt|Its bricks, measuring about thirteen inches square and three inches in thickness, were burned and stamped with the usual short inscription:|1
+LJSpeech-1.1/mels/LJ047-0126.pt|LJSpeech-1.1/durations/LJ047-0126.pt|LJSpeech-1.1/pitch_char/LJ047-0126.pt|we would handle it in due course, in accord with the whole context of the investigation. End quote.|1
+LJSpeech-1.1/mels/LJ016-0054.pt|LJSpeech-1.1/durations/LJ016-0054.pt|LJSpeech-1.1/pitch_char/LJ016-0054.pt|But he did not like the risk of entering a room by the fireplace, and the chances of detection it offered.|1
+LJSpeech-1.1/mels/LJ029-0052.pt|LJSpeech-1.1/durations/LJ029-0052.pt|LJSpeech-1.1/pitch_char/LJ029-0052.pt|To supplement the PRS files, the Secret Service depends largely on local police departments and local offices of other Federal agencies|1
+LJSpeech-1.1/mels/LJ035-0155.pt|LJSpeech-1.1/durations/LJ035-0155.pt|LJSpeech-1.1/pitch_char/LJ035-0155.pt|The only exit from the office in the direction Oswald was moving was through the door to the front stairway.|1
+LJSpeech-1.1/mels/LJ050-0004.pt|LJSpeech-1.1/durations/LJ050-0004.pt|LJSpeech-1.1/pitch_char/LJ050-0004.pt|General Supervision of the Secret Service|1
+Jenny/mels/04360.pt|Jenny/durations/04360.pt|Jenny/pitch_char/04360.pt|And have I not a passport in due form?|0
+LJSpeech-1.1/mels/LJ002-0299.pt|LJSpeech-1.1/durations/LJ002-0299.pt|LJSpeech-1.1/pitch_char/LJ002-0299.pt|and gave the garnish for the common side at that sum, which is five shillings more than Mr. Neild says was extorted on the common side.|1
+LJSpeech-1.1/mels/LJ008-0121.pt|LJSpeech-1.1/durations/LJ008-0121.pt|LJSpeech-1.1/pitch_char/LJ008-0121.pt|After the construction and action of the machine had been explained, the doctor asked the governor what kind of men he had commanded at Goree,|1
+Jenny/mels/06072.pt|Jenny/durations/06072.pt|Jenny/pitch_char/06072.pt|No one can. Do not swear at all.|0
+Jenny/mels/05007.pt|Jenny/durations/05007.pt|Jenny/pitch_char/05007.pt|I know him by the white star on his muzzle.|0
+LJSpeech-1.1/mels/LJ002-0261.pt|LJSpeech-1.1/durations/LJ002-0261.pt|LJSpeech-1.1/pitch_char/LJ002-0261.pt|The poorer prisoners were not in abject want, as in other prisons,|1
+LJSpeech-1.1/mels/LJ017-0231.pt|LJSpeech-1.1/durations/LJ017-0231.pt|LJSpeech-1.1/pitch_char/LJ017-0231.pt|His body was found lying in a pool of blood in a night-dress, stabbed over and over again in the left side.|1
+Jenny/mels/00492.pt|Jenny/durations/00492.pt|Jenny/pitch_char/00492.pt|What do you think of the guys? Our guys? Yeah, our guys. I feel funny talking about that.|0
+Jenny/mels/01261.pt|Jenny/durations/01261.pt|Jenny/pitch_char/01261.pt|When did you first suffer symptoms?|0
+LJSpeech-1.1/mels/LJ032-0085.pt|LJSpeech-1.1/durations/LJ032-0085.pt|LJSpeech-1.1/pitch_char/LJ032-0085.pt|The Hidell signature on the notice of classification was in the handwriting of Oswald.|1
+Jenny/mels/02828.pt|Jenny/durations/02828.pt|Jenny/pitch_char/02828.pt|Which type of aviation do you do?|0
+LJSpeech-1.1/mels/LJ037-0208.pt|LJSpeech-1.1/durations/LJ037-0208.pt|LJSpeech-1.1/pitch_char/LJ037-0208.pt|nineteen dollars, ninety-five cents, plus one dollar, twenty-seven cents shipping charge, had been collected from the consignee, Hidell.|1
+Jenny/mels/04845.pt|Jenny/durations/04845.pt|Jenny/pitch_char/04845.pt|She was far too genuine a woman to do anything of the sort.|0
+Jenny/mels/04448.pt|Jenny/durations/04448.pt|Jenny/pitch_char/04448.pt|It was like the first smile of spring.|0
+Jenny/mels/01812.pt|Jenny/durations/01812.pt|Jenny/pitch_char/01812.pt|You're gonna lose your job. This is not you.|0
+Jenny/mels/01560.pt|Jenny/durations/01560.pt|Jenny/pitch_char/01560.pt|I know there'll be moments|0
+LJSpeech-1.1/mels/LJ032-0180.pt|LJSpeech-1.1/durations/LJ032-0180.pt|LJSpeech-1.1/pitch_char/LJ032-0180.pt|that the fibers were caught in the crevice of the rifle's butt plate, quote, in the recent past, end quote,|1
+Jenny/mels/00804.pt|Jenny/durations/00804.pt|Jenny/pitch_char/00804.pt|I called and there was no answer.|0
+LJSpeech-1.1/mels/LJ019-0145.pt|LJSpeech-1.1/durations/LJ019-0145.pt|LJSpeech-1.1/pitch_char/LJ019-0145.pt|But reformation was only skin deep. Below the surface many of the old evils still rankled.|1
+Jenny/mels/02761.pt|Jenny/durations/02761.pt|Jenny/pitch_char/02761.pt|They take their time. They get the job done. They say that you can't change your parents.|0
+Jenny/mels/06047.pt|Jenny/durations/06047.pt|Jenny/pitch_char/06047.pt|The coachman shall be instantly sent away, Mr. Noel.|0
+Jenny/mels/02056.pt|Jenny/durations/02056.pt|Jenny/pitch_char/02056.pt|Happy birthday, pal! We love you, man. It's funny. My birthday was seven months ago.|0
+LJSpeech-1.1/mels/LJ047-0049.pt|LJSpeech-1.1/durations/LJ047-0049.pt|LJSpeech-1.1/pitch_char/LJ047-0049.pt|Marina Oswald, however, recalled that her husband was upset by this interview.|1
+Jenny/mels/03685.pt|Jenny/durations/03685.pt|Jenny/pitch_char/03685.pt|I go a GOLDSMITH, to return a sculptor.|0
+Jenny/mels/04889.pt|Jenny/durations/04889.pt|Jenny/pitch_char/04889.pt|The work was incomplete, I admit: we demolished the ancient REGIME in deeds; we were not able to suppress it entirely in ideas.|0
+Jenny/mels/06048.pt|Jenny/durations/06048.pt|Jenny/pitch_char/06048.pt|Infirm of purpose! Do not offer wicked gifts, for such he will not receive.|0
+LJSpeech-1.1/mels/LJ025-0081.pt|LJSpeech-1.1/durations/LJ025-0081.pt|LJSpeech-1.1/pitch_char/LJ025-0081.pt|has no permanent digestive cavity or mouth, but takes in its food anywhere and digests, so to speak, all over its body.|1
+LJSpeech-1.1/mels/LJ049-0022.pt|LJSpeech-1.1/durations/LJ049-0022.pt|LJSpeech-1.1/pitch_char/LJ049-0022.pt|The Secret Service believed that it was very doubtful that any President would ride regularly in a vehicle with a fixed top, even though transparent.|1
+LJSpeech-1.1/mels/LJ016-0233.pt|LJSpeech-1.1/durations/LJ016-0233.pt|LJSpeech-1.1/pitch_char/LJ016-0233.pt|In his own profession|1
+LJSpeech-1.1/mels/LJ033-0183.pt|LJSpeech-1.1/durations/LJ033-0183.pt|LJSpeech-1.1/pitch_char/LJ033-0183.pt|it was not surprising that the replica sack made on December one, nineteen sixty-three,|1
+Jenny/mels/02539.pt|Jenny/durations/02539.pt|Jenny/pitch_char/02539.pt|All right. Show's over.|0
+LJSpeech-1.1/mels/LJ014-0186.pt|LJSpeech-1.1/durations/LJ014-0186.pt|LJSpeech-1.1/pitch_char/LJ014-0186.pt|A milliner's porter,|1
+Jenny/mels/04625.pt|Jenny/durations/04625.pt|Jenny/pitch_char/04625.pt|And Jonathan rent his garments, and cast earth upon his head, and prayed.|0
+LJSpeech-1.1/mels/LJ005-0099.pt|LJSpeech-1.1/durations/LJ005-0099.pt|LJSpeech-1.1/pitch_char/LJ005-0099.pt|and report at length upon the condition of the prisons of the country.|1
+LJSpeech-1.1/mels/LJ007-0075.pt|LJSpeech-1.1/durations/LJ007-0075.pt|LJSpeech-1.1/pitch_char/LJ007-0075.pt|as effectually to rebuke and abash the profane spirit of the more insolent and daring of the criminals.|1
+Jenny/mels/06613.pt|Jenny/durations/06613.pt|Jenny/pitch_char/06613.pt|But my boy will grab it as it comes back.|0
+LJSpeech-1.1/mels/LJ014-0146.pt|LJSpeech-1.1/durations/LJ014-0146.pt|LJSpeech-1.1/pitch_char/LJ014-0146.pt|They had to handcuff her by force against the most violent resistance, and still she raged and stormed,|1
+Jenny/mels/06066.pt|Jenny/durations/06066.pt|Jenny/pitch_char/06066.pt|He brought you to me, and me to you.|0
+LJSpeech-1.1/mels/LJ018-0244.pt|LJSpeech-1.1/durations/LJ018-0244.pt|LJSpeech-1.1/pitch_char/LJ018-0244.pt|The effect of establishing the forgeries would be to restore to the Roupell family lands for which a price had already been paid|1
+LJSpeech-1.1/mels/LJ034-0035.pt|LJSpeech-1.1/durations/LJ034-0035.pt|LJSpeech-1.1/pitch_char/LJ034-0035.pt|The position of this palmprint on the carton was parallel with the long axis of the box, and at right angles with the short axis;|1
+Jenny/mels/04916.pt|Jenny/durations/04916.pt|Jenny/pitch_char/04916.pt|I like not fair terms and a villain's mind.|0
+Jenny/mels/05087.pt|Jenny/durations/05087.pt|Jenny/pitch_char/05087.pt|The tranquillity of the hour is the tranquillity of Death.|0

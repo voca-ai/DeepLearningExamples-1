@@ -55,6 +55,10 @@ def parse_args(parser):
     # Mel extraction
     parser.add_argument('-d', '--dataset-path', type=str,
                         default='./', help='Path to dataset')
+    parser.add_argument('--pitch-mean', default=-1, type=float,
+                        help='mean pitch')
+    parser.add_argument('--pitch-std', default=-1, type=float,
+                        help='std pitch')
     parser.add_argument('--wav-text-filelist', required=True,
                         type=str, help='Path to file with audio paths and text')
     parser.add_argument('--text-cleaners', nargs='*',
@@ -162,10 +166,11 @@ def calculate_pitch(wav, durs):
     return pitch_mel, pitch_char, pitch_trichar
 
 
-def normalize_pitch_vectors(pitch_vecs):
+def normalize_pitch_vectors(pitch_vecs,mean,std):
     nonzeros = np.concatenate([v[np.where(v != 0.0)[0]]
                                for v in pitch_vecs.values()])
-    mean, std = np.mean(nonzeros), np.std(nonzeros)
+    if mean <0:
+        mean, std = np.mean(nonzeros), np.std(nonzeros)
 
     for v in pitch_vecs.values():
         zero_idxs = np.where(v == 0.0)[0]
@@ -270,13 +275,15 @@ def main():
         DLLogger.log(step=f'{i+1}/{len(data_loader)} ({nseconds:.2f}s)', data={})
 
     if args.extract_pitch_mel:
-        normalize_pitch_vectors(pitch_vecs['mel'])
+        normalize_pitch_vectors(pitch_vecs['mel'],-1,-1)
         for fname, pitch in pitch_vecs['mel'].items():
             fpath = Path(args.dataset_path, 'pitch_mel', fname + '.pt')
             torch.save(torch.from_numpy(pitch), fpath)
 
     if args.extract_pitch_char:
-        mean, std = normalize_pitch_vectors(pitch_vecs['char'])
+        m = args.pitch_mean
+        s = args.pitch_std
+        mean, std = normalize_pitch_vectors(pitch_vecs['char'],m,s)
         for fname, pitch in pitch_vecs['char'].items():
             fpath = Path(args.dataset_path, 'pitch_char', fname + '.pt')
             torch.save(torch.from_numpy(pitch), fpath)
@@ -284,7 +291,7 @@ def main():
                    mean, std)
 
     if args.extract_pitch_trichar:
-        normalize_pitch_vectors(pitch_vecs['trichar'])
+        normalize_pitch_vectors(pitch_vecs['trichar'],-1,-1)
         for fname, pitch in pitch_vecs['trichar'].items():
             fpath = Path(args.dataset_path, 'pitch_trichar', fname + '.pt')
             torch.save(torch.from_numpy(pitch), fpath)
