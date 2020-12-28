@@ -3,11 +3,12 @@ LJSpeech-1.1/
 output*
 scripts_joc/
 tests/
+venv/
 
 *.pyc
 __pycache__
 
-.idea/
+*.idea/
 .DS_Store
 
 *.swp
