@@ -5,6 +5,4 @@ ADD requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 WORKDIR /workspace/fastpitch
 COPY . .
-RUN bash scripts/download_waveglow.sh
-RUN bash scripts/download_fastpitch.sh
-CMD ["python", "flask_app.py"]
+CMD ["/bin/bash", "entrypoint.sh"]
