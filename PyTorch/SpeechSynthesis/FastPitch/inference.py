@@ -30,6 +30,7 @@ import models
 import time
 import tqdm
 import sys
+import re
 import warnings
 from pathlib import Path
 
@@ -49,6 +50,9 @@ from common.text.text_processing import TextProcessing
 from pitch_transform import pitch_transform_custom
 from waveglow import model as glow
 from waveglow.denoiser import Denoiser
+from common.text.symbols import get_symbols
+
+frame_size = 256 / 22050
 
 sys.modules['glow'] = glow
 
@@ -352,8 +356,17 @@ def main():
                 mel, mel_lens = b['mel'], b['mel_lens']
             else:
                 with torch.no_grad(), gen_measures:
-                    mel, mel_lens, *_ = generator(
+                    mel, mel_lens, dur_pred, pitch_pred = generator(
                         b['text'], b['text_lens'], **gen_kw)
+
+                letters = get_symbols()
+                text = "".join([letters[i] for i in b['text'][0].tolist()])
+                text = text[0:b['text_lens'][0]]
+                spaces = [m.start() for m in re.finditer(' ', text)]
+
+                timings = np.cumsum(np.round(dur_pred.cpu()) * frame_size)
+                word_starts = np.concatenate([np.array([0]), timings[np.array(spaces) + 1]])
+                print( word_starts)
 
                 gen_infer_perf = mel.size(0) * mel.size(2) / gen_measures[-1]
                 all_letters += b['text_lens'].sum().item()
