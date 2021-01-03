@@ -128,14 +128,14 @@ def main():
                 with io.BytesIO() as f:
                     write(f, args.sampling_rate, audio.cpu().numpy())
                     f.seek(0)
-                result = {
-                    "wav": f.read(),
-                    "frame_length": frame_length,
-                    "word_timings": word_timings
-                }
+                    result = {
+                        "wav": f.read(),
+                        "frame_length": frame_length,
+                        "word_timings": word_timings
+                    }
                 buffer = io.BytesIO()
                 torch.save(result, buffer)
-                buffer.seek(0)
+                # buffer.seek(0)
                 return buffer
 
 
