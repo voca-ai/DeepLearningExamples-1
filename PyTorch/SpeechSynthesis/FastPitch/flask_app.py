@@ -13,7 +13,7 @@ def generate_audio():
     text = data.get("text")
     arguments = ["--cuda", "--fastpitch", "pretrained_models/fastpitch/nvidia_fastpitch_200518.pt",
                  "--waveglow", "pretrained_models/waveglow/nvidia_waveglow256pyt_fp16.pt",
-                 "--wn-channels", "256", "-o", "output/wavs_devset10", "-i", text]
+                 "--wn-channels", "256", "-o", "output/wavs_devset10", "--pitch-transform-custom", "-i", text]
     sys.argv += arguments
     return Response(main(), status=200)
 

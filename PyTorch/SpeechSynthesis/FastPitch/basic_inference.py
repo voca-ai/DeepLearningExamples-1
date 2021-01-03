@@ -29,11 +29,17 @@ import io
 import torch
 import warnings
 import argparse
-# import tqdm
+import re
+import numpy as np
 from pathlib import Path
 from scipy.io.wavfile import write
 from waveglow.denoiser import Denoiser
 from inference import load_and_setup_model, prepare_input_sequence, MeasureTime, parse_args, build_pitch_transformation
+from common.text.symbols import get_symbols
+
+
+# TODO  take frame_size out to configuration
+frame_length = 256 / 22050
 
 
 def main():
@@ -70,14 +76,38 @@ def main():
     # reps = args.repeats
     # log_enabled = reps == 1
     # for rep in (tqdm.tqdm(range(reps)) if reps > 1 else range(reps)):
+    # TODO right now code can only run with 1 batch, should implement method for many batches
     for b in batches:
         if generator is None:
             mel, mel_lens = b['mel'], b['mel_lens']
         else:
             with torch.no_grad(), gen_measures:
-                mel, mel_lens, *_ = generator(
+                mel, mel_lens, dur_pred, pitch_pred = generator(
                     b['text'], b['text_lens'], **gen_kw)
-            gen_infer_perf = mel.size(0) * mel.size(2) / gen_measures[-1]
+
+            letters = get_symbols()
+            text = "".join([letters[i] for i in b['text'][0].tolist()])
+            text = text[0:b['text_lens'][0]]
+            text = text.strip()
+            spaces = [m.start() for m in re.finditer(' ', text)]
+            timings = np.cumsum(np.round(dur_pred.cpu()))
+            word_timings = []
+            for idx in range(len(spaces)):
+                if idx == 0:
+                    start = timings[0]
+                    end = timings[spaces[idx] - 1]
+                elif idx < len(spaces) - 1:
+                    start = timings[spaces[idx - 1] + 1]
+                    end = timings[spaces[idx] - 1]
+                else:
+                    start = timings[spaces[idx] + 1]
+                    end = timings[-1]
+                word_timings.append([start, end])
+            print(word_timings)
+
+            # word_starts = np.concatenate([np.array([0]), timings[np.array(spaces) + 1]])
+            # print(word_starts)
+
             all_letters += b['text_lens'].sum().item()
             all_frames += mel.size(0) * mel.size(2)
         if waveglow is not None:
@@ -88,9 +118,6 @@ def main():
                                   ).squeeze(1)
             all_utterances += len(audios)
             all_samples += sum(audio.size(0) for audio in audios)
-            # waveglow_infer_perf = (
-            #     audios.size(0) * audios.size(1) / waveglow_measures[-1])
-            # if args.output is not None and reps == 1:
             for i, audio in enumerate(audios):
                 audio = audio[:mel_lens[i].item() * args.stft_hop_length]
                 if args.fade_out:
@@ -98,14 +125,18 @@ def main():
                     fade_w = torch.linspace(1.0, 0.0, fade_len)
                     audio[-fade_len:] *= fade_w.to(audio.device)
                 audio = audio / torch.max(torch.abs(audio))
-                # fname = b['output'][i] if 'output' in b else f'audio_{i}.wav'
-                # audio_path = Path(args.output, fname)
-                # torch.save(torch.squeeze(mel, 0), str(audio_path).replace('.wav','_mel.pt'),
-                #            _use_new_zipfile_serialization=False)
                 with io.BytesIO() as f:
                     write(f, args.sampling_rate, audio.cpu().numpy())
                     f.seek(0)
-                    return f.read()
+                result = {
+                    "wav": f.read(),
+                    "frame_length": frame_length,
+                    "word_timings": word_timings
+                }
+                buffer = io.BytesIO()
+                torch.save(result, buffer)
+                buffer.seek(0)
+                return buffer
 
 
 if __name__ == '__main__':
