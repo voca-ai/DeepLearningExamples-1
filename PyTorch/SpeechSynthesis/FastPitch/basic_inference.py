@@ -135,7 +135,7 @@ def main():
                     }
                 buffer = io.BytesIO()
                 torch.save(result, buffer)
-                # buffer.seek(0)
+                buffer.seek(0)
                 return buffer
 
 
