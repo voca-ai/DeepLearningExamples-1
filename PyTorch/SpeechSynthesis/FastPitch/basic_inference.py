@@ -42,26 +42,6 @@ from common.text.symbols import get_symbols
 frame_length = 256 / 22050
 
 
-def get_word_timings(spaces, timings):
-    word_timings = []
-    if len(spaces) == 0:
-        word_timings = [[timings[0], timings[-1]]]
-    else:
-        for idx in range(len(spaces)):
-            if idx == 0:
-                start = timings[0]
-                end = timings[spaces[idx] - 1]
-            elif idx < len(spaces) - 1:
-                start = timings[spaces[idx - 1] + 1]
-                end = timings[spaces[idx] - 1]
-            else:
-                print(idx)
-                start = timings[spaces[-2] + 1]
-                end = timings[-2]
-            word_timings.append([start, end])
-    return word_timings
-
-
 def main():
     parser = argparse.ArgumentParser(description='PyTorch FastPitch Inference',
                                      allow_abbrev=False)
@@ -108,12 +88,12 @@ def main():
             letters = get_symbols()
             text = "".join([letters[i] for i in b['text'][0].tolist()])
             text = text[0:b['text_lens'][0]]
-            text = text.strip()
-            text += " "
-            spaces = [m.start() for m in re.finditer(' ', text)]
+            # text = text.strip()
+            # text += " "
+            # spaces = [m.start() for m in re.finditer(' ', text)]
             timings = np.cumsum(np.round(dur_pred.cpu()))
-            word_timings = get_word_timings(spaces, timings)
-            print(word_timings)
+            # word_timings = get_word_timings(spaces, timings)
+            # print(word_timings)
 
             # word_starts = np.concatenate([np.array([0]), timings[np.array(spaces) + 1]])
             # print(word_starts)
@@ -141,7 +121,8 @@ def main():
                     result = {
                         "wav": f.read(),
                         "frame_length": frame_length,
-                        "word_timings": word_timings
+                        "timings": timings,
+                        "text": text
                     }
                 buffer = io.BytesIO()
                 torch.save(result, buffer)
