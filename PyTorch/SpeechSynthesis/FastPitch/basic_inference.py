@@ -92,7 +92,7 @@ def main():
             spaces = [m.start() for m in re.finditer(' ', text)]
             timings = np.cumsum(np.round(dur_pred.cpu()))
             word_timings = []
-            for idx in range(len(spaces)):
+            for idx in range(len(spaces) + 1):
                 if idx == 0:
                     start = timings[0]
                     end = timings[spaces[idx] - 1]
@@ -100,7 +100,7 @@ def main():
                     start = timings[spaces[idx - 1] + 1]
                     end = timings[spaces[idx] - 1]
                 else:
-                    start = timings[spaces[idx] + 1]
+                    start = timings[spaces[-1] + 1]
                     end = timings[-1]
                 word_timings.append([start, end])
             print(word_timings)
