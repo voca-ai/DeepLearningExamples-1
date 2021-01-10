@@ -30,6 +30,7 @@ import torch
 import warnings
 import argparse
 import re
+import logging
 import numpy as np
 from pathlib import Path
 from scipy.io.wavfile import write
@@ -41,24 +42,33 @@ from common.text.symbols import get_symbols
 # TODO  take frame_size out to configuration
 frame_length = 256 / 22050
 
+logging.basicConfig(
+        level=logging.DEBUG,
+        format="%(asctime)s.%(msecs)03d %(levelname)s %(module)s - %(funcName)s: %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
+    )
+logger = logging.getLogger("TTS Engine")
 
-def main():
+
+def main(generator, denoiser, waveglow, device):
+
     parser = argparse.ArgumentParser(description='PyTorch FastPitch Inference',
                                      allow_abbrev=False)
     parser = parse_args(parser)
     args, unk_args = parser.parse_known_args()
-    device = torch.device('cuda' if args.cuda else 'cpu')
-    generator = load_and_setup_model(
-        'FastPitch', parser, args.fastpitch, args.amp, device,
-        unk_args=unk_args, forward_is_infer=True, ema=args.ema,
-        jitable=args.torchscript)
-    with warnings.catch_warnings():
-        warnings.simplefilter("ignore")
-        waveglow = load_and_setup_model(
-            'WaveGlow', parser, args.waveglow, args.amp, device,
-            unk_args=unk_args, forward_is_infer=True, ema=args.ema)
-    denoiser = Denoiser(waveglow).to(device)
-    waveglow = getattr(waveglow, 'infer', waveglow)
+    logger.info("request received", extra={"text": args.input})
+    # device = torch.device('cuda' if args.cuda else 'cpu')
+    # generator = load_and_setup_model(
+    #     'FastPitch', parser, args.fastpitch, args.amp, device,
+    #     unk_args=unk_args, forward_is_infer=True, ema=args.ema,
+    #     jitable=args.torchscript)
+    # with warnings.catch_warnings():
+    #     warnings.simplefilter("ignore")
+    #     waveglow = load_and_setup_model(
+    #         'WaveGlow', parser, args.waveglow, args.amp, device,
+    #         unk_args=unk_args, forward_is_infer=True, ema=args.ema)
+    # denoiser = Denoiser(waveglow).to(device)
+    # waveglow = getattr(waveglow, 'infer', waveglow)
     fields = {"text": [args.input]}
     batches = prepare_input_sequence(
         fields, device, args.symbol_set, args.text_cleaners, args.batch_size,
@@ -127,8 +137,35 @@ def main():
                 buffer = io.BytesIO()
                 torch.save(result, buffer)
                 buffer.seek(0)
+                logger.info("returning response..")
                 return buffer
 
 
 if __name__ == '__main__':
-    main()
+    import sys
+
+
+    arguments = ["--cuda", "--fastpitch", "pretrained_models/fastpitch/nvidia_fastpitch_200518.pt",
+                 "--waveglow", "pretrained_models/waveglow/nvidia_waveglow256pyt_fp16.pt",
+                 "--wn-channels", "256", "-o", "output/wavs_devset10", "--pitch-transform-custom", "-i"]
+    sys.argv += arguments
+    parser = argparse.ArgumentParser(description='Flask engine args', allow_abbrev=False)
+    parser = parse_args(parser)
+    args, unk_args = parser.parse_known_args()
+
+    logger.info("loading models")
+    device = torch.device('cuda' if args.cuda else 'cpu')
+    generator = load_and_setup_model(
+        'FastPitch', parser, args.fastpitch, args.amp, device,
+        unk_args=unk_args, forward_is_infer=True, ema=args.ema,
+        jitable=args.torchscript)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        waveglow = load_and_setup_model(
+            'WaveGlow', parser, args.waveglow, args.amp, device,
+            unk_args=unk_args, forward_is_infer=True, ema=args.ema)
+    denoiser = Denoiser(waveglow).to(device)
+    waveglow = getattr(waveglow, 'infer', waveglow)
+    logger.info("finished loading models")
+    logger.info("running main()")
+    main(generator, denoiser, waveglow, device)
