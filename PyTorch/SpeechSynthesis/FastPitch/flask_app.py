@@ -5,6 +5,7 @@ import argparse
 import torch
 import warnings
 import logging
+from pythonjsonlogger import jsonlogger
 from waveglow.denoiser import Denoiser
 from inference import load_and_setup_model, parse_args
 
@@ -17,39 +18,46 @@ logging.basicConfig(
         format="%(asctime)s.%(msecs)03d %(levelname)s %(module)s - %(funcName)s: %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S",
     )
-logger = logging.getLogger(__name__)
 
-arguments = ["--cuda", "--fastpitch", "pretrained_models/fastpitch/nvidia_fastpitch_200518.pt",
-                 "--waveglow", "pretrained_models/waveglow/nvidia_waveglow256pyt_fp16.pt",
-                 "--wn-channels", "256", "-o", "output/wavs_devset10", "--pitch-transform-custom", "-i", "text"]
-sys.argv += arguments
-parser = argparse.ArgumentParser(description='Flask engine args', allow_abbrev=False)
-parser = parse_args(parser)
-args, unk_args = parser.parse_known_args()
 
-logger.info("loading models")
-device = torch.device('cuda' if args.cuda else 'cpu')
-generator = load_and_setup_model(
-    'FastPitch', parser, args.fastpitch, args.amp, device,
-    unk_args=unk_args, forward_is_infer=True, ema=args.ema,
-    jitable=args.torchscript)
-with warnings.catch_warnings():
-    warnings.simplefilter("ignore")
-    waveglow = load_and_setup_model(
-        'WaveGlow', parser, args.waveglow, args.amp, device,
-        unk_args=unk_args, forward_is_infer=True, ema=args.ema)
-denoiser = Denoiser(waveglow).to(device)
-waveglow = getattr(waveglow, 'infer', waveglow)
-logger.info("finished loading models")
+class Init:
+    SERVICE_NAME = "FastPitchTTS"
+    logger = logging.getLogger(SERVICE_NAME)
+    formatter = jsonlogger.JsonFormatter()
+    logHandler = logging.StreamHandler()
+    logHandler.setFormatter(formatter)
+    logger.addHandler(logHandler)
+    arguments = ["--cuda", "--fastpitch", "pretrained_models/fastpitch/nvidia_fastpitch_200518.pt",
+                     "--waveglow", "pretrained_models/waveglow/nvidia_waveglow256pyt_fp16.pt",
+                     "--wn-channels", "256", "-o", "output/wavs_devset10", "--pitch-transform-custom", "-i", "text"]
+    sys.argv += arguments
+    parser = argparse.ArgumentParser(description='Flask engine args', allow_abbrev=False)
+    parser = parse_args(parser)
+    args, unk_args = parser.parse_known_args()
+
+    logger.info("loading models")
+    device = torch.device('cuda' if args.cuda else 'cpu')
+    generator = load_and_setup_model(
+        'FastPitch', parser, args.fastpitch, args.amp, device,
+        unk_args=unk_args, forward_is_infer=True, ema=args.ema,
+        jitable=args.torchscript)
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        waveglow = load_and_setup_model(
+            'WaveGlow', parser, args.waveglow, args.amp, device,
+            unk_args=unk_args, forward_is_infer=True, ema=args.ema)
+    denoiser = Denoiser(waveglow).to(device)
+    waveglow = getattr(waveglow, 'infer', waveglow)
+    logger.info("finished loading models")
 
 
 @app.route("/generate", methods=["POST"])
 def generate_audio():
     data = json.loads(request.get_data())
     text = data.get("text")
-    logger.info("request received", extra={"text": text})
+    Init.logger.info("request received", extra={"text": text})
     sys.argv[-1] = text
-    return Response(main(generator, denoiser, waveglow, device), status=200)
+    return Response(main(), status=200)
 
 
 if __name__ == "__main__":

@@ -37,20 +37,20 @@ from scipy.io.wavfile import write
 from waveglow.denoiser import Denoiser
 from inference import load_and_setup_model, prepare_input_sequence, MeasureTime, parse_args, build_pitch_transformation
 from common.text.symbols import get_symbols
+from flask_app import Init
 
 
 # TODO  take frame_size out to configuration
 frame_length = 256 / 22050
 
-logging.basicConfig(
-        level=logging.DEBUG,
-        format="%(asctime)s.%(msecs)03d %(levelname)s %(module)s - %(funcName)s: %(message)s",
-        datefmt="%Y-%m-%d %H:%M:%S",
-    )
-logger = logging.getLogger("TTS Engine")
+logger = logging.getLogger(Init.SERVICE_NAME)
 
 
-def main(generator, denoiser, waveglow, device):
+def main():
+    generator = Init.generator
+    denoiser = Init.denoiser
+    waveglow = Init.waveglow
+    device = Init.device
 
     parser = argparse.ArgumentParser(description='PyTorch FastPitch Inference',
                                      allow_abbrev=False)
